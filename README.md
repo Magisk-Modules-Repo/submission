@@ -18,7 +18,7 @@ This is the place for developers to submit their Magisk Module to the [Magisk-Mo
 - A module that is simply a plagiarism of an existing module. In layman's term: don't copy others work.
 
 ## Submission
-1. [Creating an issue](https://github.com/Magisk-Modules-Repo/submission/issues/new) with the title starting with **`[Submission]`**. The body of the issue is a **GitHub link** (no other site support) of your own **module's repository**.
+1. [Create an issue](https://github.com/Magisk-Modules-Repo/submission/issues/new) with the title starting with **`[Submission]`**. The body of the issue is the **GitHub link** of your own **module's repository**.
 2. A moderator will review your module and decide whether your module is **approved** or **rejected**.
 3. Once approved, your module will be cloned to [Magisk-Modules-Repo](https://github.com/Magisk-Modules-Repo), and a collaboration invitation will be sent to your email so you have admin permissions to the module.
 

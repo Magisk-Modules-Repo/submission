@@ -15,7 +15,7 @@ This is the place for developers to submit their Magisk Module to the [Magisk-Mo
 - A repo without `master` branch.
 - A module that only contains some simple boot scripts.
 - A module that only uses `system.prop` to modify system props.
-- A module that is simply a plagiarism of an existing module. In layman's term: don't copy others work.
+- A module that is simply a duplicate of an existing module, or only small modification are done. In layman's term: no plagiarism.
 
 ## Submission
 1. [Create an issue](https://github.com/Magisk-Modules-Repo/submission/issues/new) with the title starting with **`[Submission]`**. The body of the issue is the **GitHub link** of your own **module's repository**.

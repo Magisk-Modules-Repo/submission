@@ -1,16 +1,30 @@
 # Magisk Repo Submissions
 This is the place for developers to submit their Magisk Module to the [Magisk-Modules-Repo](https://github.com/Magisk-Modules-Repo).
 
-## Instructions
-1. Please read the [full documentation](https://github.com/topjohnwu/Magisk/blob/master/docs/README.MD). You are expected to have decent knowledge to both Magisk and `git` in order to do a submission
-2. Create a new Github repository in your personal account, and push your module files to the repo. If you do not want to start from scratch, the [magisk-module-template](https://github.com/topjohnwu/magisk-module-template) will be a good start.
-3. **Only the `master` branch will be visible to the user!** If you are using the module template, you have to manually create the `master` branch. **Submissions with no `master` branch will not be accepted!**
-4. File a request by [creating an issue](https://github.com/Magisk-Modules-Repo/submission/issues/new). The title of the new issue should start with **`[Submission]`**, and you should provide a **GitHub link** (no other site support) of your own **module's repository**.
-5. A collaboration invitation will be sent to your email, please accept it so you have permissions to update your repo.
+## Prerequisite
+1. Read the [Magisk Documentation](https://github.com/topjohnwu/Magisk/blob/master/docs/README.MD). Module developers are expected to be familiar with Magisk and GitHub.
+2. Create a repository with your personal GitHub account, and host your module in the repo.
 
-## Remove a Module
-Once you accepted the invitation for collaboration on GitHub, you have **admin** permission; this means you can delete it yourself via GitHub.
+## Requirements
+- A valid Magisk Module. (e.g. proper and unique `id`, `versionCode` should be an integer etc.)
+- A well formatted `README.md` containing information about the module.
+- English must be used in `README.md`, other languages are allowed.
+- No material infringing copyright.
+
+## What Will NOT be Approved
+- A repo without `master` branch.
+- A module that only contains some simple boot scripts.
+- A module that only uses `system.prop` to modify system props.
+- A module that is simply a plagiarism of an existing module. In layman's term: don't copy others work.
+
+## Submission
+1. [Creating an issue](https://github.com/Magisk-Modules-Repo/submission/issues/new) with the title starting with **`[Submission]`**. The body of the issue is a **GitHub link** (no other site support) of your own **module's repository**.
+2. A moderator will review your module and decide whether your module is **approved** or **rejected**.
+3. Once approved, your module will be cloned to [Magisk-Modules-Repo](https://github.com/Magisk-Modules-Repo), and a collaboration invitation will be sent to your email so you have admin permissions to the module.
+
+## Removal
+- Once you accepted the invitation for collaboration on GitHub, you have **admin** permission; this means you can delete the module yourself via GitHub.
 
 ## Notes
-- After you accepted the invitation, **you should update your module directly to the repo on [Magisk-Modules-Repo](https://github.com/Magisk-Modules-Repo), NOT your personal repo!** Once your repo is successfully cloned to [Magisk-Modules-Repo](https://github.com/Magisk-Modules-Repo), you can delete the one on your account afterwards since it will no longer be used.
-- Every time you finish upgrading your repo, increase the `versionCode` in `module.prop`. Magisk Manager compare this value with the local installed module to determine whether an update is available.
+- You should update your module directly to the repo on [Magisk-Modules-Repo](https://github.com/Magisk-Modules-Repo), NOT your personal repo! Your personal repository hosting your module will not be used by Magisk in any way.
+- Every time you finish upgrading your repo, increment `versionCode` in `module.prop`. Magisk Manager compare this value with the local installed module to determine whether an update is available.

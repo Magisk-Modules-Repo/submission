@@ -2,7 +2,7 @@
 This is the place for developers to submit their Magisk Module to the [Magisk-Modules-Repo](https://github.com/Magisk-Modules-Repo).
 
 ## Announcements
-- **2018.10.14**: Existing modules that are considered "inappropriate" by the moderation team are removed from Magisk-Modules-Repo. In case of developers that have no backup of their own modules, all removed modules are moved to [Magisk-Modules-Grave](https://github.com/Magisk-Modules-Grave) instead of being deleted. [Magisk-Modules-Grave](https://github.com/Magisk-Modules-Grave) is scheduled to be removed on **November 1st, 2018**; you have more than half a month before the module is actually removed from GitHub.
+- **2018.10.14**: Existing modules that are considered "inappropriate" by the moderation team (full list [here](https://pastebin.com/zS5kSPNy)) are removed from Magisk-Modules-Repo. In case of developers that have no backup of their own modules, all removed modules are moved to [Magisk-Modules-Grave](https://github.com/Magisk-Modules-Grave) instead of being deleted. [Magisk-Modules-Grave](https://github.com/Magisk-Modules-Grave) is scheduled to be removed on **November 1st, 2018**; you have more than half a month before the module is actually removed from GitHub.
 
 ## Prerequisite
 1. Read the [Magisk Documentation](https://github.com/topjohnwu/Magisk/blob/master/docs/README.MD). Module developers are expected to be familiar with Magisk and GitHub.

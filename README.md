@@ -17,11 +17,13 @@ You might want to [follow me on Twitter](https://twitter.com/topjohnwu) for real
 - No material infringing copyright.
 
 ## What Will NOT be Approved
+- If you cannot properly submit a module, it means you cannot even read basic instructions.  
+Your module will never get approved even if you get it right after multiple "tries".
 - A repo without `master` branch.
 - A module that only contains some simple boot scripts.
 - A module that only uses `system.prop` to modify system props.
-- A module that is simply a duplicate of an existing module, or only small modification are done.  
-In layman's term: no plagiarism.
+- A module that is simply a duplicate of an existing module, or only little modifications are done.  
+In other words: no plagiarism.
 
 ## Submission
 1. [Create an issue](https://github.com/Magisk-Modules-Repo/submission/issues/new) with the title starting with **`[Submission]`**. The body of the issue is the **GitHub link** of your own **module's repository**.

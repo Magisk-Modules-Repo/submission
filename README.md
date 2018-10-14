@@ -13,7 +13,7 @@ You might want to [follow me on Twitter](https://twitter.com/topjohnwu) for real
 ## Requirements
 - A valid Magisk Module. (e.g. proper and unique `id`, `versionCode` should be an integer etc.)
 - A well formatted `README.md` containing information about the module.
-- English must be used in `README.md`, other languages are allowed.
+- English must be used in `README.md`, other languages are not allowed.
 - No material infringing copyright.
 
 ## What Will NOT be Approved

@@ -7,7 +7,7 @@ You might want to [follow me on Twitter](https://twitter.com/topjohnwu) for real
 - **2018.10.14**: Existing modules that are considered "inappropriate" by the moderation team are removed from Magisk-Modules-Repo (full list [here](https://pastebin.com/zS5kSPNy)). In case of developers that have no backup of their own modules, all removed modules are moved to [Magisk-Modules-Grave](https://github.com/Magisk-Modules-Grave) instead of being deleted. [Magisk-Modules-Grave](https://github.com/Magisk-Modules-Grave) is scheduled to be removed on **November 1st, 2018**; you have more than half a month before the module is actually removed from GitHub.
 
 ## Prerequisite
-1. Read the [Magisk Documentation](https://github.com/topjohnwu/Magisk/blob/master/docs/README.MD). Module developers are expected to be familiar with Magisk and GitHub.
+1. Read the [Magisk Documentation](https://topjohnwu.github.io/Magisk/). Module developers are expected to be familiar with Magisk and GitHub.
 2. Create a repository with your personal GitHub account, and host your module in the repo.
 
 ## Requirements

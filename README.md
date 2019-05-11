@@ -4,6 +4,7 @@ This is the place for developers to submit their Magisk Module to the [Magisk-Mo
 You might want to [follow me on Twitter](https://twitter.com/topjohnwu) for real-time announcements about the status of the MagiskBot server, emergency issues, new rules or features etc.
 
 ## Announcements
+- **2019.5.10**: All repos on [Magisk-Modules-Grave](https://github.com/Magisk-Modules-Grave) is removed before scheduled date due to ID clashes.
 - **2019.5.1**: 140 outdated modules are removed from Magisk-Modules-Repo. Removed modules are moved to [Magisk-Modules-Grave](https://github.com/Magisk-Modules-Grave), and scheduled to be wiped out on **2019.6.1**.
 - **2019.3.28**: A new Magisk installer format is now enforced. Please carefully read through the [updated documentations](https://topjohnwu.github.io/Magisk/guides.html) to learn how to migrate to the new format. All modules that are not updated will be removed on May 1st, 2019.
 - **2018.10.16**: All DNS related modules are restored back to Magisk-Modules-Repo.

@@ -23,9 +23,8 @@ You might want to [follow me on Twitter](https://twitter.com/topjohnwu) for real
 - Every time you finish upgrading your repo, increment `versionCode` in `module.prop`. Magisk Manager compare this value with the local installed module to determine whether an update is available.
 
 ## What Will NOT be Approved
-- If you cannot properly submit a module, it means you cannot even read basic instructions.  
-Your module will never get approved even if you get it right after multiple "tries".
-- A repo that does not follow the format of [Magisk Module Installer](https://github.com/topjohnwu/magisk-module-installer).
+- If you failed to submit a module mulitple times, it shows that you cannot even read basic instructions.  
+Your module will never get approved even if you get it right in the future.
 - A repo without `master` branch.
 - A module that only contains some simple boot scripts.
 - A module that only uses `system.prop` to modify system props.

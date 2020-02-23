@@ -8,7 +8,7 @@ You might want to [follow me on Twitter](https://twitter.com/topjohnwu) for real
 
 ## Requirements
 - A valid Magisk Module. Please read the [Developer Guides](https://topjohnwu.github.io/Magisk/guides.html) for instructions.
-- A well formatted `README.md` containing information about the module. English must be used in `README.md`; other languages are still allowed.
+- A well formatted `README.md` containing information about the module. English has to be be used in `README.md`; other languages can be allowed for some specific modules.
 
 ## Submission
 1. [Create an issue](https://github.com/Magisk-Modules-Repo/submission/issues/new) with the title starting with **`[Submission]`**. The body of the issue is the **GitHub link** of your own **module's repository**.
@@ -28,5 +28,6 @@ Your module will never get approved even if you get it right in the future.
 - A repo without `master` branch.
 - A module that only contains some simple boot scripts.
 - A module that only uses `system.prop` to modify system props.
+- Fonts and emojis modules (there's already [Font Changer](https://github.com/Magisk-Modules-Repo/Fontchanger) to manage them).
 - A module that is simply a duplicate of an existing module, or only little modifications are done.  
 In other words: no plagiarism.

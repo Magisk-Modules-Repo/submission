@@ -1,0 +1,6 @@
+* Xposed Framework module for installation via Magisk.
+* Xposed Installer app path: /system/priv-app.
+
+## Requirements: 
+- Android 4.4 (arm-SDK19)
+- Magisk v19.0+

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1602185270000,
+  "last_update": 1602292845000,
   "modules": [
+    {
+      "id": "v2ray",
+      "last_update": 1602292845000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/v2ray@1a55755932c5dc3475d0ac986fb28c26d24aa642/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/v2ray/archive/1a55755932c5dc3475d0ac986fb28c26d24aa642.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/v2ray@1a55755932c5dc3475d0ac986fb28c26d24aa642/README.md"
+    },
     {
       "id": "BluetoothLibraryPatcher",
       "last_update": 1602185270000,
@@ -183,13 +190,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ExSDCard@06abe4652c9b3db8145f68a09d6cb37cfa26d1e0/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/ExSDCard/archive/06abe4652c9b3db8145f68a09d6cb37cfa26d1e0.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ExSDCard@06abe4652c9b3db8145f68a09d6cb37cfa26d1e0/README.md"
-    },
-    {
-      "id": "v2ray",
-      "last_update": 1597564042000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/v2ray@73a4c9c07d4b2d83ddeee0549ce6cf39c138b21f/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/v2ray/archive/73a4c9c07d4b2d83ddeee0549ce6cf39c138b21f.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/v2ray@73a4c9c07d4b2d83ddeee0549ce6cf39c138b21f/README.md"
     },
     {
       "id": "riru_edxposed_sandhook",

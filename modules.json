@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1602327890000,
+  "last_update": 1602517342000,
   "modules": [
+    {
+      "id": "GoogleDialerFramework",
+      "last_update": 1602517342000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/GoogleDialerFramework@db0756b7bb470ea9bc03461577d7a69c4565cfd7/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/archive/db0756b7bb470ea9bc03461577d7a69c4565cfd7.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/GoogleDialerFramework@db0756b7bb470ea9bc03461577d7a69c4565cfd7/README.md"
+    },
     {
       "id": "WDAnimationcxair",
       "last_update": 1602327890000,
@@ -29,13 +36,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@e3063ad6672bdd4d9461d369ab17342059162bbc/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/e3063ad6672bdd4d9461d369ab17342059162bbc.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@e3063ad6672bdd4d9461d369ab17342059162bbc/README.md"
-    },
-    {
-      "id": "GoogleDialerFramework",
-      "last_update": 1602161843000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/GoogleDialerFramework@ca457be148bac20b0264032b7d898860fd23f9ea/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/archive/ca457be148bac20b0264032b7d898860fd23f9ea.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/GoogleDialerFramework@ca457be148bac20b0264032b7d898860fd23f9ea/README.md"
     },
     {
       "id": "MagiskHidePropsConf",

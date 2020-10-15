@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1602683385000,
+  "last_update": 1602751482000,
   "modules": [
     {
       "id": "acc",
-      "last_update": 1602683385000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@02e64be927c31b1d34510b70a15d6eb99462bf09/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/02e64be927c31b1d34510b70a15d6eb99462bf09.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@02e64be927c31b1d34510b70a15d6eb99462bf09/README.md"
+      "last_update": 1602751482000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@2f88352ede885441b24fcb8f64b06749134a2dae/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/2f88352ede885441b24fcb8f64b06749134a2dae.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@2f88352ede885441b24fcb8f64b06749134a2dae/README.md"
     },
     {
       "id": "ccbins",

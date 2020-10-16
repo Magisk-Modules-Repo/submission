@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1602766687000,
+  "last_update": 1602821379000,
   "modules": [
     {
       "id": "energizedprotection",
-      "last_update": 1602766687000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/energizedprotection@30972e84240f680e5d07026f651227d281699b69/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/30972e84240f680e5d07026f651227d281699b69.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/energizedprotection@30972e84240f680e5d07026f651227d281699b69/README.md"
+      "last_update": 1602821379000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/energizedprotection@7fd8f2ffdad121cbb80dece81c130b99d2be8875/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/7fd8f2ffdad121cbb80dece81c130b99d2be8875.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/energizedprotection@7fd8f2ffdad121cbb80dece81c130b99d2be8875/README.md"
     },
     {
       "id": "acc",

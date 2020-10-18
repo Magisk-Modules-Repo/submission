@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1602821679000,
+  "last_update": 1602979437000,
   "modules": [
+    {
+      "id": "nano-ndk",
+      "last_update": 1602979437000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@1ce561abc97872310fddf30506d2f4ab6f82d23f/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/1ce561abc97872310fddf30506d2f4ab6f82d23f.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@1ce561abc97872310fddf30506d2f4ab6f82d23f/README.md"
+    },
     {
       "id": "energizedprotection",
       "last_update": 1602821679000,
@@ -141,13 +148,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/airaudio@1651bc905350b3a915adb53fb51ebecc66d2e663/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/airaudio/archive/1651bc905350b3a915adb53fb51ebecc66d2e663.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/airaudio@1651bc905350b3a915adb53fb51ebecc66d2e663/README.md"
-    },
-    {
-      "id": "nano-ndk",
-      "last_update": 1599760519000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@15ee55f603ade9f492a6a9b76a04888e6ffdc6c0/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/15ee55f603ade9f492a6a9b76a04888e6ffdc6c0.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@15ee55f603ade9f492a6a9b76a04888e6ffdc6c0/README.md"
     },
     {
       "id": "dnscrypt-proxy2",

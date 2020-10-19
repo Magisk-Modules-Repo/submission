@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1602979437000,
+  "last_update": 1603143457000,
   "modules": [
+    {
+      "id": "acp",
+      "last_update": 1603143457000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@9eb4e890ec4dd15b67c5fe62bf1dfa333b3f230c/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/acp/archive/9eb4e890ec4dd15b67c5fe62bf1dfa333b3f230c.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@9eb4e890ec4dd15b67c5fe62bf1dfa333b3f230c/README.md"
+    },
     {
       "id": "nano-ndk",
       "last_update": 1602979437000,
@@ -743,13 +750,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ASUS-Style-Suite@5ea9cabd62446efa34fda2ad9b5be6a0cb5f1306/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/ASUS-Style-Suite/archive/5ea9cabd62446efa34fda2ad9b5be6a0cb5f1306.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ASUS-Style-Suite@5ea9cabd62446efa34fda2ad9b5be6a0cb5f1306/README.md"
-    },
-    {
-      "id": "acp",
-      "last_update": 1554094004000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@db330af77eddc7593d06a2dd8ba6d40262b8f3b6/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/acp/archive/db330af77eddc7593d06a2dd8ba6d40262b8f3b6.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@db330af77eddc7593d06a2dd8ba6d40262b8f3b6/README.md"
     },
     {
       "id": "liboemcryptodisabler",

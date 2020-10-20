@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1603143457000,
+  "last_update": 1603226396000,
   "modules": [
+    {
+      "id": "ccbins",
+      "last_update": 1603226396000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@a0e240c197df95299c0d89fbd2456d72ca34c94a/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/ccbins/archive/a0e240c197df95299c0d89fbd2456d72ca34c94a.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@a0e240c197df95299c0d89fbd2456d72ca34c94a/README.md"
+    },
     {
       "id": "acp",
       "last_update": 1603143457000,
@@ -29,13 +36,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@2f88352ede885441b24fcb8f64b06749134a2dae/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/2f88352ede885441b24fcb8f64b06749134a2dae.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@2f88352ede885441b24fcb8f64b06749134a2dae/README.md"
-    },
-    {
-      "id": "ccbins",
-      "last_update": 1602593964000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@bde14aa62fd666b45d67c93da167a607e240ea2e/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/ccbins/archive/bde14aa62fd666b45d67c93da167a607e240ea2e.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@bde14aa62fd666b45d67c93da167a607e240ea2e/README.md"
     },
     {
       "id": "GoogleDialerFramework",

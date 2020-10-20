@@ -563,6 +563,13 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/aria2c@cb839ae368b3ed9fe606e77aed2e926bb674b4de/README.md"
     },
     {
+      "id": "Pix3lify",
+      "last_update": 1570707773000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Pix3lify@e60bbc90477cf9fa268b9e35c82b4e69145c1292/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/Pix3lify/archive/e60bbc90477cf9fa268b9e35c82b4e69145c1292.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Pix3lify@e60bbc90477cf9fa268b9e35c82b4e69145c1292/README.md"
+    },
+    {
       "id": "optmizedgpsconf",
       "last_update": 1570558957000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/optmizedgpsconf@1db95381755edbdc2545ffd1cea744cc89918a0b/module.prop",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1603314832000,
+  "last_update": 1603330677000,
   "modules": [
+    {
+      "id": "acp",
+      "last_update": 1603330677000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@3bb8d5127f97882f9db2217cd5b97e0791e1251f/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/acp/archive/3bb8d5127f97882f9db2217cd5b97e0791e1251f.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@3bb8d5127f97882f9db2217cd5b97e0791e1251f/README.md"
+    },
     {
       "id": "magisk-frida",
       "last_update": 1603314832000,
@@ -15,13 +22,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@494061bf742dceedc7f64b635bf029f03e5c5205/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/ccbins/archive/494061bf742dceedc7f64b635bf029f03e5c5205.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@494061bf742dceedc7f64b635bf029f03e5c5205/README.md"
-    },
-    {
-      "id": "acp",
-      "last_update": 1603143457000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@9eb4e890ec4dd15b67c5fe62bf1dfa333b3f230c/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/acp/archive/9eb4e890ec4dd15b67c5fe62bf1dfa333b3f230c.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@9eb4e890ec4dd15b67c5fe62bf1dfa333b3f230c/README.md"
     },
     {
       "id": "nano-ndk",

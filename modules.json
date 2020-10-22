@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1603352367000,
+  "last_update": 1603352462000,
   "modules": [
     {
       "id": "ExSDCard",
-      "last_update": 1603352367000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ExSDCard@2b481cea8a0269509343813464b448c974199fe6/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/ExSDCard/archive/2b481cea8a0269509343813464b448c974199fe6.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ExSDCard@2b481cea8a0269509343813464b448c974199fe6/README.md"
+      "last_update": 1603352462000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ExSDCard@db6c552e46158ba70a5784cc56af4be638cabc48/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/ExSDCard/archive/db6c552e46158ba70a5784cc56af4be638cabc48.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ExSDCard@db6c552e46158ba70a5784cc56af4be638cabc48/README.md"
     },
     {
       "id": "acp",

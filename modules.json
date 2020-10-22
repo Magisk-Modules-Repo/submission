@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1603330677000,
+  "last_update": 1603352264000,
   "modules": [
+    {
+      "id": "ExSDCard",
+      "last_update": 1603352264000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ExSDCard@40ae7cc5d8a83da3ea84da85ae7b590f42b47117/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/ExSDCard/archive/40ae7cc5d8a83da3ea84da85ae7b590f42b47117.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ExSDCard@40ae7cc5d8a83da3ea84da85ae7b590f42b47117/README.md"
+    },
     {
       "id": "acp",
       "last_update": 1603330677000,
@@ -204,13 +211,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@612fd990d5803f0763322c9d2693f5c274fdf0c3/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect/archive/612fd990d5803f0763322c9d2693f5c274fdf0c3.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@612fd990d5803f0763322c9d2693f5c274fdf0c3/README.md"
-    },
-    {
-      "id": "ExSDCard",
-      "last_update": 1597789219000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ExSDCard@06abe4652c9b3db8145f68a09d6cb37cfa26d1e0/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/ExSDCard/archive/06abe4652c9b3db8145f68a09d6cb37cfa26d1e0.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ExSDCard@06abe4652c9b3db8145f68a09d6cb37cfa26d1e0/README.md"
     },
     {
       "id": "riru_edxposed_sandhook",

@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1603475059000,
+  "last_update": 1603475084000,
   "modules": [
     {
       "id": "microg_installer",
-      "last_update": 1603475059000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@8921532ad53963fefa436546fce6322ac9175900/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/8921532ad53963fefa436546fce6322ac9175900.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@8921532ad53963fefa436546fce6322ac9175900/README.md"
+      "last_update": 1603475084000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@81799d2f41849c1d4cd203d59e565f3ead499274/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/81799d2f41849c1d4cd203d59e565f3ead499274.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@81799d2f41849c1d4cd203d59e565f3ead499274/README.md"
     },
     {
       "id": "magisk-frida",

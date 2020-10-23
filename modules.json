@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1603409561000,
+  "last_update": 1603475037000,
   "modules": [
+    {
+      "id": "microg_installer",
+      "last_update": 1603475037000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@2489437d580427f924139f5b64a4455e19715ffa/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/2489437d580427f924139f5b64a4455e19715ffa.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@2489437d580427f924139f5b64a4455e19715ffa/README.md"
+    },
     {
       "id": "magisk-frida",
       "last_update": 1603409561000,
@@ -22,13 +29,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@3bb8d5127f97882f9db2217cd5b97e0791e1251f/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/acp/archive/3bb8d5127f97882f9db2217cd5b97e0791e1251f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@3bb8d5127f97882f9db2217cd5b97e0791e1251f/README.md"
-    },
-    {
-      "id": "microg_installer",
-      "last_update": 1603285758000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@89951d27e9aee711da3998f2094a9685383cc5c6/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/89951d27e9aee711da3998f2094a9685383cc5c6.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@89951d27e9aee711da3998f2094a9685383cc5c6/README.md"
     },
     {
       "id": "ccbins",

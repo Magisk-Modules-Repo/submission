@@ -409,13 +409,6 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mgskfixes@fe80c5f268059babb037daa2359b8381c9121380/README.md"
     },
     {
-      "id": "riru_ibr",
-      "last_update": 1582965084000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_ibr@84a42976021430c86ae940ef7193abe32d1cc76f/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_ibr/archive/84a42976021430c86ae940ef7193abe32d1cc76f.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_ibr@84a42976021430c86ae940ef7193abe32d1cc76f/README.md"
-    },
-    {
       "id": "ARCore_enabler",
       "last_update": 1581871355000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ARCore_enabler@04337da385e25f3d6dbe1917324b4a1291185a54/module.prop",

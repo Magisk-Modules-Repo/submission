@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1603475084000,
+  "last_update": 1603541023000,
   "modules": [
+    {
+      "id": "acc",
+      "last_update": 1603541023000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@5fced461f013162209bbd4371e1ce63f63000bc0/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/5fced461f013162209bbd4371e1ce63f63000bc0.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@5fced461f013162209bbd4371e1ce63f63000bc0/README.md"
+    },
     {
       "id": "microg_installer",
       "last_update": 1603475084000,
@@ -50,13 +57,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/energizedprotection@f085009bf12babcde6170132e73e38310f2fe865/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/f085009bf12babcde6170132e73e38310f2fe865.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/energizedprotection@f085009bf12babcde6170132e73e38310f2fe865/README.md"
-    },
-    {
-      "id": "acc",
-      "last_update": 1602751482000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@2f88352ede885441b24fcb8f64b06749134a2dae/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/2f88352ede885441b24fcb8f64b06749134a2dae.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@2f88352ede885441b24fcb8f64b06749134a2dae/README.md"
     },
     {
       "id": "GoogleDialerFramework",

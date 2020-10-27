@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1603655581000,
+  "last_update": 1603765593000,
   "modules": [
+    {
+      "id": "magisk-frida",
+      "last_update": 1603765593000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@ee8b56ff28e3490535f50086991ee8b02f1b534c/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/ee8b56ff28e3490535f50086991ee8b02f1b534c.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@ee8b56ff28e3490535f50086991ee8b02f1b534c/README.md"
+    },
     {
       "id": "MagiskHidePropsConf",
       "last_update": 1603655581000,
@@ -36,13 +43,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@81799d2f41849c1d4cd203d59e565f3ead499274/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/81799d2f41849c1d4cd203d59e565f3ead499274.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@81799d2f41849c1d4cd203d59e565f3ead499274/README.md"
-    },
-    {
-      "id": "magisk-frida",
-      "last_update": 1603409561000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@4f28cd6de8aa557a598b42329b4ea130f8341d4a/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/4f28cd6de8aa557a598b42329b4ea130f8341d4a.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@4f28cd6de8aa557a598b42329b4ea130f8341d4a/README.md"
     },
     {
       "id": "ExSDCard",

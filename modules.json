@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1603843341000,
+  "last_update": 1603845014000,
   "modules": [
+    {
+      "id": "HideNavBar",
+      "last_update": 1603845014000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@78b8a89cbb933c0ffd48c1b4b826a0e88c146c6e/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/78b8a89cbb933c0ffd48c1b4b826a0e88c146c6e.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@78b8a89cbb933c0ffd48c1b4b826a0e88c146c6e/README.md"
+    },
     {
       "id": "magisk-frida",
       "last_update": 1603843341000,
@@ -22,13 +29,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@eb0fbcf175d0de0b0ab4b3ca5de71e0af494c04b/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/eb0fbcf175d0de0b0ab4b3ca5de71e0af494c04b.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@eb0fbcf175d0de0b0ab4b3ca5de71e0af494c04b/README.md"
-    },
-    {
-      "id": "HideNavBar",
-      "last_update": 1603646011000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@1d99ca7c808529e62b2d0c36755bed69c9fd1132/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/1d99ca7c808529e62b2d0c36755bed69c9fd1132.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@1d99ca7c808529e62b2d0c36755bed69c9fd1132/README.md"
     },
     {
       "id": "BluetoothLibraryPatcher",

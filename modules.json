@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1603793853000,
+  "last_update": 1603843341000,
   "modules": [
     {
       "id": "magisk-frida",
-      "last_update": 1603793853000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@aa91cf34f6f68b0dee8e93966ad26e4d2907afd4/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/aa91cf34f6f68b0dee8e93966ad26e4d2907afd4.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@aa91cf34f6f68b0dee8e93966ad26e4d2907afd4/README.md"
+      "last_update": 1603843341000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@0fde3776eca1d36b067e4ba6e1f9b702ef376646/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/0fde3776eca1d36b067e4ba6e1f9b702ef376646.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@0fde3776eca1d36b067e4ba6e1f9b702ef376646/README.md"
     },
     {
       "id": "callrecorder-skvalex",

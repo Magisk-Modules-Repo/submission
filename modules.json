@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1603845044000,
+  "last_update": 1603845149000,
   "modules": [
     {
       "id": "HideNavBar",
-      "last_update": 1603845044000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@fae0d6614b8ecfd46a77d15a132c913d45f96e6b/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/fae0d6614b8ecfd46a77d15a132c913d45f96e6b.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@fae0d6614b8ecfd46a77d15a132c913d45f96e6b/README.md"
+      "last_update": 1603845149000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@7f04a30ba81fa0f63162ccf01aa7887a9ed76550/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/7f04a30ba81fa0f63162ccf01aa7887a9ed76550.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@7f04a30ba81fa0f63162ccf01aa7887a9ed76550/README.md"
     },
     {
       "id": "magisk-frida",

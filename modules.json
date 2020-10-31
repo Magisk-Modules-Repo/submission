@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1604115109000,
+  "last_update": 1604117671000,
   "modules": [
+    {
+      "id": "wirelessFirmware",
+      "last_update": 1604117671000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wirelessFirmware@602ffe0a7d2defcaf43550d754f659dc4554dacf/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/wirelessFirmware/archive/602ffe0a7d2defcaf43550d754f659dc4554dacf.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wirelessFirmware@602ffe0a7d2defcaf43550d754f659dc4554dacf/README.md"
+    },
     {
       "id": "ViPER4AndroidFX",
       "last_update": 1604115109000,
@@ -673,13 +680,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-helper@7b0cb12e4c4b190a8943d5055e6c7ab734890ff8/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-helper/archive/7b0cb12e4c4b190a8943d5055e6c7ab734890ff8.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-helper@7b0cb12e4c4b190a8943d5055e6c7ab734890ff8/README.md"
-    },
-    {
-      "id": "wirelessFirmware",
-      "last_update": 1560090295000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wirelessFirmware@8047a8546f4e76ea49c85445a7227957355bdbfa/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/wirelessFirmware/archive/8047a8546f4e76ea49c85445a7227957355bdbfa.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wirelessFirmware@8047a8546f4e76ea49c85445a7227957355bdbfa/README.md"
     },
     {
       "id": "disable-mdnsd",

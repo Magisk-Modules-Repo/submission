@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1603901950000,
+  "last_update": 1604115010000,
   "modules": [
+    {
+      "id": "ViPER4AndroidFX",
+      "last_update": 1604115010000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@f540f88072dcb46eeb5b260c8ea1b416b200ed9b/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/f540f88072dcb46eeb5b260c8ea1b416b200ed9b.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@f540f88072dcb46eeb5b260c8ea1b416b200ed9b/README.md"
+    },
     {
       "id": "acc",
       "last_update": 1603901950000,
@@ -155,13 +162,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/overlayfix@34559cdf4d367f389e10c930f0b7b31833f3e396/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/overlayfix/archive/34559cdf4d367f389e10c930f0b7b31833f3e396.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/overlayfix@34559cdf4d367f389e10c930f0b7b31833f3e396/README.md"
-    },
-    {
-      "id": "ViPER4AndroidFX",
-      "last_update": 1599939811000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@18e75f6be6bb0d03b11cf5f9161f7ebc7025555f/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/18e75f6be6bb0d03b11cf5f9161f7ebc7025555f.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@18e75f6be6bb0d03b11cf5f9161f7ebc7025555f/README.md"
     },
     {
       "id": "airaudio",

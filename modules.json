@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1604186771000,
+  "last_update": 1604240809000,
   "modules": [
     {
       "id": "BluetoothLibraryPatcher",
-      "last_update": 1604186771000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@4c1d22673c6f5782c99939b81a72fa91940abec9/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/4c1d22673c6f5782c99939b81a72fa91940abec9.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@4c1d22673c6f5782c99939b81a72fa91940abec9/README.md"
+      "last_update": 1604240809000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@e4818ffa149c94fb591469d406dc78ca0d0c8f51/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/e4818ffa149c94fb591469d406dc78ca0d0c8f51.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@e4818ffa149c94fb591469d406dc78ca0d0c8f51/README.md"
     },
     {
       "id": "wirelessFirmware",

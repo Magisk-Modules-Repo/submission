@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1604241068000,
+  "last_update": 1604345032000,
   "modules": [
+    {
+      "id": "Detach",
+      "last_update": 1604345032000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@94fd7b63808a6fc9717193aaf4b97e2fd5618229/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/94fd7b63808a6fc9717193aaf4b97e2fd5618229.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@94fd7b63808a6fc9717193aaf4b97e2fd5618229/README.md"
+    },
     {
       "id": "BluetoothLibraryPatcher",
       "last_update": 1604241068000,
@@ -379,13 +386,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@f3744c984893a1d7d1cf62d7b8040dc7fb64b6d1/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/f3744c984893a1d7d1cf62d7b8040dc7fb64b6d1.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@f3744c984893a1d7d1cf62d7b8040dc7fb64b6d1/README.md"
-    },
-    {
-      "id": "Detach",
-      "last_update": 1587556474000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@ac1add92c42bda77888431f4531a00830908b0f2/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/ac1add92c42bda77888431f4531a00830908b0f2.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@ac1add92c42bda77888431f4531a00830908b0f2/README.md"
     },
     {
       "id": "sonymusic",

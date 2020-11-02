@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1604346182000,
+  "last_update": 1604346925000,
   "modules": [
     {
       "id": "acp",
-      "last_update": 1604346182000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@96155f797df0af7c3f0e4da2ba45b750d41fa76c/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/acp/archive/96155f797df0af7c3f0e4da2ba45b750d41fa76c.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@96155f797df0af7c3f0e4da2ba45b750d41fa76c/README.md"
+      "last_update": 1604346925000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@1bd20cfed688545da4b6b30d95a4b8a61f035837/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/acp/archive/1bd20cfed688545da4b6b30d95a4b8a61f035837.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@1bd20cfed688545da4b6b30d95a4b8a61f035837/README.md"
     },
     {
       "id": "Detach",

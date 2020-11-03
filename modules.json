@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1604346925000,
+  "last_update": 1604428118000,
   "modules": [
+    {
+      "id": "active_edge_system_mod",
+      "last_update": 1604428118000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@9ba00515f16182ca466e25b4b0bc3596e201d7ff/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/9ba00515f16182ca466e25b4b0bc3596e201d7ff.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@9ba00515f16182ca466e25b4b0bc3596e201d7ff/README.md"
+    },
     {
       "id": "acp",
       "last_update": 1604346925000,
@@ -127,13 +134,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/v2ray@1a55755932c5dc3475d0ac986fb28c26d24aa642/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/v2ray/archive/1a55755932c5dc3475d0ac986fb28c26d24aa642.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/v2ray@1a55755932c5dc3475d0ac986fb28c26d24aa642/README.md"
-    },
-    {
-      "id": "active_edge_system_mod",
-      "last_update": 1601994528000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@2cca157e954d5eba96f258a6f945f9326ff12812/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/2cca157e954d5eba96f258a6f945f9326ff12812.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@2cca157e954d5eba96f258a6f945f9326ff12812/README.md"
     },
     {
       "id": "ainur_narsil",

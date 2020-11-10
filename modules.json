@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1604992477000,
+  "last_update": 1605048787000,
   "modules": [
+    {
+      "id": "acp",
+      "last_update": 1605048787000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@0707f6c86631600c4ce1ee7e4c0358fe598787d8/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/acp/archive/0707f6c86631600c4ce1ee7e4c0358fe598787d8.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@0707f6c86631600c4ce1ee7e4c0358fe598787d8/README.md"
+    },
     {
       "id": "MagiskHidePropsConf",
       "last_update": 1604992477000,
@@ -50,13 +57,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@9ba00515f16182ca466e25b4b0bc3596e201d7ff/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/9ba00515f16182ca466e25b4b0bc3596e201d7ff.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@9ba00515f16182ca466e25b4b0bc3596e201d7ff/README.md"
-    },
-    {
-      "id": "acp",
-      "last_update": 1604346925000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@1bd20cfed688545da4b6b30d95a4b8a61f035837/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/acp/archive/1bd20cfed688545da4b6b30d95a4b8a61f035837.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@1bd20cfed688545da4b6b30d95a4b8a61f035837/README.md"
     },
     {
       "id": "Detach",

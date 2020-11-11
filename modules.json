@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1605070609000,
+  "last_update": 1605070630000,
   "modules": [
     {
       "id": "bromitewebview",
-      "last_update": 1605070609000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@90f20ceb31703133e1f55570090c8aa5af48e310/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/90f20ceb31703133e1f55570090c8aa5af48e310.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@90f20ceb31703133e1f55570090c8aa5af48e310/README.md"
+      "last_update": 1605070630000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@64fb2fdf2f5a8a3516a61b0ab3e712e8700e6daf/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/64fb2fdf2f5a8a3516a61b0ab3e712e8700e6daf.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@64fb2fdf2f5a8a3516a61b0ab3e712e8700e6daf/README.md"
     },
     {
       "id": "mgskfixes",

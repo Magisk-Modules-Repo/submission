@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1605048787000,
+  "last_update": 1605070486000,
   "modules": [
+    {
+      "id": "mgskfixes",
+      "last_update": 1605070486000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mgskfixes@8049558afc0c53a569ff23a2913ddbc272d40aa7/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/mgskfixes/archive/8049558afc0c53a569ff23a2913ddbc272d40aa7.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mgskfixes@8049558afc0c53a569ff23a2913ddbc272d40aa7/README.md"
+    },
     {
       "id": "acp",
       "last_update": 1605048787000,
@@ -407,13 +414,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/PIXELARITY@2293d64c11e50182ac66cfba181436bdb4dbdc3e/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/PIXELARITY/archive/2293d64c11e50182ac66cfba181436bdb4dbdc3e.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/PIXELARITY@2293d64c11e50182ac66cfba181436bdb4dbdc3e/README.md"
-    },
-    {
-      "id": "mgskfixes",
-      "last_update": 1583693447000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mgskfixes@fe80c5f268059babb037daa2359b8381c9121380/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/mgskfixes/archive/fe80c5f268059babb037daa2359b8381c9121380.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mgskfixes@fe80c5f268059babb037daa2359b8381c9121380/README.md"
     },
     {
       "id": "ARCore_enabler",

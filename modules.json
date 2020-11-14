@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1605299185000,
+  "last_update": 1605370391000,
   "modules": [
+    {
+      "id": "microg_installer",
+      "last_update": 1605370391000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@2efb101612748d50c30e134c1492fd0aed5fcd59/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/2efb101612748d50c30e134c1492fd0aed5fcd59.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@2efb101612748d50c30e134c1492fd0aed5fcd59/README.md"
+    },
     {
       "id": "MagiskHidePropsConf",
       "last_update": 1605299185000,
@@ -113,13 +120,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/callrecorder-skvalex@9db0e64c6320b078a56af8f4fa5aa40ddede0edd/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/archive/9db0e64c6320b078a56af8f4fa5aa40ddede0edd.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/callrecorder-skvalex@9db0e64c6320b078a56af8f4fa5aa40ddede0edd/README.md"
-    },
-    {
-      "id": "microg_installer",
-      "last_update": 1603475084000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@81799d2f41849c1d4cd203d59e565f3ead499274/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/81799d2f41849c1d4cd203d59e565f3ead499274.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@81799d2f41849c1d4cd203d59e565f3ead499274/README.md"
     },
     {
       "id": "ExSDCard",

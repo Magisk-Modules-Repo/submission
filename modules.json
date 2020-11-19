@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1605708085000,
+  "last_update": 1605750142000,
   "modules": [
+    {
+      "id": "benchkit",
+      "last_update": 1605750142000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@21f40467dc41599b3d5d74d5d8f2b8f4b741060b/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/benchkit/archive/21f40467dc41599b3d5d74d5d8f2b8f4b741060b.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@21f40467dc41599b3d5d74d5d8f2b8f4b741060b/README.md"
+    },
     {
       "id": "BluetoothLibraryPatcher",
       "last_update": 1605708085000,
@@ -225,13 +232,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_jamesdsp@7ece6aeb2faa0490e19bc56cec94b1b3f9404253/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/ainur_jamesdsp/archive/7ece6aeb2faa0490e19bc56cec94b1b3f9404253.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_jamesdsp@7ece6aeb2faa0490e19bc56cec94b1b3f9404253/README.md"
-    },
-    {
-      "id": "benchkit",
-      "last_update": 1598692969000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@3f1b1be728c879010201fb9213868f81b66b7a20/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/benchkit/archive/3f1b1be728c879010201fb9213868f81b66b7a20.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@3f1b1be728c879010201fb9213868f81b66b7a20/README.md"
     },
     {
       "id": "quickstepswitcher",

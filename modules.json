@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1605791002000,
+  "last_update": 1605791073000,
   "modules": [
     {
       "id": "BluetoothLibraryPatcher",
-      "last_update": 1605791002000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@a460fa41fa7c63c653cffee8ff45b4c524c9841d/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/a460fa41fa7c63c653cffee8ff45b4c524c9841d.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@a460fa41fa7c63c653cffee8ff45b4c524c9841d/README.md"
+      "last_update": 1605791073000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@cd874e265a3de102acb03ec18f36ed437e4d78f5/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/cd874e265a3de102acb03ec18f36ed437e4d78f5.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@cd874e265a3de102acb03ec18f36ed437e4d78f5/README.md"
     },
     {
       "id": "ainur_jamesdsp",

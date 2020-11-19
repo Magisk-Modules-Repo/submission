@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1605779819000,
+  "last_update": 1605788898000,
   "modules": [
+    {
+      "id": "ainur_jamesdsp",
+      "last_update": 1605788898000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_jamesdsp@f2d6693a9395dc260603a322db61734bf626ccfa/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/ainur_jamesdsp/archive/f2d6693a9395dc260603a322db61734bf626ccfa.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_jamesdsp@f2d6693a9395dc260603a322db61734bf626ccfa/README.md"
+    },
     {
       "id": "MagiskHidePropsConf",
       "last_update": 1605779819000,
@@ -225,13 +232,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/dnscrypt-proxy2@84fff52b8392f3bf4cf3b6c292778654c975d2f5/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/dnscrypt-proxy2/archive/84fff52b8392f3bf4cf3b6c292778654c975d2f5.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/dnscrypt-proxy2@84fff52b8392f3bf4cf3b6c292778654c975d2f5/README.md"
-    },
-    {
-      "id": "ainur_jamesdsp",
-      "last_update": 1599716149000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_jamesdsp@7ece6aeb2faa0490e19bc56cec94b1b3f9404253/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/ainur_jamesdsp/archive/7ece6aeb2faa0490e19bc56cec94b1b3f9404253.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_jamesdsp@7ece6aeb2faa0490e19bc56cec94b1b3f9404253/README.md"
     },
     {
       "id": "quickstepswitcher",

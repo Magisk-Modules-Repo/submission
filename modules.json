@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1605799913000,
+  "last_update": 1605828342000,
   "modules": [
+    {
+      "id": "OneController",
+      "last_update": 1605828342000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@ec6d7839bc2f5bc5f84999d216bedf2269f12ded/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/OneController/archive/ec6d7839bc2f5bc5f84999d216bedf2269f12ded.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@ec6d7839bc2f5bc5f84999d216bedf2269f12ded/README.md"
+    },
     {
       "id": "BluetoothLibraryPatcher",
       "last_update": 1605799913000,
@@ -281,13 +288,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@f82ad3ad6d599676154ad2149a982c79d227e7e1/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/archive/f82ad3ad6d599676154ad2149a982c79d227e7e1.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@f82ad3ad6d599676154ad2149a982c79d227e7e1/README.md"
-    },
-    {
-      "id": "OneController",
-      "last_update": 1592485826000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@1f66a0642eea561ee5c452844130932bf98f8635/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/OneController/archive/1f66a0642eea561ee5c452844130932bf98f8635.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@1f66a0642eea561ee5c452844130932bf98f8635/README.md"
     },
     {
       "id": "HideGesBar",

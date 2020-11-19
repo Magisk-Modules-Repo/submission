@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1605778688000,
+  "last_update": 1605779819000,
   "modules": [
+    {
+      "id": "MagiskHidePropsConf",
+      "last_update": 1605779819000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@8f3e5e3ef256cdd9811d16bd9cd9ab04b1e48ecb/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/8f3e5e3ef256cdd9811d16bd9cd9ab04b1e48ecb.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@8f3e5e3ef256cdd9811d16bd9cd9ab04b1e48ecb/README.md"
+    },
     {
       "id": "BluetoothLibraryPatcher",
       "last_update": 1605778688000,
@@ -29,13 +36,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@2efb101612748d50c30e134c1492fd0aed5fcd59/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/2efb101612748d50c30e134c1492fd0aed5fcd59.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@2efb101612748d50c30e134c1492fd0aed5fcd59/README.md"
-    },
-    {
-      "id": "MagiskHidePropsConf",
-      "last_update": 1605299185000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@3a1164a9f44356812e595ff9d9c9185258f7bd56/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/3a1164a9f44356812e595ff9d9c9185258f7bd56.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@3a1164a9f44356812e595ff9d9c9185258f7bd56/README.md"
     },
     {
       "id": "bromitewebview",

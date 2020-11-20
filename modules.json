@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1605828342000,
+  "last_update": 1605856467000,
   "modules": [
+    {
+      "id": "acc",
+      "last_update": 1605856467000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@0e579d3e3052c824a8572a11dd4a7fafcd70590e/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/0e579d3e3052c824a8572a11dd4a7fafcd70590e.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@0e579d3e3052c824a8572a11dd4a7fafcd70590e/README.md"
+    },
     {
       "id": "OneController",
       "last_update": 1605828342000,
@@ -120,13 +127,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@7cbd002b61fa4060eb745bad1ffa52a6ffe47c30/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/7cbd002b61fa4060eb745bad1ffa52a6ffe47c30.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@7cbd002b61fa4060eb745bad1ffa52a6ffe47c30/README.md"
-    },
-    {
-      "id": "acc",
-      "last_update": 1603901950000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@99647878e12026a115b581aded7d2b85a119fcbd/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/99647878e12026a115b581aded7d2b85a119fcbd.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@99647878e12026a115b581aded7d2b85a119fcbd/README.md"
     },
     {
       "id": "HideNavBar",

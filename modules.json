@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1606071518000,
+  "last_update": 1606071830000,
   "modules": [
+    {
+      "id": "riru_storage_redirect",
+      "last_update": 1606071830000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@f9ff01bdec75d05ce2d77847cd15c22ab39e23b2/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect/archive/f9ff01bdec75d05ce2d77847cd15c22ab39e23b2.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@f9ff01bdec75d05ce2d77847cd15c22ab39e23b2/README.md"
+    },
     {
       "id": "riru-core",
       "last_update": 1606071518000,
@@ -260,13 +267,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi-bonding@5072c1fda550d3fa9d2b5bbc115f799466a1cc1b/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/wifi-bonding/archive/5072c1fda550d3fa9d2b5bbc115f799466a1cc1b.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi-bonding@5072c1fda550d3fa9d2b5bbc115f799466a1cc1b/README.md"
-    },
-    {
-      "id": "riru_storage_redirect",
-      "last_update": 1597859709000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@612fd990d5803f0763322c9d2693f5c274fdf0c3/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect/archive/612fd990d5803f0763322c9d2693f5c274fdf0c3.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@612fd990d5803f0763322c9d2693f5c274fdf0c3/README.md"
     },
     {
       "id": "ssh",

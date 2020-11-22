@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1606039853000,
+  "last_update": 1606071518000,
   "modules": [
+    {
+      "id": "riru-core",
+      "last_update": 1606071518000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@175484609fb835a1161a50b86c60955bab1f473b/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/175484609fb835a1161a50b86c60955bab1f473b.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@175484609fb835a1161a50b86c60955bab1f473b/README.md"
+    },
     {
       "id": "BluetoothLibraryPatcher",
       "last_update": 1606039853000,
@@ -274,13 +281,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/motoclockwidget@246ff9c12a43de3fa0b6766a26cda1afd00dff38/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/motoclockwidget/archive/246ff9c12a43de3fa0b6766a26cda1afd00dff38.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/motoclockwidget@246ff9c12a43de3fa0b6766a26cda1afd00dff38/README.md"
-    },
-    {
-      "id": "riru-core",
-      "last_update": 1593843985000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@cebafc035b1537ce2e997421f06ded25978e441b/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/cebafc035b1537ce2e997421f06ded25978e441b.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@cebafc035b1537ce2e997421f06ded25978e441b/README.md"
     },
     {
       "id": "NFCScreenOff",

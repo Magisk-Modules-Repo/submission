@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1606039606000,
+  "last_update": 1606039853000,
   "modules": [
     {
       "id": "BluetoothLibraryPatcher",
-      "last_update": 1606039606000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@2faae9c34d29d08353366449c8953943fbe666ed/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/2faae9c34d29d08353366449c8953943fbe666ed.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@2faae9c34d29d08353366449c8953943fbe666ed/README.md"
+      "last_update": 1606039853000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@10f37c9beb516cfd040fc0cc022256848639391b/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/10f37c9beb516cfd040fc0cc022256848639391b.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@10f37c9beb516cfd040fc0cc022256848639391b/README.md"
     },
     {
       "id": "airaudio",

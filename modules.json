@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1606072091000,
+  "last_update": 1606108157000,
   "modules": [
+    {
+      "id": "MagiskHidePropsConf",
+      "last_update": 1606108157000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@84344e8c7f5ee045b715bc11ea48626ce566525f/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/84344e8c7f5ee045b715bc11ea48626ce566525f.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@84344e8c7f5ee045b715bc11ea48626ce566525f/README.md"
+    },
     {
       "id": "riru_location_report_enabler",
       "last_update": 1606072091000,
@@ -36,13 +43,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/airaudio@f36fae7909e4c5ac7c1dbd50f860e026d463a6d6/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/airaudio/archive/f36fae7909e4c5ac7c1dbd50f860e026d463a6d6.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/airaudio@f36fae7909e4c5ac7c1dbd50f860e026d463a6d6/README.md"
-    },
-    {
-      "id": "MagiskHidePropsConf",
-      "last_update": 1605877133000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@e88fcf1436e486f03edbfaa74575ca575eaeaf3f/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/e88fcf1436e486f03edbfaa74575ca575eaeaf3f.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@e88fcf1436e486f03edbfaa74575ca575eaeaf3f/README.md"
     },
     {
       "id": "acc",

@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1606318016000,
+  "last_update": 1606319824000,
   "modules": [
     {
       "id": "riru-core",
-      "last_update": 1606318016000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@db5464575a90a8d16398a6119961f92e10c776cd/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/db5464575a90a8d16398a6119961f92e10c776cd.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@db5464575a90a8d16398a6119961f92e10c776cd/README.md"
+      "last_update": 1606319824000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@5d40b08210e1155ecb2bba2e14625d9cf6281df8/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/5d40b08210e1155ecb2bba2e14625d9cf6281df8.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@5d40b08210e1155ecb2bba2e14625d9cf6281df8/README.md"
     },
     {
       "id": "riru_ifw_enhance",

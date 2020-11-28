@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1606596202000,
+  "last_update": 1606597164000,
   "modules": [
+    {
+      "id": "adreno-dev",
+      "last_update": 1606597164000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adreno-dev@c34d4e0559f618aafcde69b8f8476c4dd4e60117/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/adreno-dev/archive/c34d4e0559f618aafcde69b8f8476c4dd4e60117.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adreno-dev@c34d4e0559f618aafcde69b8f8476c4dd4e60117/README.md"
+    },
     {
       "id": "adb-ndk",
       "last_update": 1606596202000,
@@ -358,13 +365,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/busybox-ndk@befb5462e19211d55718d146f0ebe15bbe94f6a9/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/befb5462e19211d55718d146f0ebe15bbe94f6a9.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/busybox-ndk@befb5462e19211d55718d146f0ebe15bbe94f6a9/README.md"
-    },
-    {
-      "id": "adreno-dev",
-      "last_update": 1592101933000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adreno-dev@6d6e497f52e14f24b4394b66fe1d49b4b91c8a8c/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/adreno-dev/archive/6d6e497f52e14f24b4394b66fe1d49b4b91c8a8c.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adreno-dev@6d6e497f52e14f24b4394b66fe1d49b4b91c8a8c/README.md"
     },
     {
       "id": "ctenabler",

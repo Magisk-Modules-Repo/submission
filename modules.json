@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1606494065000,
+  "last_update": 1606536294000,
   "modules": [
+    {
+      "id": "twrp-keep",
+      "last_update": 1606536294000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@0417fb5379b0775cb3112cbcd16b94a97de8a75b/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/0417fb5379b0775cb3112cbcd16b94a97de8a75b.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@0417fb5379b0775cb3112cbcd16b94a97de8a75b/README.md"
+    },
     {
       "id": "riru_clipboard_whitelist",
       "last_update": 1606494065000,
@@ -407,13 +414,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi5ghzdisabler@f6315ca489c2dd06b6334a434b5ac6ae60aad810/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/wifi5ghzdisabler/archive/f6315ca489c2dd06b6334a434b5ac6ae60aad810.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi5ghzdisabler@f6315ca489c2dd06b6334a434b5ac6ae60aad810/README.md"
-    },
-    {
-      "id": "twrp-keep",
-      "last_update": 1587579796000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@f3744c984893a1d7d1cf62d7b8040dc7fb64b6d1/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/f3744c984893a1d7d1cf62d7b8040dc7fb64b6d1.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@f3744c984893a1d7d1cf62d7b8040dc7fb64b6d1/README.md"
     },
     {
       "id": "sonymusic",

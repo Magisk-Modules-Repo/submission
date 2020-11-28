@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1606536294000,
+  "last_update": 1606539043000,
   "modules": [
     {
       "id": "twrp-keep",
-      "last_update": 1606536294000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@0417fb5379b0775cb3112cbcd16b94a97de8a75b/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/0417fb5379b0775cb3112cbcd16b94a97de8a75b.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@0417fb5379b0775cb3112cbcd16b94a97de8a75b/README.md"
+      "last_update": 1606539043000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@dbca019827ddde5e7ada456642fc6c5c4555b410/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/dbca019827ddde5e7ada456642fc6c5c4555b410.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@dbca019827ddde5e7ada456642fc6c5c4555b410/README.md"
     },
     {
       "id": "riru_clipboard_whitelist",

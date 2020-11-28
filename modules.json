@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1606594504000,
+  "last_update": 1606595048000,
   "modules": [
     {
       "id": "adb-ndk",
-      "last_update": 1606594504000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@3479f889146f9dd7e8c66dba14462404d33d60a9/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/3479f889146f9dd7e8c66dba14462404d33d60a9.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@3479f889146f9dd7e8c66dba14462404d33d60a9/README.md"
+      "last_update": 1606595048000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@c494298ab131259cc39fc2217e4e2d7aba417980/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/c494298ab131259cc39fc2217e4e2d7aba417980.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@c494298ab131259cc39fc2217e4e2d7aba417980/README.md"
     },
     {
       "id": "twrp-keep",

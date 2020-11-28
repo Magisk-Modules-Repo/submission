@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1606597297000,
+  "last_update": 1606597317000,
   "modules": [
+    {
+      "id": "zipsigner",
+      "last_update": 1606597317000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@bf583a76bf38f11abb319ff643f14cdc78db9ea4/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/bf583a76bf38f11abb319ff643f14cdc78db9ea4.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@bf583a76bf38f11abb319ff643f14cdc78db9ea4/README.md"
+    },
     {
       "id": "nano-ndk",
       "last_update": 1606597297000,
@@ -351,13 +358,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideGesBar@2ed3cf94aaba2970f51057715ec31c64e96b3001/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/HideGesBar/archive/2ed3cf94aaba2970f51057715ec31c64e96b3001.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideGesBar@2ed3cf94aaba2970f51057715ec31c64e96b3001/README.md"
-    },
-    {
-      "id": "zipsigner",
-      "last_update": 1592102466000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@170b7d279c7615ad780ba749649c38c0849c933c/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/170b7d279c7615ad780ba749649c38c0849c933c.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@170b7d279c7615ad780ba749649c38c0849c933c/README.md"
     },
     {
       "id": "nexusmedia",

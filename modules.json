@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1606689907000,
+  "last_update": 1606690957000,
   "modules": [
     {
       "id": "quickstepswitcher",
-      "last_update": 1606689907000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@53a4307ea4d171249b8926b9f47d1ef810ce9644/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/quickstepswitcher/archive/53a4307ea4d171249b8926b9f47d1ef810ce9644.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@53a4307ea4d171249b8926b9f47d1ef810ce9644/README.md"
+      "last_update": 1606690957000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@6d0f58f0f46fc3f37414b876fe926748f2f776bd/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/quickstepswitcher/archive/6d0f58f0f46fc3f37414b876fe926748f2f776bd.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@6d0f58f0f46fc3f37414b876fe926748f2f776bd/README.md"
     },
     {
       "id": "MagiskHidePropsConf",

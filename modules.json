@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1606685341000,
+  "last_update": 1606689907000,
   "modules": [
+    {
+      "id": "quickstepswitcher",
+      "last_update": 1606689907000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@53a4307ea4d171249b8926b9f47d1ef810ce9644/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/quickstepswitcher/archive/53a4307ea4d171249b8926b9f47d1ef810ce9644.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@53a4307ea4d171249b8926b9f47d1ef810ce9644/README.md"
+    },
     {
       "id": "MagiskHidePropsConf",
       "last_update": 1606685341000,
@@ -316,13 +323,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/dnscrypt-proxy2@84fff52b8392f3bf4cf3b6c292778654c975d2f5/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/dnscrypt-proxy2/archive/84fff52b8392f3bf4cf3b6c292778654c975d2f5.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/dnscrypt-proxy2@84fff52b8392f3bf4cf3b6c292778654c975d2f5/README.md"
-    },
-    {
-      "id": "quickstepswitcher",
-      "last_update": 1598581310000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@ffc44242e4de26a462eb63c19ec9f76fa13ddb00/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/quickstepswitcher/archive/ffc44242e4de26a462eb63c19ec9f76fa13ddb00.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@ffc44242e4de26a462eb63c19ec9f76fa13ddb00/README.md"
     },
     {
       "id": "wifi-bonding",

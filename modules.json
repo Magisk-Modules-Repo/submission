@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1606690957000,
+  "last_update": 1606697887000,
   "modules": [
+    {
+      "id": "twrp-keep",
+      "last_update": 1606697887000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@b503f8f5f4d9328749b053f84e0ef76a236e1691/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/b503f8f5f4d9328749b053f84e0ef76a236e1691.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@b503f8f5f4d9328749b053f84e0ef76a236e1691/README.md"
+    },
     {
       "id": "quickstepswitcher",
       "last_update": 1606690957000,
@@ -64,13 +71,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@4dcde82a21a5660639afc584e66440ff70e49204/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/4dcde82a21a5660639afc584e66440ff70e49204.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@4dcde82a21a5660639afc584e66440ff70e49204/README.md"
-    },
-    {
-      "id": "twrp-keep",
-      "last_update": 1606587517000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@8d0afe3a8f5c9ec681d9180da700f2293101c49a/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/8d0afe3a8f5c9ec681d9180da700f2293101c49a.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@8d0afe3a8f5c9ec681d9180da700f2293101c49a/README.md"
     },
     {
       "id": "riru_clipboard_whitelist",

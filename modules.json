@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1606698020000,
+  "last_update": 1606764423000,
   "modules": [
+    {
+      "id": "HideNavBar",
+      "last_update": 1606764423000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@5421a03c8d9fa39568f75f3d2f34e570e11c25c7/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/5421a03c8d9fa39568f75f3d2f34e570e11c25c7.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@5421a03c8d9fa39568f75f3d2f34e570e11c25c7/README.md"
+    },
     {
       "id": "twrp-keep",
       "last_update": 1606698020000,
@@ -225,13 +232,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@7cbd002b61fa4060eb745bad1ffa52a6ffe47c30/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/7cbd002b61fa4060eb745bad1ffa52a6ffe47c30.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@7cbd002b61fa4060eb745bad1ffa52a6ffe47c30/README.md"
-    },
-    {
-      "id": "HideNavBar",
-      "last_update": 1603845149000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@7f04a30ba81fa0f63162ccf01aa7887a9ed76550/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/7f04a30ba81fa0f63162ccf01aa7887a9ed76550.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@7f04a30ba81fa0f63162ccf01aa7887a9ed76550/README.md"
     },
     {
       "id": "callrecorder-skvalex",

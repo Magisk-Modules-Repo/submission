@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1606697963000,
+  "last_update": 1606698020000,
   "modules": [
     {
       "id": "twrp-keep",
-      "last_update": 1606697963000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@7aa81cce7952910a5951414d128df7e1eb96610a/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/7aa81cce7952910a5951414d128df7e1eb96610a.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@7aa81cce7952910a5951414d128df7e1eb96610a/README.md"
+      "last_update": 1606698020000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@5ebbd702df572664ccac20143fa6bcecb679ad16/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/5ebbd702df572664ccac20143fa6bcecb679ad16.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@5ebbd702df572664ccac20143fa6bcecb679ad16/README.md"
     },
     {
       "id": "quickstepswitcher",

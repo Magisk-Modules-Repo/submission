@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1606925892000,
+  "last_update": 1606925919000,
   "modules": [
+    {
+      "id": "Systemless_TZData",
+      "last_update": 1606925919000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Systemless_TZData@5abd1ff96ad2ebb1bc6b5b014340f0ac865dce8f/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/Systemless_TZData/archive/5abd1ff96ad2ebb1bc6b5b014340f0ac865dce8f.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Systemless_TZData@5abd1ff96ad2ebb1bc6b5b014340f0ac865dce8f/README.md"
+    },
     {
       "id": "riru-core",
       "last_update": 1606925892000,
@@ -379,13 +386,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/aospill@164facc443bd9f5f9745819d744dc0d9b6ef645f/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/aospill/archive/164facc443bd9f5f9745819d744dc0d9b6ef645f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/aospill@164facc443bd9f5f9745819d744dc0d9b6ef645f/README.md"
-    },
-    {
-      "id": "Systemless_TZData",
-      "last_update": 1590278707000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Systemless_TZData@5e0aeb7d70d1672d4603f948858802fb2707577d/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/Systemless_TZData/archive/5e0aeb7d70d1672d4603f948858802fb2707577d.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Systemless_TZData@5e0aeb7d70d1672d4603f948858802fb2707577d/README.md"
     },
     {
       "id": "libsecure_storage",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1606925919000,
+  "last_update": 1606926193000,
   "modules": [
+    {
+      "id": "riru_storage_redirect",
+      "last_update": 1606926193000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@e0c16da6e46adea6c476bad911ff1514ae34760a/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect/archive/e0c16da6e46adea6c476bad911ff1514ae34760a.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@e0c16da6e46adea6c476bad911ff1514ae34760a/README.md"
+    },
     {
       "id": "Systemless_TZData",
       "last_update": 1606925919000,
@@ -141,13 +148,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_location_report_enabler@bd9ba2c36d3f5455319427acc06939b852be3bee/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/riru_location_report_enabler/archive/bd9ba2c36d3f5455319427acc06939b852be3bee.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_location_report_enabler@bd9ba2c36d3f5455319427acc06939b852be3bee/README.md"
-    },
-    {
-      "id": "riru_storage_redirect",
-      "last_update": 1606071830000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@f9ff01bdec75d05ce2d77847cd15c22ab39e23b2/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect/archive/f9ff01bdec75d05ce2d77847cd15c22ab39e23b2.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@f9ff01bdec75d05ce2d77847cd15c22ab39e23b2/README.md"
     },
     {
       "id": "BluetoothLibraryPatcher",

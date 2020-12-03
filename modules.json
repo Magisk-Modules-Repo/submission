@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1606960315000,
+  "last_update": 1606960743000,
   "modules": [
     {
       "id": "bromitewebview",
-      "last_update": 1606960315000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@2711501f7bf255641f21ff606c1f2ebe71655642/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/2711501f7bf255641f21ff606c1f2ebe71655642.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@2711501f7bf255641f21ff606c1f2ebe71655642/README.md"
+      "last_update": 1606960743000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@fa14ed2de6fe1aeccc9644e028602bc8fce97577/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/fa14ed2de6fe1aeccc9644e028602bc8fce97577.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@fa14ed2de6fe1aeccc9644e028602bc8fce97577/README.md"
     },
     {
       "id": "magisk-frida",

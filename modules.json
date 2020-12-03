@@ -1,20 +1,20 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1606970267000,
+  "last_update": 1606974608000,
   "modules": [
+    {
+      "id": "bromitewebview",
+      "last_update": 1606974608000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@dedd8a363a7a226b43f889fd313a0c02a3e52c14/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/dedd8a363a7a226b43f889fd313a0c02a3e52c14.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@dedd8a363a7a226b43f889fd313a0c02a3e52c14/README.md"
+    },
     {
       "id": "nano-ndk",
       "last_update": 1606970267000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@b06ed52e56fec6acfe3650f161443d0e633b6d14/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/b06ed52e56fec6acfe3650f161443d0e633b6d14.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@b06ed52e56fec6acfe3650f161443d0e633b6d14/README.md"
-    },
-    {
-      "id": "bromitewebview",
-      "last_update": 1606963962000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@052e070031c6488c27ba9235d89bbd02093c6291/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/052e070031c6488c27ba9235d89bbd02093c6291.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@052e070031c6488c27ba9235d89bbd02093c6291/README.md"
     },
     {
       "id": "magisk-frida",

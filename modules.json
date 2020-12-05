@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1607122397000,
+  "last_update": 1607133448000,
   "modules": [
+    {
+      "id": "callrecorder-skvalex",
+      "last_update": 1607133448000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/callrecorder-skvalex@336432dad4ed076b7d60cf8411014fcc4e27accf/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/archive/336432dad4ed076b7d60cf8411014fcc4e27accf.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/callrecorder-skvalex@336432dad4ed076b7d60cf8411014fcc4e27accf/README.md"
+    },
     {
       "id": "Systemless_TZData",
       "last_update": 1607122397000,
@@ -239,13 +246,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@7cbd002b61fa4060eb745bad1ffa52a6ffe47c30/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/7cbd002b61fa4060eb745bad1ffa52a6ffe47c30.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@7cbd002b61fa4060eb745bad1ffa52a6ffe47c30/README.md"
-    },
-    {
-      "id": "callrecorder-skvalex",
-      "last_update": 1603791827000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/callrecorder-skvalex@9db0e64c6320b078a56af8f4fa5aa40ddede0edd/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/archive/9db0e64c6320b078a56af8f4fa5aa40ddede0edd.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/callrecorder-skvalex@9db0e64c6320b078a56af8f4fa5aa40ddede0edd/README.md"
     },
     {
       "id": "ExSDCard",

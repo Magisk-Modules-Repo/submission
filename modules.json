@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1607358366000,
+  "last_update": 1607358741000,
   "modules": [
     {
       "id": "bromitewebview",
-      "last_update": 1607358366000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@e84753fc62bf2237b55bc37799f64fbf3a81be32/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/e84753fc62bf2237b55bc37799f64fbf3a81be32.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@e84753fc62bf2237b55bc37799f64fbf3a81be32/README.md"
+      "last_update": 1607358741000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@21c175b0af904164f531db0377c31c36ace9ca27/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/21c175b0af904164f531db0377c31c36ace9ca27.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@21c175b0af904164f531db0377c31c36ace9ca27/README.md"
     },
     {
       "id": "riru_storage_redirect",

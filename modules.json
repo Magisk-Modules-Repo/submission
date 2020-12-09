@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1607358741000,
+  "last_update": 1607497920000,
   "modules": [
+    {
+      "id": "active_edge_system_mod",
+      "last_update": 1607497920000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@6419e66e64035fea45824725db438db6d04b2666/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/6419e66e64035fea45824725db438db6d04b2666.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@6419e66e64035fea45824725db438db6d04b2666/README.md"
+    },
     {
       "id": "bromitewebview",
       "last_update": 1607358741000,
@@ -218,13 +225,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7c7053fdde80f70d9347b1a926c22c905aea5e3e/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/archive/7c7053fdde80f70d9347b1a926c22c905aea5e3e.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7c7053fdde80f70d9347b1a926c22c905aea5e3e/README.md"
-    },
-    {
-      "id": "active_edge_system_mod",
-      "last_update": 1604428118000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@9ba00515f16182ca466e25b4b0bc3596e201d7ff/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/9ba00515f16182ca466e25b4b0bc3596e201d7ff.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@9ba00515f16182ca466e25b4b0bc3596e201d7ff/README.md"
     },
     {
       "id": "Detach",

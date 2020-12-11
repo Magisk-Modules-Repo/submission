@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1607511986000,
+  "last_update": 1607672876000,
   "modules": [
+    {
+      "id": "MagiskHidePropsConf",
+      "last_update": 1607672876000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@ebbe5c0e256819da9eddeaea893633185bab13d6/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/ebbe5c0e256819da9eddeaea893633185bab13d6.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@ebbe5c0e256819da9eddeaea893633185bab13d6/README.md"
+    },
     {
       "id": "magisk-frida",
       "last_update": 1607511986000,
@@ -78,13 +85,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@6d0f58f0f46fc3f37414b876fe926748f2f776bd/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/quickstepswitcher/archive/6d0f58f0f46fc3f37414b876fe926748f2f776bd.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@6d0f58f0f46fc3f37414b876fe926748f2f776bd/README.md"
-    },
-    {
-      "id": "MagiskHidePropsConf",
-      "last_update": 1606685341000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@36cdf6a855aa2bd854bfc2efccd5c8434c731ab4/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/36cdf6a855aa2bd854bfc2efccd5c8434c731ab4.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@36cdf6a855aa2bd854bfc2efccd5c8434c731ab4/README.md"
     },
     {
       "id": "microg_installer",

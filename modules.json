@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1608233393000,
+  "last_update": 1608242160000,
   "modules": [
     {
       "id": "nano-ndk",
-      "last_update": 1608233393000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@86c019e59befbaafb6649bf2026a84f0041d9825/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/86c019e59befbaafb6649bf2026a84f0041d9825.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@86c019e59befbaafb6649bf2026a84f0041d9825/README.md"
+      "last_update": 1608242160000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@66b896bc7161f559a43b5481615d9f846369b40c/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/66b896bc7161f559a43b5481615d9f846369b40c.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@66b896bc7161f559a43b5481615d9f846369b40c/README.md"
     },
     {
       "id": "terminalmods",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1608179471000,
+  "last_update": 1608213468000,
   "modules": [
+    {
+      "id": "terminalmods",
+      "last_update": 1608213468000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminalmods@8275b010fabbe769903470876ec175ecbaae9666/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/terminalmods/archive/8275b010fabbe769903470876ec175ecbaae9666.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminalmods@8275b010fabbe769903470876ec175ecbaae9666/README.md"
+    },
     {
       "id": "HideNavBar",
       "last_update": 1608179471000,
@@ -491,13 +498,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/CloudflareDNS4Magisk@bdcd605cc59849392e967280c87e93f6bfef5a96/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/archive/bdcd605cc59849392e967280c87e93f6bfef5a96.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/CloudflareDNS4Magisk@bdcd605cc59849392e967280c87e93f6bfef5a96/README.md"
-    },
-    {
-      "id": "terminalmods",
-      "last_update": 1577600028000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminalmods@2ee9d2ef2efdd881c883da586b9ef73dc64a6f99/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/terminalmods/archive/2ee9d2ef2efdd881c883da586b9ef73dc64a6f99.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminalmods@2ee9d2ef2efdd881c883da586b9ef73dc64a6f99/README.md"
     },
     {
       "id": "hidden_settings",

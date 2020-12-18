@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1608255004000,
+  "last_update": 1608261990000,
   "modules": [
+    {
+      "id": "benchkit",
+      "last_update": 1608261990000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@74199d90e811ac85e13611800c597476697b6f77/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/benchkit/archive/74199d90e811ac85e13611800c597476697b6f77.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@74199d90e811ac85e13611800c597476697b6f77/README.md"
+    },
     {
       "id": "nexusmedia",
       "last_update": 1608255004000,
@@ -211,13 +218,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_jamesdsp@f2d6693a9395dc260603a322db61734bf626ccfa/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/ainur_jamesdsp/archive/f2d6693a9395dc260603a322db61734bf626ccfa.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_jamesdsp@f2d6693a9395dc260603a322db61734bf626ccfa/README.md"
-    },
-    {
-      "id": "benchkit",
-      "last_update": 1605750142000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@21f40467dc41599b3d5d74d5d8f2b8f4b741060b/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/benchkit/archive/21f40467dc41599b3d5d74d5d8f2b8f4b741060b.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@21f40467dc41599b3d5d74d5d8f2b8f4b741060b/README.md"
     },
     {
       "id": "acp",

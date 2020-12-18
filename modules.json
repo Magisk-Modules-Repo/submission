@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1608272628000,
+  "last_update": 1608296039000,
   "modules": [
+    {
+      "id": "gvisualmod",
+      "last_update": 1608296039000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@5218bfe5f44038ab0aec7e789d48a70dc4617358/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/5218bfe5f44038ab0aec7e789d48a70dc4617358.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@5218bfe5f44038ab0aec7e789d48a70dc4617358/README.md"
+    },
     {
       "id": "HideNavBar",
       "last_update": 1608272628000,
@@ -463,13 +470,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/xposed_dalvik@b15b3442bb33154a7f89767a536920460c0e22d6/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/xposed_dalvik/archive/b15b3442bb33154a7f89767a536920460c0e22d6.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/xposed_dalvik@b15b3442bb33154a7f89767a536920460c0e22d6/README.md"
-    },
-    {
-      "id": "gvisualmod",
-      "last_update": 1579336139000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@334629ce3f8045befa3248fa21337fe1900d5f5a/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/334629ce3f8045befa3248fa21337fe1900d5f5a.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@334629ce3f8045befa3248fa21337fe1900d5f5a/README.md"
     },
     {
       "id": "sony-device-dummy",

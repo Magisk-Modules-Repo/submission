@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1608261990000,
+  "last_update": 1608262067000,
   "modules": [
     {
       "id": "benchkit",
-      "last_update": 1608261990000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@74199d90e811ac85e13611800c597476697b6f77/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/benchkit/archive/74199d90e811ac85e13611800c597476697b6f77.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@74199d90e811ac85e13611800c597476697b6f77/README.md"
+      "last_update": 1608262067000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@fb511ad5372e7daddb25e30d59080294481c7584/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/benchkit/archive/fb511ad5372e7daddb25e30d59080294481c7584.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@fb511ad5372e7daddb25e30d59080294481c7584/README.md"
     },
     {
       "id": "nexusmedia",

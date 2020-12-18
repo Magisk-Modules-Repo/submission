@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1608242160000,
+  "last_update": 1608255004000,
   "modules": [
+    {
+      "id": "nexusmedia",
+      "last_update": 1608255004000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@28f51dc6d703ac1f56171c5d14310fae1dd712dd/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/nexusmedia/archive/28f51dc6d703ac1f56171c5d14310fae1dd712dd.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@28f51dc6d703ac1f56171c5d14310fae1dd712dd/README.md"
+    },
     {
       "id": "nano-ndk",
       "last_update": 1608242160000,
@@ -372,13 +379,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideGesBar@2ed3cf94aaba2970f51057715ec31c64e96b3001/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/HideGesBar/archive/2ed3cf94aaba2970f51057715ec31c64e96b3001.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideGesBar@2ed3cf94aaba2970f51057715ec31c64e96b3001/README.md"
-    },
-    {
-      "id": "nexusmedia",
-      "last_update": 1592102425000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@8ed454807cd8651c2abb0f58ed126f1c4ba169dd/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/nexusmedia/archive/8ed454807cd8651c2abb0f58ed126f1c4ba169dd.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@8ed454807cd8651c2abb0f58ed126f1c4ba169dd/README.md"
     },
     {
       "id": "ctenabler",

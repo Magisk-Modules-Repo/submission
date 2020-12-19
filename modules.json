@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1608354160000,
+  "last_update": 1608359764000,
   "modules": [
+    {
+      "id": "riru-core",
+      "last_update": 1608359764000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@e04b30a51f44d485bbd332b6774bf6be55e44969/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/e04b30a51f44d485bbd332b6774bf6be55e44969.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@e04b30a51f44d485bbd332b6774bf6be55e44969/README.md"
+    },
     {
       "id": "magisk-frida",
       "last_update": 1608354160000,
@@ -99,13 +106,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Systemless_TZData@9f609c7738388184ae3514f52bf7d53c440f2889/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/Systemless_TZData/archive/9f609c7738388184ae3514f52bf7d53c440f2889.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Systemless_TZData@9f609c7738388184ae3514f52bf7d53c440f2889/README.md"
-    },
-    {
-      "id": "riru-core",
-      "last_update": 1607098734000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@b1ca98213350a0706e9dacdf82ca9478b912a26a/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/b1ca98213350a0706e9dacdf82ca9478b912a26a.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@b1ca98213350a0706e9dacdf82ca9478b912a26a/README.md"
     },
     {
       "id": "quickstepswitcher",

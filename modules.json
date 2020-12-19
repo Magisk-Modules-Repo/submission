@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1608377191000,
+  "last_update": 1608377272000,
   "modules": [
     {
       "id": "gvisualmod",
-      "last_update": 1608377191000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@9c0d1a56b22a58fecdec2e46702e3ae460aa48f7/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/9c0d1a56b22a58fecdec2e46702e3ae460aa48f7.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@9c0d1a56b22a58fecdec2e46702e3ae460aa48f7/README.md"
+      "last_update": 1608377272000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@8cf118d516e9599719d32195e120e7352d2980f5/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/8cf118d516e9599719d32195e120e7352d2980f5.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@8cf118d516e9599719d32195e120e7352d2980f5/README.md"
     },
     {
       "id": "riru-core",

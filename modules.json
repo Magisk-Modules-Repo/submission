@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1608433135000,
+  "last_update": 1608463613000,
   "modules": [
+    {
+      "id": "liboemcryptodisabler",
+      "last_update": 1608463613000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@e90f8e47f4c69530deaa2ed8fc282e462c5eec5d/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler/archive/e90f8e47f4c69530deaa2ed8fc282e462c5eec5d.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@e90f8e47f4c69530deaa2ed8fc282e462c5eec5d/README.md"
+    },
     {
       "id": "magisk-frida",
       "last_update": 1608433135000,
@@ -743,13 +750,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ASUS-Style-Suite@5ea9cabd62446efa34fda2ad9b5be6a0cb5f1306/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/ASUS-Style-Suite/archive/5ea9cabd62446efa34fda2ad9b5be6a0cb5f1306.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ASUS-Style-Suite@5ea9cabd62446efa34fda2ad9b5be6a0cb5f1306/README.md"
-    },
-    {
-      "id": "liboemcryptodisabler",
-      "last_update": 1553893772000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@970e237fa09d57c7908faadfafca543b98956628/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler/archive/970e237fa09d57c7908faadfafca543b98956628.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@970e237fa09d57c7908faadfafca543b98956628/README.md"
     },
     {
       "id": "sqlite3",

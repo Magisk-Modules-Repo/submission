@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1608463613000,
+  "last_update": 1608463826000,
   "modules": [
     {
       "id": "liboemcryptodisabler",
-      "last_update": 1608463613000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@e90f8e47f4c69530deaa2ed8fc282e462c5eec5d/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler/archive/e90f8e47f4c69530deaa2ed8fc282e462c5eec5d.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@e90f8e47f4c69530deaa2ed8fc282e462c5eec5d/README.md"
+      "last_update": 1608463826000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@32758f94cdc0888f0024f5e2b3cc80bccc1ff60f/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler/archive/32758f94cdc0888f0024f5e2b3cc80bccc1ff60f.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@32758f94cdc0888f0024f5e2b3cc80bccc1ff60f/README.md"
     },
     {
       "id": "magisk-frida",

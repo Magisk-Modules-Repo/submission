@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1608463908000,
+  "last_update": 1608523404000,
   "modules": [
+    {
+      "id": "gvisualmod",
+      "last_update": 1608523404000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@bd82d7d144125802bae3baa76fc28552a5ea7256/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/bd82d7d144125802bae3baa76fc28552a5ea7256.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@bd82d7d144125802bae3baa76fc28552a5ea7256/README.md"
+    },
     {
       "id": "liboemcryptodisabler",
       "last_update": 1608463908000,
@@ -22,13 +29,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@8f838720a18609962afb91dc6af1186d32a12a92/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/8f838720a18609962afb91dc6af1186d32a12a92.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@8f838720a18609962afb91dc6af1186d32a12a92/README.md"
-    },
-    {
-      "id": "gvisualmod",
-      "last_update": 1608392918000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@a0e620639a95f1df33db9e541e8918d9da507be4/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/a0e620639a95f1df33db9e541e8918d9da507be4.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@a0e620639a95f1df33db9e541e8918d9da507be4/README.md"
     },
     {
       "id": "riru-core",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1609243797000,
+  "last_update": 1609251194000,
   "modules": [
+    {
+      "id": "Detach",
+      "last_update": 1609251194000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@9288e9609fade2404105d2bb10bb03c9fc7aab52/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/9288e9609fade2404105d2bb10bb03c9fc7aab52.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@9288e9609fade2404105d2bb10bb03c9fc7aab52/README.md"
+    },
     {
       "id": "riru_storage_redirect",
       "last_update": 1609243797000,
@@ -253,13 +260,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7c7053fdde80f70d9347b1a926c22c905aea5e3e/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/archive/7c7053fdde80f70d9347b1a926c22c905aea5e3e.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7c7053fdde80f70d9347b1a926c22c905aea5e3e/README.md"
-    },
-    {
-      "id": "Detach",
-      "last_update": 1604345032000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@94fd7b63808a6fc9717193aaf4b97e2fd5618229/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/94fd7b63808a6fc9717193aaf4b97e2fd5618229.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@94fd7b63808a6fc9717193aaf4b97e2fd5618229/README.md"
     },
     {
       "id": "wirelessFirmware",

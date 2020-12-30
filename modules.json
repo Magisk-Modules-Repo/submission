@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1609329001000,
+  "last_update": 1609329083000,
   "modules": [
     {
       "id": "BluetoothLibraryPatcher",
-      "last_update": 1609329001000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@34d956f94089925d8878af2e7e7ad7f53a3d5622/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/34d956f94089925d8878af2e7e7ad7f53a3d5622.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@34d956f94089925d8878af2e7e7ad7f53a3d5622/README.md"
+      "last_update": 1609329083000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@1cd69ab56a5e1ee6a60f6682d6dea85a56a060cf/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/1cd69ab56a5e1ee6a60f6682d6dea85a56a060cf.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@1cd69ab56a5e1ee6a60f6682d6dea85a56a060cf/README.md"
     },
     {
       "id": "Detach",

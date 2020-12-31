@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1609329083000,
+  "last_update": 1609452735000,
   "modules": [
+    {
+      "id": "ainur_narsil",
+      "last_update": 1609452735000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_narsil@49ef40f9eb6ef26c43e6afd153988bb7ff733af3/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/ainur_narsil/archive/49ef40f9eb6ef26c43e6afd153988bb7ff733af3.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_narsil@49ef40f9eb6ef26c43e6afd153988bb7ff733af3/README.md"
+    },
     {
       "id": "BluetoothLibraryPatcher",
       "last_update": 1609329083000,
@@ -316,13 +323,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/v2ray@1a55755932c5dc3475d0ac986fb28c26d24aa642/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/v2ray/archive/1a55755932c5dc3475d0ac986fb28c26d24aa642.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/v2ray@1a55755932c5dc3475d0ac986fb28c26d24aa642/README.md"
-    },
-    {
-      "id": "ainur_narsil",
-      "last_update": 1600977830000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_narsil@2e0eb7a438b5a7646c2ce46bd26ba2c951b438f4/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/ainur_narsil/archive/2e0eb7a438b5a7646c2ce46bd26ba2c951b438f4.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_narsil@2e0eb7a438b5a7646c2ce46bd26ba2c951b438f4/README.md"
     },
     {
       "id": "Oxy-ify",

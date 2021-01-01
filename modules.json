@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1609517553000,
+  "last_update": 1609517929000,
   "modules": [
     {
       "id": "bromitewebview",
-      "last_update": 1609517553000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@ef259d818e4ac1d8a5789149fd9441ee6efccb1f/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/ef259d818e4ac1d8a5789149fd9441ee6efccb1f.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@ef259d818e4ac1d8a5789149fd9441ee6efccb1f/README.md"
+      "last_update": 1609517929000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@efef4e622a484d2cf85b4c18a16c104ac11bd47d/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/efef4e622a484d2cf85b4c18a16c104ac11bd47d.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@efef4e622a484d2cf85b4c18a16c104ac11bd47d/README.md"
     },
     {
       "id": "ainur_narsil",

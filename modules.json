@@ -52,6 +52,13 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@7bd289e7c0b64a822a61c89b2b91eb965144daa4/README.md"
     },
     {
+      "id": "microg_installer",
+      "last_update": 1608619367000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@0ffbc8f9e1820d0702ff8ca5e6f2957576e1928c/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/0ffbc8f9e1820d0702ff8ca5e6f2957576e1928c.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@0ffbc8f9e1820d0702ff8ca5e6f2957576e1928c/README.md"
+    },
+    {
       "id": "liboemcryptodisabler",
       "last_update": 1608463908000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@05623efc7a44ec33044694e6ac772eb80c9ed24f/module.prop",
@@ -141,13 +148,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@6d0f58f0f46fc3f37414b876fe926748f2f776bd/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/quickstepswitcher/archive/6d0f58f0f46fc3f37414b876fe926748f2f776bd.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@6d0f58f0f46fc3f37414b876fe926748f2f776bd/README.md"
-    },
-    {
-      "id": "microg_installer",
-      "last_update": 1606632631000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@1f63cf7fd95f971d12a60d89ab8b997a325bf2f1/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/1f63cf7fd95f971d12a60d89ab8b997a325bf2f1.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@1f63cf7fd95f971d12a60d89ab8b997a325bf2f1/README.md"
     },
     {
       "id": "zipsigner",

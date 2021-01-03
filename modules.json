@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1609561536000,
+  "last_update": 1609713548000,
   "modules": [
+    {
+      "id": "gvisualmod",
+      "last_update": 1609713548000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@cd24109352cfe1757f2952518df4163d0b608fd7/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/cd24109352cfe1757f2952518df4163d0b608fd7.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@cd24109352cfe1757f2952518df4163d0b608fd7/README.md"
+    },
     {
       "id": "bromitewebview",
       "last_update": 1609561536000,
@@ -43,13 +50,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@8f073d760dece52b7ec4f60d41a9d49073c2c2da/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/8f073d760dece52b7ec4f60d41a9d49073c2c2da.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@8f073d760dece52b7ec4f60d41a9d49073c2c2da/README.md"
-    },
-    {
-      "id": "gvisualmod",
-      "last_update": 1609048798000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@7bd289e7c0b64a822a61c89b2b91eb965144daa4/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/7bd289e7c0b64a822a61c89b2b91eb965144daa4.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@7bd289e7c0b64a822a61c89b2b91eb965144daa4/README.md"
     },
     {
       "id": "microg_installer",

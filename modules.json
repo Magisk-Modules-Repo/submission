@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1609713548000,
+  "last_update": 1609733917000,
   "modules": [
     {
       "id": "gvisualmod",
-      "last_update": 1609713548000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@cd24109352cfe1757f2952518df4163d0b608fd7/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/cd24109352cfe1757f2952518df4163d0b608fd7.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@cd24109352cfe1757f2952518df4163d0b608fd7/README.md"
+      "last_update": 1609733917000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@bab1228605b7a27373dbd5ec145944101337e0df/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/bab1228605b7a27373dbd5ec145944101337e0df.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@bab1228605b7a27373dbd5ec145944101337e0df/README.md"
     },
     {
       "id": "bromitewebview",

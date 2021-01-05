@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1609849195000,
+  "last_update": 1609849542000,
   "modules": [
     {
       "id": "OneController",
-      "last_update": 1609849195000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@56e4c33b27527d76a18205742a7b24b1d5dcb632/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/OneController/archive/56e4c33b27527d76a18205742a7b24b1d5dcb632.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@56e4c33b27527d76a18205742a7b24b1d5dcb632/README.md"
+      "last_update": 1609849542000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@48c9b79ef112ee7db3029913e4c364e86e1a3e62/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/OneController/archive/48c9b79ef112ee7db3029913e4c364e86e1a3e62.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@48c9b79ef112ee7db3029913e4c364e86e1a3e62/README.md"
     },
     {
       "id": "gvisualmod",

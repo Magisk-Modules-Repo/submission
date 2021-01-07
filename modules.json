@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1610002552000,
+  "last_update": 1610002583000,
   "modules": [
     {
       "id": "active_edge_system_mod",
-      "last_update": 1610002552000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@daba4e226a650fa7848365f41ddbc66074f69e97/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/daba4e226a650fa7848365f41ddbc66074f69e97.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@daba4e226a650fa7848365f41ddbc66074f69e97/README.md"
+      "last_update": 1610002583000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@26ef09ac3be35ddba9b01f8bbf55cdf26882e668/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/26ef09ac3be35ddba9b01f8bbf55cdf26882e668.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@26ef09ac3be35ddba9b01f8bbf55cdf26882e668/README.md"
     },
     {
       "id": "magisk-frida",

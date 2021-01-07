@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1610016703000,
+  "last_update": 1610039310000,
   "modules": [
+    {
+      "id": "fontrevival",
+      "last_update": 1610039310000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@fea2cdd9338ccdbe7f36f6453f73b23205e7588b/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/fea2cdd9338ccdbe7f36f6453f73b23205e7588b.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@fea2cdd9338ccdbe7f36f6453f73b23205e7588b/README.md"
+    },
     {
       "id": "riru_location_report_enabler",
       "last_update": 1610016703000,
@@ -43,13 +50,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@bab1228605b7a27373dbd5ec145944101337e0df/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/bab1228605b7a27373dbd5ec145944101337e0df.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@bab1228605b7a27373dbd5ec145944101337e0df/README.md"
-    },
-    {
-      "id": "bromitewebview",
-      "last_update": 1609561536000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@fe6812706c6c47c8c06d0fa95043d0cc2c508d02/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/fe6812706c6c47c8c06d0fa95043d0cc2c508d02.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@fe6812706c6c47c8c06d0fa95043d0cc2c508d02/README.md"
     },
     {
       "id": "ainur_narsil",

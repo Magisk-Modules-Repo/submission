@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1609872875000,
+  "last_update": 1609985363000,
   "modules": [
+    {
+      "id": "magisk-frida",
+      "last_update": 1609985363000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@5fb7ced8a907325675a8689d788858ac8d7e080e/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/5fb7ced8a907325675a8689d788858ac8d7e080e.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@5fb7ced8a907325675a8689d788858ac8d7e080e/README.md"
+    },
     {
       "id": "airaudio",
       "last_update": 1609872875000,
@@ -78,13 +85,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@05623efc7a44ec33044694e6ac772eb80c9ed24f/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler/archive/05623efc7a44ec33044694e6ac772eb80c9ed24f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@05623efc7a44ec33044694e6ac772eb80c9ed24f/README.md"
-    },
-    {
-      "id": "magisk-frida",
-      "last_update": 1608433135000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@171c028216601e2bd764cc7a4bf18d0e13bb90d9/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/171c028216601e2bd764cc7a4bf18d0e13bb90d9.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@171c028216601e2bd764cc7a4bf18d0e13bb90d9/README.md"
     },
     {
       "id": "riru-core",

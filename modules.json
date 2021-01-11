@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1610355595000,
+  "last_update": 1610355930000,
   "modules": [
+    {
+      "id": "com.piyushgarg.rclone",
+      "last_update": 1610355930000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@c69eb3c2db9a67a141e1522676f6f7857383331a/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/archive/c69eb3c2db9a67a141e1522676f6f7857383331a.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@c69eb3c2db9a67a141e1522676f6f7857383331a/README.md"
+    },
     {
       "id": "Systemless_TZData",
       "last_update": 1610355595000,
@@ -330,13 +337,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Oxy-ify@022ce5fd9e5e9fa3f2a276f8540adc2e5b0ded5d/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/Oxy-ify/archive/022ce5fd9e5e9fa3f2a276f8540adc2e5b0ded5d.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Oxy-ify@022ce5fd9e5e9fa3f2a276f8540adc2e5b0ded5d/README.md"
-    },
-    {
-      "id": "com.piyushgarg.rclone",
-      "last_update": 1600595454000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@5ae620c70032feb30a634fb39c971559aa6d1f90/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/archive/5ae620c70032feb30a634fb39c971559aa6d1f90.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@5ae620c70032feb30a634fb39c971559aa6d1f90/README.md"
     },
     {
       "id": "aml",

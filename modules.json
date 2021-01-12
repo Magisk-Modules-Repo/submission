@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1610475755000,
+  "last_update": 1610475792000,
   "modules": [
+    {
+      "id": "zipsigner",
+      "last_update": 1610475792000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@d8a5649476d85e63fe198a150883b5e1f4201870/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/d8a5649476d85e63fe198a150883b5e1f4201870.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@d8a5649476d85e63fe198a150883b5e1f4201870/README.md"
+    },
     {
       "id": "nexusmedia",
       "last_update": 1610475755000,
@@ -204,13 +211,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@6d0f58f0f46fc3f37414b876fe926748f2f776bd/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/quickstepswitcher/archive/6d0f58f0f46fc3f37414b876fe926748f2f776bd.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@6d0f58f0f46fc3f37414b876fe926748f2f776bd/README.md"
-    },
-    {
-      "id": "zipsigner",
-      "last_update": 1606597317000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@bf583a76bf38f11abb319ff643f14cdc78db9ea4/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/bf583a76bf38f11abb319ff643f14cdc78db9ea4.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@bf583a76bf38f11abb319ff643f14cdc78db9ea4/README.md"
     },
     {
       "id": "riru_clipboard_whitelist",

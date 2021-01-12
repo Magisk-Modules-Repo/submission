@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1610469010000,
+  "last_update": 1610475148000,
   "modules": [
+    {
+      "id": "twrp-keep",
+      "last_update": 1610475148000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@6b025e81ab3aa2147b913cb3df08d4d0783d069d/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/6b025e81ab3aa2147b913cb3df08d4d0783d069d.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@6b025e81ab3aa2147b913cb3df08d4d0783d069d/README.md"
+    },
     {
       "id": "riru-core",
       "last_update": 1610469010000,
@@ -155,13 +162,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminalmods@8275b010fabbe769903470876ec175ecbaae9666/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/terminalmods/archive/8275b010fabbe769903470876ec175ecbaae9666.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminalmods@8275b010fabbe769903470876ec175ecbaae9666/README.md"
-    },
-    {
-      "id": "twrp-keep",
-      "last_update": 1607330545000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@71d826c7e672d4ba31843843da7b7b2877988cf0/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/71d826c7e672d4ba31843843da7b7b2877988cf0.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@71d826c7e672d4ba31843843da7b7b2877988cf0/README.md"
     },
     {
       "id": "callrecorder-skvalex",

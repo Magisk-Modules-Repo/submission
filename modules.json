@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1610430713000,
+  "last_update": 1610469010000,
   "modules": [
+    {
+      "id": "riru-core",
+      "last_update": 1610469010000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@f9a753e5bc12bc71bb5f3f4dd1bbb9fb6566d505/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/f9a753e5bc12bc71bb5f3f4dd1bbb9fb6566d505.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@f9a753e5bc12bc71bb5f3f4dd1bbb9fb6566d505/README.md"
+    },
     {
       "id": "riru_storage_redirect",
       "last_update": 1610430713000,
@@ -120,13 +127,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@05623efc7a44ec33044694e6ac772eb80c9ed24f/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler/archive/05623efc7a44ec33044694e6ac772eb80c9ed24f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@05623efc7a44ec33044694e6ac772eb80c9ed24f/README.md"
-    },
-    {
-      "id": "riru-core",
-      "last_update": 1608359764000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@e04b30a51f44d485bbd332b6774bf6be55e44969/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/e04b30a51f44d485bbd332b6774bf6be55e44969.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@e04b30a51f44d485bbd332b6774bf6be55e44969/README.md"
     },
     {
       "id": "benchkit",

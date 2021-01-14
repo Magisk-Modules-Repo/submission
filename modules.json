@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1610601960000,
+  "last_update": 1610601997000,
   "modules": [
+    {
+      "id": "mtd-ndk",
+      "last_update": 1610601997000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mtd-ndk@642826c307278d86d866df81cb0e1ef6da1253c1/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/mtd-ndk/archive/642826c307278d86d866df81cb0e1ef6da1253c1.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mtd-ndk@642826c307278d86d866df81cb0e1ef6da1253c1/README.md"
+    },
     {
       "id": "nano-ndk",
       "last_update": 1610601960000,
@@ -50,13 +57,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@f922a61a74d181c0bcc81dcfe2aa8641ce935870/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/f922a61a74d181c0bcc81dcfe2aa8641ce935870.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@f922a61a74d181c0bcc81dcfe2aa8641ce935870/README.md"
-    },
-    {
-      "id": "mtd-ndk",
-      "last_update": 1610475681000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mtd-ndk@39962fbd5bd160b50192ad4a32a74d3beb661aac/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/mtd-ndk/archive/39962fbd5bd160b50192ad4a32a74d3beb661aac.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mtd-ndk@39962fbd5bd160b50192ad4a32a74d3beb661aac/README.md"
     },
     {
       "id": "twrp-keep",

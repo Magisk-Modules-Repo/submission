@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1610649882000,
+  "last_update": 1610658093000,
   "modules": [
+    {
+      "id": "MagiskHidePropsConf",
+      "last_update": 1610658093000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@af93f540b2996324f06b02904a6ffd1b6579c757/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/af93f540b2996324f06b02904a6ffd1b6579c757.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@af93f540b2996324f06b02904a6ffd1b6579c757/README.md"
+    },
     {
       "id": "zipsigner",
       "last_update": 1610649882000,
@@ -85,13 +92,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Systemless_TZData@9d7d5737f52197a70f25cce833df7dcff2e0cd24/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/Systemless_TZData/archive/9d7d5737f52197a70f25cce833df7dcff2e0cd24.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Systemless_TZData@9d7d5737f52197a70f25cce833df7dcff2e0cd24/README.md"
-    },
-    {
-      "id": "MagiskHidePropsConf",
-      "last_update": 1610312072000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@a548a8dc2f4424481080822ac825c7bdfb25de64/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/a548a8dc2f4424481080822ac825c7bdfb25de64.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@a548a8dc2f4424481080822ac825c7bdfb25de64/README.md"
     },
     {
       "id": "bromitewebview",

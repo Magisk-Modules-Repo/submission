@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1610661049000,
+  "last_update": 1610715638000,
   "modules": [
+    {
+      "id": "magisk-frida",
+      "last_update": 1610715638000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@8bdc329719f9a6ca1c3ddad9a18bde62bf373762/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/8bdc329719f9a6ca1c3ddad9a18bde62bf373762.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@8bdc329719f9a6ca1c3ddad9a18bde62bf373762/README.md"
+    },
     {
       "id": "nano-ndk",
       "last_update": 1610661049000,
@@ -113,13 +120,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@26ef09ac3be35ddba9b01f8bbf55cdf26882e668/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/26ef09ac3be35ddba9b01f8bbf55cdf26882e668.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@26ef09ac3be35ddba9b01f8bbf55cdf26882e668/README.md"
-    },
-    {
-      "id": "magisk-frida",
-      "last_update": 1609985363000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@5fb7ced8a907325675a8689d788858ac8d7e080e/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/5fb7ced8a907325675a8689d788858ac8d7e080e.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@5fb7ced8a907325675a8689d788858ac8d7e080e/README.md"
     },
     {
       "id": "airaudio",

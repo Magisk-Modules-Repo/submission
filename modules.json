@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1610763084000,
+  "last_update": 1610890388000,
   "modules": [
+    {
+      "id": "magisk-drm-disabler",
+      "last_update": 1610890388000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7ae4ae31162dc985f01fa9a05e6d5e5ea55ab625/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/archive/7ae4ae31162dc985f01fa9a05e6d5e5ea55ab625.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7ae4ae31162dc985f01fa9a05e6d5e5ea55ab625/README.md"
+    },
     {
       "id": "magisk-frida",
       "last_update": 1610763084000,
@@ -253,13 +260,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mgskfixes@87f9a3daf11d6856eb509125b5f570d7d1b14e52/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/mgskfixes/archive/87f9a3daf11d6856eb509125b5f570d7d1b14e52.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mgskfixes@87f9a3daf11d6856eb509125b5f570d7d1b14e52/README.md"
-    },
-    {
-      "id": "magisk-drm-disabler",
-      "last_update": 1604872501000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7c7053fdde80f70d9347b1a926c22c905aea5e3e/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/archive/7c7053fdde80f70d9347b1a926c22c905aea5e3e.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7c7053fdde80f70d9347b1a926c22c905aea5e3e/README.md"
     },
     {
       "id": "wirelessFirmware",

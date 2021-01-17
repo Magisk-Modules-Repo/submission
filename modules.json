@@ -220,20 +220,6 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_clipboard_whitelist@f50ba66d7c20a06355ba380c2877314e546c975f/README.md"
     },
     {
-      "id": "riru_edxposed_sandhook",
-      "last_update": 1606445834000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_edxposed_sandhook@2d1b51b2244615bf5c37092e16721059a9922b6e/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_edxposed_sandhook/archive/2d1b51b2244615bf5c37092e16721059a9922b6e.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_edxposed_sandhook@2d1b51b2244615bf5c37092e16721059a9922b6e/README.md"
-    },
-    {
-      "id": "riru_edxposed",
-      "last_update": 1606445799000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_edxposed@788adfcaf7446a43371f8a3637bd9b45b159316d/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_edxposed/archive/788adfcaf7446a43371f8a3637bd9b45b159316d.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_edxposed@788adfcaf7446a43371f8a3637bd9b45b159316d/README.md"
-    },
-    {
       "id": "riru_ifw_enhance",
       "last_update": 1606119960000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_ifw_enhance@dad54e9ee6b45780efe1d1d29bfd8fca6b1f59a7/module.prop",

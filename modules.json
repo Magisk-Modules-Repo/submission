@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1610973776000,
+  "last_update": 1610973891000,
   "modules": [
     {
       "id": "MagiskHidePropsConf",
-      "last_update": 1610973776000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@8df9148df7efb8ecce8f5a98aeada8ee1761a948/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/8df9148df7efb8ecce8f5a98aeada8ee1761a948.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@8df9148df7efb8ecce8f5a98aeada8ee1761a948/README.md"
+      "last_update": 1610973891000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@f71bf5f80dcbd8c8e4aa0104b5b21675a044c265/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/f71bf5f80dcbd8c8e4aa0104b5b21675a044c265.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@f71bf5f80dcbd8c8e4aa0104b5b21675a044c265/README.md"
     },
     {
       "id": "callrecorder-skvalex",

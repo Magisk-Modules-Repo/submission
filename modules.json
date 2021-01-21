@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1611145494000,
+  "last_update": 1611188710000,
   "modules": [
+    {
+      "id": "magisk-frida",
+      "last_update": 1611188710000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@385ab1f01c473055c1f9b82b846584aed756650f/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/385ab1f01c473055c1f9b82b846584aed756650f.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@385ab1f01c473055c1f9b82b846584aed756650f/README.md"
+    },
     {
       "id": "MagiskHidePropsConf",
       "last_update": 1611145494000,
@@ -29,13 +36,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7ae4ae31162dc985f01fa9a05e6d5e5ea55ab625/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/archive/7ae4ae31162dc985f01fa9a05e6d5e5ea55ab625.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7ae4ae31162dc985f01fa9a05e6d5e5ea55ab625/README.md"
-    },
-    {
-      "id": "magisk-frida",
-      "last_update": 1610763084000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@0b80eff60c679911cd3bcaf262cbfd3821bd8905/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/0b80eff60c679911cd3bcaf262cbfd3821bd8905.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@0b80eff60c679911cd3bcaf262cbfd3821bd8905/README.md"
     },
     {
       "id": "nano-ndk",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1611443698000,
+  "last_update": 1611443700000,
   "modules": [
+    {
+      "id": "zipsigner",
+      "last_update": 1611443700000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@91ba1bd687f4903f1ecb2a0f973081efccb5cb91/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/91ba1bd687f4903f1ecb2a0f973081efccb5cb91.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@91ba1bd687f4903f1ecb2a0f973081efccb5cb91/README.md"
+    },
     {
       "id": "nexusmedia",
       "last_update": 1611443698000,
@@ -85,13 +92,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7ae4ae31162dc985f01fa9a05e6d5e5ea55ab625/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/archive/7ae4ae31162dc985f01fa9a05e6d5e5ea55ab625.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7ae4ae31162dc985f01fa9a05e6d5e5ea55ab625/README.md"
-    },
-    {
-      "id": "zipsigner",
-      "last_update": 1610649882000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@cc956da754d6de66e5475d2486eca6533585d7d1/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/cc956da754d6de66e5475d2486eca6533585d7d1.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@cc956da754d6de66e5475d2486eca6533585d7d1/README.md"
     },
     {
       "id": "twrp-keep",

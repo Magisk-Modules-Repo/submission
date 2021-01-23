@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1611387880000,
+  "last_update": 1611443680000,
   "modules": [
+    {
+      "id": "adb-ndk",
+      "last_update": 1611443680000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@1bd67fc430b71c28ed1d900ca4653fed85f352d4/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/1bd67fc430b71c28ed1d900ca4653fed85f352d4.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@1bd67fc430b71c28ed1d900ca4653fed85f352d4/README.md"
+    },
     {
       "id": "riru-core",
       "last_update": 1611387880000,
@@ -85,13 +92,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adreno-dev@f6673b2b23ee479242ad141e8e480b21563d126e/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/adreno-dev/archive/f6673b2b23ee479242ad141e8e480b21563d126e.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adreno-dev@f6673b2b23ee479242ad141e8e480b21563d126e/README.md"
-    },
-    {
-      "id": "adb-ndk",
-      "last_update": 1610649678000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@34252c170379997c5ade44b416133222cb1890a0/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/34252c170379997c5ade44b416133222cb1890a0.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@34252c170379997c5ade44b416133222cb1890a0/README.md"
     },
     {
       "id": "twrp-keep",

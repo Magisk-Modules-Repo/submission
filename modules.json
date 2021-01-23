@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1611443693000,
+  "last_update": 1611443695000,
   "modules": [
+    {
+      "id": "nano-ndk",
+      "last_update": 1611443695000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@e36ac6aa0e955059edb676023a66f1f9f92e8fa9/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/e36ac6aa0e955059edb676023a66f1f9f92e8fa9.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@e36ac6aa0e955059edb676023a66f1f9f92e8fa9/README.md"
+    },
     {
       "id": "mtd-ndk",
       "last_update": 1611443693000,
@@ -71,13 +78,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7ae4ae31162dc985f01fa9a05e6d5e5ea55ab625/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/archive/7ae4ae31162dc985f01fa9a05e6d5e5ea55ab625.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7ae4ae31162dc985f01fa9a05e6d5e5ea55ab625/README.md"
-    },
-    {
-      "id": "nano-ndk",
-      "last_update": 1610661049000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@02e42f5838975725e7a51887154d2b6f137988ce/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/02e42f5838975725e7a51887154d2b6f137988ce.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@02e42f5838975725e7a51887154d2b6f137988ce/README.md"
     },
     {
       "id": "zipsigner",

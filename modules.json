@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1611443690000,
+  "last_update": 1611443693000,
   "modules": [
+    {
+      "id": "mtd-ndk",
+      "last_update": 1611443693000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mtd-ndk@76f910a94528f1aced30ff005dc6228c11d5cd17/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/mtd-ndk/archive/76f910a94528f1aced30ff005dc6228c11d5cd17.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mtd-ndk@76f910a94528f1aced30ff005dc6228c11d5cd17/README.md"
+    },
     {
       "id": "busybox-ndk",
       "last_update": 1611443690000,
@@ -85,13 +92,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@7cdf408ea720016cf7fb7bd7dcea2ddf78beed5e/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/nexusmedia/archive/7cdf408ea720016cf7fb7bd7dcea2ddf78beed5e.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@7cdf408ea720016cf7fb7bd7dcea2ddf78beed5e/README.md"
-    },
-    {
-      "id": "mtd-ndk",
-      "last_update": 1610649806000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mtd-ndk@35c48e16edef5cc80d205b312e85c33ee9d502a8/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/mtd-ndk/archive/35c48e16edef5cc80d205b312e85c33ee9d502a8.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mtd-ndk@35c48e16edef5cc80d205b312e85c33ee9d502a8/README.md"
     },
     {
       "id": "twrp-keep",

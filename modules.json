@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1611443700000,
+  "last_update": 1611537061000,
   "modules": [
+    {
+      "id": "twrp-keep",
+      "last_update": 1611537061000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@8d862e1f0344be123f347675235ecacbe95cc306/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/8d862e1f0344be123f347675235ecacbe95cc306.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@8d862e1f0344be123f347675235ecacbe95cc306/README.md"
+    },
     {
       "id": "zipsigner",
       "last_update": 1611443700000,
@@ -92,13 +99,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7ae4ae31162dc985f01fa9a05e6d5e5ea55ab625/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/archive/7ae4ae31162dc985f01fa9a05e6d5e5ea55ab625.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7ae4ae31162dc985f01fa9a05e6d5e5ea55ab625/README.md"
-    },
-    {
-      "id": "twrp-keep",
-      "last_update": 1610475148000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@6b025e81ab3aa2147b913cb3df08d4d0783d069d/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/6b025e81ab3aa2147b913cb3df08d4d0783d069d.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@6b025e81ab3aa2147b913cb3df08d4d0783d069d/README.md"
     },
     {
       "id": "riru_storage_redirect",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1611537353000,
+  "last_update": 1611537909000,
   "modules": [
+    {
+      "id": "twrp-keep",
+      "last_update": 1611537909000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@a4a72f95dd6573287820036b91923f59560f5f43/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/a4a72f95dd6573287820036b91923f59560f5f43.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@a4a72f95dd6573287820036b91923f59560f5f43/README.md"
+    },
     {
       "id": "zipsigner",
       "last_update": 1611537353000,
@@ -50,13 +57,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@b7496af72eaa4650f822b0ab2ccbc1f109fe78c3/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/b7496af72eaa4650f822b0ab2ccbc1f109fe78c3.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@b7496af72eaa4650f822b0ab2ccbc1f109fe78c3/README.md"
-    },
-    {
-      "id": "twrp-keep",
-      "last_update": 1611537061000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@8d862e1f0344be123f347675235ecacbe95cc306/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/8d862e1f0344be123f347675235ecacbe95cc306.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@8d862e1f0344be123f347675235ecacbe95cc306/README.md"
     },
     {
       "id": "riru-core",

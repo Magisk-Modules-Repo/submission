@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1611537344000,
+  "last_update": 1611537353000,
   "modules": [
+    {
+      "id": "zipsigner",
+      "last_update": 1611537353000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@27241f7e925f738458655c811e6edc8bd5333961/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/27241f7e925f738458655c811e6edc8bd5333961.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@27241f7e925f738458655c811e6edc8bd5333961/README.md"
+    },
     {
       "id": "nexusmedia",
       "last_update": 1611537344000,
@@ -50,13 +57,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@8d862e1f0344be123f347675235ecacbe95cc306/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/8d862e1f0344be123f347675235ecacbe95cc306.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@8d862e1f0344be123f347675235ecacbe95cc306/README.md"
-    },
-    {
-      "id": "zipsigner",
-      "last_update": 1611443700000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@91ba1bd687f4903f1ecb2a0f973081efccb5cb91/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/91ba1bd687f4903f1ecb2a0f973081efccb5cb91.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@91ba1bd687f4903f1ecb2a0f973081efccb5cb91/README.md"
     },
     {
       "id": "riru-core",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1611654815000,
+  "last_update": 1611655495000,
   "modules": [
+    {
+      "id": "aria2c",
+      "last_update": 1611655495000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/aria2c@9de8660d134fe743fb28faba05a5a12885275bb1/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/aria2c/archive/9de8660d134fe743fb28faba05a5a12885275bb1.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/aria2c@9de8660d134fe743fb28faba05a5a12885275bb1/README.md"
+    },
     {
       "id": "dnscrypt-proxy2",
       "last_update": 1611654815000,
@@ -554,13 +561,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminal_systemizer@3144ec547a66f948d57e9e73fa765dc7f76f0deb/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_systemizer/archive/3144ec547a66f948d57e9e73fa765dc7f76f0deb.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminal_systemizer@3144ec547a66f948d57e9e73fa765dc7f76f0deb/README.md"
-    },
-    {
-      "id": "aria2c",
-      "last_update": 1571072657000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/aria2c@cb839ae368b3ed9fe606e77aed2e926bb674b4de/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/aria2c/archive/cb839ae368b3ed9fe606e77aed2e926bb674b4de.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/aria2c@cb839ae368b3ed9fe606e77aed2e926bb674b4de/README.md"
     },
     {
       "id": "Pix3lify",

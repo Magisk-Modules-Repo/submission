@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1611622605000,
+  "last_update": 1611654151000,
   "modules": [
+    {
+      "id": "dnscrypt-proxy2",
+      "last_update": 1611654151000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/dnscrypt-proxy2@df0332d61c3157efe70c152f769bc2b229c66e7d/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/dnscrypt-proxy2/archive/df0332d61c3157efe70c152f769bc2b229c66e7d.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/dnscrypt-proxy2@df0332d61c3157efe70c152f769bc2b229c66e7d/README.md"
+    },
     {
       "id": "zipsigner",
       "last_update": 1611622605000,
@@ -337,13 +344,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/overlayfix@34559cdf4d367f389e10c930f0b7b31833f3e396/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/overlayfix/archive/34559cdf4d367f389e10c930f0b7b31833f3e396.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/overlayfix@34559cdf4d367f389e10c930f0b7b31833f3e396/README.md"
-    },
-    {
-      "id": "dnscrypt-proxy2",
-      "last_update": 1599732160000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/dnscrypt-proxy2@84fff52b8392f3bf4cf3b6c292778654c975d2f5/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/dnscrypt-proxy2/archive/84fff52b8392f3bf4cf3b6c292778654c975d2f5.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/dnscrypt-proxy2@84fff52b8392f3bf4cf3b6c292778654c975d2f5/README.md"
     },
     {
       "id": "wifi-bonding",

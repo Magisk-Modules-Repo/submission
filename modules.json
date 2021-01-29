@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1611827247000,
+  "last_update": 1611923807000,
   "modules": [
+    {
+      "id": "gvisualmod",
+      "last_update": 1611923807000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@90ed9ffe1d922480e0e83f0bce33a5777c0f7ce7/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/90ed9ffe1d922480e0e83f0bce33a5777c0f7ce7.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@90ed9ffe1d922480e0e83f0bce33a5777c0f7ce7/README.md"
+    },
     {
       "id": "MagiskHidePropsConf",
       "last_update": 1611827247000,
@@ -169,13 +176,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@27418227609295d34b7c1c44bfb9403f3f47ea36/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/OneController/archive/27418227609295d34b7c1c44bfb9403f3f47ea36.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@27418227609295d34b7c1c44bfb9403f3f47ea36/README.md"
-    },
-    {
-      "id": "gvisualmod",
-      "last_update": 1609733917000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@bab1228605b7a27373dbd5ec145944101337e0df/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/bab1228605b7a27373dbd5ec145944101337e0df.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@bab1228605b7a27373dbd5ec145944101337e0df/README.md"
     },
     {
       "id": "ainur_narsil",

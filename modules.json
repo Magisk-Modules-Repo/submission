@@ -1,14 +1,7 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1611923807000,
+  "last_update": 1611827247000,
   "modules": [
-    {
-      "id": "gvisualmod",
-      "last_update": 1611923807000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@90ed9ffe1d922480e0e83f0bce33a5777c0f7ce7/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/90ed9ffe1d922480e0e83f0bce33a5777c0f7ce7.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@90ed9ffe1d922480e0e83f0bce33a5777c0f7ce7/README.md"
-    },
     {
       "id": "MagiskHidePropsConf",
       "last_update": 1611827247000,
@@ -269,13 +262,6 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@62668db80dc228911d8814d209e0d5606f1fb175/README.md"
     },
     {
-      "id": "mgskfixes",
-      "last_update": 1605070508000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mgskfixes@87f9a3daf11d6856eb509125b5f570d7d1b14e52/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/mgskfixes/archive/87f9a3daf11d6856eb509125b5f570d7d1b14e52.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mgskfixes@87f9a3daf11d6856eb509125b5f570d7d1b14e52/README.md"
-    },
-    {
       "id": "wirelessFirmware",
       "last_update": 1604117671000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wirelessFirmware@602ffe0a7d2defcaf43550d754f659dc4554dacf/module.prop",
@@ -379,13 +365,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@f82ad3ad6d599676154ad2149a982c79d227e7e1/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/archive/f82ad3ad6d599676154ad2149a982c79d227e7e1.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@f82ad3ad6d599676154ad2149a982c79d227e7e1/README.md"
-    },
-    {
-      "id": "HideGesBar",
-      "last_update": 1592364980000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideGesBar@2ed3cf94aaba2970f51057715ec31c64e96b3001/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/HideGesBar/archive/2ed3cf94aaba2970f51057715ec31c64e96b3001.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideGesBar@2ed3cf94aaba2970f51057715ec31c64e96b3001/README.md"
     },
     {
       "id": "ctenabler",

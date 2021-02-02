@@ -1,20 +1,20 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1612234742000,
+  "last_update": 1612254453000,
   "modules": [
+    {
+      "id": "riru_lsposed",
+      "last_update": 1612254453000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@72e0b9033a5745042503d794d384d5af019fb1b2/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/72e0b9033a5745042503d794d384d5af019fb1b2.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@72e0b9033a5745042503d794d384d5af019fb1b2/README.md"
+    },
     {
       "id": "magisk-frida",
       "last_update": 1612234742000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@57b84ea75f6751bcc6d49d1a2e9a81e4058a35b0/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/57b84ea75f6751bcc6d49d1a2e9a81e4058a35b0.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@57b84ea75f6751bcc6d49d1a2e9a81e4058a35b0/README.md"
-    },
-    {
-      "id": "riru_lsposed",
-      "last_update": 1612173796000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@418ee9570fa9d76f2129c6555249c39470cf5127/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/418ee9570fa9d76f2129c6555249c39470cf5127.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@418ee9570fa9d76f2129c6555249c39470cf5127/README.md"
     },
     {
       "id": "gvisualmod",

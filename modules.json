@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1612255684000,
+  "last_update": 1612255799000,
   "modules": [
+    {
+      "id": "microg_installer",
+      "last_update": 1612255799000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@be060d8e288f8d043de859bf0455bf3bebba6b25/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/be060d8e288f8d043de859bf0455bf3bebba6b25.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@be060d8e288f8d043de859bf0455bf3bebba6b25/README.md"
+    },
     {
       "id": "noneDisplayCutout",
       "last_update": 1612255684000,
@@ -218,13 +225,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@9288e9609fade2404105d2bb10bb03c9fc7aab52/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/9288e9609fade2404105d2bb10bb03c9fc7aab52.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@9288e9609fade2404105d2bb10bb03c9fc7aab52/README.md"
-    },
-    {
-      "id": "microg_installer",
-      "last_update": 1608619367000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@0ffbc8f9e1820d0702ff8ca5e6f2957576e1928c/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/0ffbc8f9e1820d0702ff8ca5e6f2957576e1928c.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@0ffbc8f9e1820d0702ff8ca5e6f2957576e1928c/README.md"
     },
     {
       "id": "liboemcryptodisabler",

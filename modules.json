@@ -10,6 +10,13 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@57b84ea75f6751bcc6d49d1a2e9a81e4058a35b0/README.md"
     },
     {
+      "id": "riru_lsposed",
+      "last_update": 1612173796000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@418ee9570fa9d76f2129c6555249c39470cf5127/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/418ee9570fa9d76f2129c6555249c39470cf5127.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@418ee9570fa9d76f2129c6555249c39470cf5127/README.md"
+    },
+    {
       "id": "gvisualmod",
       "last_update": 1611923807000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@90ed9ffe1d922480e0e83f0bce33a5777c0f7ce7/module.prop",
@@ -22,6 +29,13 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@dcb931d039a2328f617cb01a8272291ab7c03a35/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/dcb931d039a2328f617cb01a8272291ab7c03a35.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@dcb931d039a2328f617cb01a8272291ab7c03a35/README.md"
+    },
+    {
+      "id": "riru-sui",
+      "last_update": 1611768345000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@4228ebcbdc464c8775eb50b1787992f706686d83/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-sui/archive/4228ebcbdc464c8775eb50b1787992f706686d83.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@4228ebcbdc464c8775eb50b1787992f706686d83/README.md"
     },
     {
       "id": "aria2c",

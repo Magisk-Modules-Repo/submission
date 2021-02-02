@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1612254453000,
+  "last_update": 1612255684000,
   "modules": [
+    {
+      "id": "noneDisplayCutout",
+      "last_update": 1612255684000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/noneDisplayCutout@66a55724b69316a968d32da14c3b52886a6b1bc5/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/noneDisplayCutout/archive/66a55724b69316a968d32da14c3b52886a6b1bc5.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/noneDisplayCutout@66a55724b69316a968d32da14c3b52886a6b1bc5/README.md"
+    },
     {
       "id": "riru_lsposed",
       "last_update": 1612254453000,
@@ -645,13 +652,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/AppOpsPlugin@64344cdb707d4df5369e73320a8311fbec67760c/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/AppOpsPlugin/archive/64344cdb707d4df5369e73320a8311fbec67760c.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/AppOpsPlugin@64344cdb707d4df5369e73320a8311fbec67760c/README.md"
-    },
-    {
-      "id": "noneDisplayCutout",
-      "last_update": 1563073497000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/noneDisplayCutout@81bd7f518f3cad849ea39823e17ff80b5cf53dd0/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/noneDisplayCutout/archive/81bd7f518f3cad849ea39823e17ff80b5cf53dd0.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/noneDisplayCutout@81bd7f518f3cad849ea39823e17ff80b5cf53dd0/README.md"
     },
     {
       "id": "OneUISounds",

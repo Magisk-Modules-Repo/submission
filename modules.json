@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1612323462000,
+  "last_update": 1612323468000,
   "modules": [
+    {
+      "id": "zipsigner",
+      "last_update": 1612323468000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@f1a17bfa0b44d2cac02cb5abeeedcbbf43934908/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/f1a17bfa0b44d2cac02cb5abeeedcbbf43934908.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@f1a17bfa0b44d2cac02cb5abeeedcbbf43934908/README.md"
+    },
     {
       "id": "nexusmedia",
       "last_update": 1612323462000,
@@ -106,13 +113,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/dnscrypt-proxy2@d22ee061bd384eef8d2b1450033f2435f25164ca/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/dnscrypt-proxy2/archive/d22ee061bd384eef8d2b1450033f2435f25164ca.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/dnscrypt-proxy2@d22ee061bd384eef8d2b1450033f2435f25164ca/README.md"
-    },
-    {
-      "id": "zipsigner",
-      "last_update": 1611622605000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@9c409cc3d7b1879ce225b97544ff249724b5543b/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/9c409cc3d7b1879ce225b97544ff249724b5543b.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@9c409cc3d7b1879ce225b97544ff249724b5543b/README.md"
     },
     {
       "id": "twrp-keep",

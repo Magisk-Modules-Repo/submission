@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1612323468000,
+  "last_update": 1612343337000,
   "modules": [
+    {
+      "id": "riru_edxposed",
+      "last_update": 1612343337000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_edxposed@a07ad6fda6c8308d8667d21ef09a2e375dbfdb7b/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_edxposed/archive/a07ad6fda6c8308d8667d21ef09a2e375dbfdb7b.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_edxposed@a07ad6fda6c8308d8667d21ef09a2e375dbfdb7b/README.md"
+    },
     {
       "id": "zipsigner",
       "last_update": 1612323468000,

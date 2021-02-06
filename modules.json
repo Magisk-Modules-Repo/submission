@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1612597059000,
+  "last_update": 1612609605000,
   "modules": [
+    {
+      "id": "riru_lsposed",
+      "last_update": 1612609605000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@6183d01891e08a9be3d95b06df5de613bb052037/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/6183d01891e08a9be3d95b06df5de613bb052037.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@6183d01891e08a9be3d95b06df5de613bb052037/README.md"
+    },
     {
       "id": "MagiskHidePropsConf",
       "last_update": 1612597059000,
@@ -78,13 +85,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@0bf304c94ef180f4960323c61917222943efb6d2/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/0bf304c94ef180f4960323c61917222943efb6d2.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@0bf304c94ef180f4960323c61917222943efb6d2/README.md"
-    },
-    {
-      "id": "riru_lsposed",
-      "last_update": 1612291819000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@143e61bf9e1f1bb0f0825fe392818ecd4017d34e/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/143e61bf9e1f1bb0f0825fe392818ecd4017d34e.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@143e61bf9e1f1bb0f0825fe392818ecd4017d34e/README.md"
     },
     {
       "id": "microg_installer",

@@ -10,6 +10,13 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@6c502066665c3693e190df560274cf33db08c121/README.md"
     },
     {
+      "id": "bromitewebview",
+      "last_update": 1612552485000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@c4c7ba588b0c1fcf6e117980c7537e3b90f3113c/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/c4c7ba588b0c1fcf6e117980c7537e3b90f3113c.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@c4c7ba588b0c1fcf6e117980c7537e3b90f3113c/README.md"
+    },
+    {
       "id": "riru_edxposed",
       "last_update": 1612343337000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_edxposed@a07ad6fda6c8308d8667d21ef09a2e375dbfdb7b/module.prop",
@@ -176,13 +183,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Systemless_TZData@9d7d5737f52197a70f25cce833df7dcff2e0cd24/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/Systemless_TZData/archive/9d7d5737f52197a70f25cce833df7dcff2e0cd24.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Systemless_TZData@9d7d5737f52197a70f25cce833df7dcff2e0cd24/README.md"
-    },
-    {
-      "id": "bromitewebview",
-      "last_update": 1610044293000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@8b55ac7466a8cd0cd71835b818d5750392bf392c/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/8b55ac7466a8cd0cd71835b818d5750392bf392c.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@8b55ac7466a8cd0cd71835b818d5750392bf392c/README.md"
     },
     {
       "id": "riru_location_report_enabler",

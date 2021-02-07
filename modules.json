@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1612663397000,
+  "last_update": 1612672932000,
   "modules": [
+    {
+      "id": "riru-sui",
+      "last_update": 1612672932000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@00ebdd40c23f0f38b836a7ef377711caa8338162/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-sui/archive/00ebdd40c23f0f38b836a7ef377711caa8338162.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@00ebdd40c23f0f38b836a7ef377711caa8338162/README.md"
+    },
     {
       "id": "Systemless_TZData",
       "last_update": 1612663397000,
@@ -120,13 +127,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@90ed9ffe1d922480e0e83f0bce33a5777c0f7ce7/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/90ed9ffe1d922480e0e83f0bce33a5777c0f7ce7.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@90ed9ffe1d922480e0e83f0bce33a5777c0f7ce7/README.md"
-    },
-    {
-      "id": "riru-sui",
-      "last_update": 1611768345000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@4228ebcbdc464c8775eb50b1787992f706686d83/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-sui/archive/4228ebcbdc464c8775eb50b1787992f706686d83.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@4228ebcbdc464c8775eb50b1787992f706686d83/README.md"
     },
     {
       "id": "aria2c",

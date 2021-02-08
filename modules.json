@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1612772022000,
+  "last_update": 1612778235000,
   "modules": [
+    {
+      "id": "magisk-drm-disabler",
+      "last_update": 1612778235000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7a4d2d6a76b52765c9656ae251084628ff13178e/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/archive/7a4d2d6a76b52765c9656ae251084628ff13178e.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7a4d2d6a76b52765c9656ae251084628ff13178e/README.md"
+    },
     {
       "id": "active_edge_system_mod",
       "last_update": 1612772022000,
@@ -176,13 +183,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/callrecorder-skvalex@2d6c93237a92a8d504b39bb76f9762fb1338c4f7/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/archive/2d6c93237a92a8d504b39bb76f9762fb1338c4f7.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/callrecorder-skvalex@2d6c93237a92a8d504b39bb76f9762fb1338c4f7/README.md"
-    },
-    {
-      "id": "magisk-drm-disabler",
-      "last_update": 1610890388000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7ae4ae31162dc985f01fa9a05e6d5e5ea55ab625/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/archive/7ae4ae31162dc985f01fa9a05e6d5e5ea55ab625.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7ae4ae31162dc985f01fa9a05e6d5e5ea55ab625/README.md"
     },
     {
       "id": "riru_storage_redirect",

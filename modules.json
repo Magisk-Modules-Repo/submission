@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1612851452000,
+  "last_update": 1612851483000,
   "modules": [
     {
       "id": "Fdroid-Priv",
-      "last_update": 1612851452000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@8b9c554cf4f4116229e60931a2e3dd8bd9ef50aa/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/archive/8b9c554cf4f4116229e60931a2e3dd8bd9ef50aa.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@8b9c554cf4f4116229e60931a2e3dd8bd9ef50aa/README.md"
+      "last_update": 1612851483000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@d79a9b7969331b75fca93c2b01b3277affb11063/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/archive/d79a9b7969331b75fca93c2b01b3277affb11063.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@d79a9b7969331b75fca93c2b01b3277affb11063/README.md"
     },
     {
       "id": "magisk-drm-disabler",

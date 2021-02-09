@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1612851483000,
+  "last_update": 1612912744000,
   "modules": [
+    {
+      "id": "magisk-frida",
+      "last_update": 1612912744000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@241a42be1f73d5cfad33b9b4831b84011a2eca31/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/241a42be1f73d5cfad33b9b4831b84011a2eca31.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@241a42be1f73d5cfad33b9b4831b84011a2eca31/README.md"
+    },
     {
       "id": "Fdroid-Classic-Priv",
       "last_update": 1612851483000,
@@ -64,13 +71,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@6183d01891e08a9be3d95b06df5de613bb052037/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/6183d01891e08a9be3d95b06df5de613bb052037.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@6183d01891e08a9be3d95b06df5de613bb052037/README.md"
-    },
-    {
-      "id": "magisk-frida",
-      "last_update": 1612583385000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@6c502066665c3693e190df560274cf33db08c121/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/6c502066665c3693e190df560274cf33db08c121.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@6c502066665c3693e190df560274cf33db08c121/README.md"
     },
     {
       "id": "bromitewebview",

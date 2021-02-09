@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1612778235000,
+  "last_update": 1612851452000,
   "modules": [
+    {
+      "id": "Fdroid-Priv",
+      "last_update": 1612851452000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@8b9c554cf4f4116229e60931a2e3dd8bd9ef50aa/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/archive/8b9c554cf4f4116229e60931a2e3dd8bd9ef50aa.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@8b9c554cf4f4116229e60931a2e3dd8bd9ef50aa/README.md"
+    },
     {
       "id": "magisk-drm-disabler",
       "last_update": 1612778235000,
@@ -540,13 +547,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/disable-screenshot-camera-sounds@5d10ffdb7f6598eb0848b8ab55a49fd012a52be0/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/archive/5d10ffdb7f6598eb0848b8ab55a49fd012a52be0.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/disable-screenshot-camera-sounds@5d10ffdb7f6598eb0848b8ab55a49fd012a52be0/README.md"
-    },
-    {
-      "id": "Fdroid-Priv",
-      "last_update": 1574539226000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@9398ae9c780b8726ebc883e144094963fa1cd6eb/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/archive/9398ae9c780b8726ebc883e144094963fa1cd6eb.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@9398ae9c780b8726ebc883e144094963fa1cd6eb/README.md"
     },
     {
       "id": "sap",

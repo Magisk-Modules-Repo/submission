@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1613055203000,
+  "last_update": 1613055419000,
   "modules": [
     {
       "id": "Fdroid-Classic-Priv",
-      "last_update": 1613055203000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@83d714c456c84011aabdcfa3398aea0636477e13/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/archive/83d714c456c84011aabdcfa3398aea0636477e13.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@83d714c456c84011aabdcfa3398aea0636477e13/README.md"
+      "last_update": 1613055419000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@c51a23e1c6b47ecde186f8192153dfdb3b865812/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/archive/c51a23e1c6b47ecde186f8192153dfdb3b865812.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@c51a23e1c6b47ecde186f8192153dfdb3b865812/README.md"
     },
     {
       "id": "riru_storage_redirect",

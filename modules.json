@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1613039685000,
+  "last_update": 1613055203000,
   "modules": [
+    {
+      "id": "Fdroid-Classic-Priv",
+      "last_update": 1613055203000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@83d714c456c84011aabdcfa3398aea0636477e13/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/archive/83d714c456c84011aabdcfa3398aea0636477e13.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@83d714c456c84011aabdcfa3398aea0636477e13/README.md"
+    },
     {
       "id": "riru_storage_redirect",
       "last_update": 1613039685000,
@@ -29,13 +36,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@241a42be1f73d5cfad33b9b4831b84011a2eca31/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/241a42be1f73d5cfad33b9b4831b84011a2eca31.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@241a42be1f73d5cfad33b9b4831b84011a2eca31/README.md"
-    },
-    {
-      "id": "Fdroid-Classic-Priv",
-      "last_update": 1612851483000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@d79a9b7969331b75fca93c2b01b3277affb11063/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/archive/d79a9b7969331b75fca93c2b01b3277affb11063.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@d79a9b7969331b75fca93c2b01b3277affb11063/README.md"
     },
     {
       "id": "magisk-drm-disabler",

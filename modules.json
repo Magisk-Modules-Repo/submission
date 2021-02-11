@@ -3,7 +3,7 @@
   "last_update": 1613055419000,
   "modules": [
     {
-      "id": "Fdroid-Classic-Priv",
+      "id": "Fdroid-Priv",
       "last_update": 1613055419000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@c51a23e1c6b47ecde186f8192153dfdb3b865812/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/archive/c51a23e1c6b47ecde186f8192153dfdb3b865812.zip",

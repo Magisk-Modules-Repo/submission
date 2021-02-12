@@ -598,13 +598,6 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Pix3lify@e60bbc90477cf9fa268b9e35c82b4e69145c1292/README.md"
     },
     {
-      "id": "optmizedgpsconf",
-      "last_update": 1570558957000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/optmizedgpsconf@1db95381755edbdc2545ffd1cea744cc89918a0b/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/optmizedgpsconf/archive/1db95381755edbdc2545ffd1cea744cc89918a0b.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/optmizedgpsconf@1db95381755edbdc2545ffd1cea744cc89918a0b/README.md"
-    },
-    {
       "id": "IPControl",
       "last_update": 1569912326000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/IPControl@0934acc1362fe88fafbf58b79ef9705ccac8b2c4/module.prop",

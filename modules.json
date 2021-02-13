@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1613055419000,
+  "last_update": 1613175363000,
   "modules": [
+    {
+      "id": "ccbins",
+      "last_update": 1613175363000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@8b7084b511d3c71b28fb220043fa731c6e7b5583/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/ccbins/archive/8b7084b511d3c71b28fb220043fa731c6e7b5583.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@8b7084b511d3c71b28fb220043fa731c6e7b5583/README.md"
+    },
     {
       "id": "Fdroid-Priv",
       "last_update": 1613055419000,
@@ -330,13 +337,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ExSDCard@db6c552e46158ba70a5784cc56af4be638cabc48/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/ExSDCard/archive/db6c552e46158ba70a5784cc56af4be638cabc48.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ExSDCard@db6c552e46158ba70a5784cc56af4be638cabc48/README.md"
-    },
-    {
-      "id": "ccbins",
-      "last_update": 1603226425000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@494061bf742dceedc7f64b635bf029f03e5c5205/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/ccbins/archive/494061bf742dceedc7f64b635bf029f03e5c5205.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@494061bf742dceedc7f64b635bf029f03e5c5205/README.md"
     },
     {
       "id": "energizedprotection",

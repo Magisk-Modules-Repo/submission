@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1613175363000,
+  "last_update": 1613241809000,
   "modules": [
+    {
+      "id": "riru-sui",
+      "last_update": 1613241809000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@bfc1caf388cb3b4c15f966942dfb0f974e55daf6/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-sui/archive/bfc1caf388cb3b4c15f966942dfb0f974e55daf6.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@bfc1caf388cb3b4c15f966942dfb0f974e55daf6/README.md"
+    },
     {
       "id": "ccbins",
       "last_update": 1613175363000,
@@ -29,13 +36,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@b38a2e747e580cf3f7cf531ed2c9932be0988018/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/b38a2e747e580cf3f7cf531ed2c9932be0988018.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@b38a2e747e580cf3f7cf531ed2c9932be0988018/README.md"
-    },
-    {
-      "id": "riru-sui",
-      "last_update": 1613036690000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@bb00a69ebc4f2643f39628732da5e509049aee4d/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-sui/archive/bb00a69ebc4f2643f39628732da5e509049aee4d.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@bb00a69ebc4f2643f39628732da5e509049aee4d/README.md"
     },
     {
       "id": "magisk-frida",

@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1613281579000,
+  "last_update": 1613281622000,
   "modules": [
     {
       "id": "WDAnimationcxair",
-      "last_update": 1613281579000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/WDAnimationcxair@8900771e86d77c8e606fb83f255dbe3a60412df7/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/WDAnimationcxair/archive/8900771e86d77c8e606fb83f255dbe3a60412df7.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/WDAnimationcxair@8900771e86d77c8e606fb83f255dbe3a60412df7/README.md"
+      "last_update": 1613281622000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/WDAnimationcxair@1543a802c05d1155881471acb8d92cad69ec4866/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/WDAnimationcxair/archive/1543a802c05d1155881471acb8d92cad69ec4866.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/WDAnimationcxair@1543a802c05d1155881471acb8d92cad69ec4866/README.md"
     },
     {
       "id": "riru-sui",

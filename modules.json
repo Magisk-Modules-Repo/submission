@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1613281622000,
+  "last_update": 1613321155000,
   "modules": [
+    {
+      "id": "riru_lsposed",
+      "last_update": 1613321155000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@2a9927e8047de039859c8ec9670d981fda11b4c7/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/2a9927e8047de039859c8ec9670d981fda11b4c7.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@2a9927e8047de039859c8ec9670d981fda11b4c7/README.md"
+    },
     {
       "id": "WDAnimationcxair",
       "last_update": 1613281622000,
@@ -92,13 +99,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@48cf48b1ac4d3e91f76af36d2a31320b45421f3f/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/48cf48b1ac4d3e91f76af36d2a31320b45421f3f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@48cf48b1ac4d3e91f76af36d2a31320b45421f3f/README.md"
-    },
-    {
-      "id": "riru_lsposed",
-      "last_update": 1612609605000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@6183d01891e08a9be3d95b06df5de613bb052037/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/6183d01891e08a9be3d95b06df5de613bb052037.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@6183d01891e08a9be3d95b06df5de613bb052037/README.md"
     },
     {
       "id": "bromitewebview",

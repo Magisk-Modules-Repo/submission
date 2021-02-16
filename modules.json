@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1613321155000,
+  "last_update": 1613473121000,
   "modules": [
+    {
+      "id": "NFCScreenOff",
+      "last_update": 1613473121000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@dcf9f5526d8130a248697b973073499fc49352c3/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/archive/dcf9f5526d8130a248697b973073499fc49352c3.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@dcf9f5526d8130a248697b973073499fc49352c3/README.md"
+    },
     {
       "id": "riru_lsposed",
       "last_update": 1613321155000,
@@ -407,13 +414,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/motoclockwidget@246ff9c12a43de3fa0b6766a26cda1afd00dff38/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/motoclockwidget/archive/246ff9c12a43de3fa0b6766a26cda1afd00dff38.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/motoclockwidget@246ff9c12a43de3fa0b6766a26cda1afd00dff38/README.md"
-    },
-    {
-      "id": "NFCScreenOff",
-      "last_update": 1592828205000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@f82ad3ad6d599676154ad2149a982c79d227e7e1/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/archive/f82ad3ad6d599676154ad2149a982c79d227e7e1.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@f82ad3ad6d599676154ad2149a982c79d227e7e1/README.md"
     },
     {
       "id": "HideGesBar",

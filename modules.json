@@ -1,20 +1,20 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1613747827000,
+  "last_update": 1613909531000,
   "modules": [
+    {
+      "id": "riru-sui",
+      "last_update": 1613909531000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@3219770f0c32d3d09187d70b108bebf892061bbc/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-sui/archive/3219770f0c32d3d09187d70b108bebf892061bbc.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@3219770f0c32d3d09187d70b108bebf892061bbc/README.md"
+    },
     {
       "id": "callrecorder-skvalex",
       "last_update": 1613747827000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/callrecorder-skvalex@c9050b79e78237fa6f0944a41ef24cde7a9fe188/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/archive/c9050b79e78237fa6f0944a41ef24cde7a9fe188.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/callrecorder-skvalex@c9050b79e78237fa6f0944a41ef24cde7a9fe188/README.md"
-    },
-    {
-      "id": "riru-sui",
-      "last_update": 1613744490000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@7921f7693f0da571f301e65c8cc7f684419e52d9/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-sui/archive/7921f7693f0da571f301e65c8cc7f684419e52d9.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@7921f7693f0da571f301e65c8cc7f684419e52d9/README.md"
     },
     {
       "id": "MagiskHidePropsConf",

@@ -710,6 +710,13 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/foxy-boot@891054661c9b4475347a7e399ab1841b9242ed23/README.md"
     },
     {
+      "id": "com.catchingnow.icebox",
+      "last_update": 1557655646000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.catchingnow.icebox@cdeb14777846c5015398fe85971dac411b52a04e/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/com.catchingnow.icebox/archive/cdeb14777846c5015398fe85971dac411b52a04e.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.catchingnow.icebox@cdeb14777846c5015398fe85971dac411b52a04e/README.md"
+    },
+    {
       "id": "xposed",
       "last_update": 1556686471000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/xposed@11e46aadc516b1227e1b3f98a0785b7eecb88c26/module.prop",

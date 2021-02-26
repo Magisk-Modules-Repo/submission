@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1614255760000,
+  "last_update": 1614333216000,
   "modules": [
+    {
+      "id": "riru_lsposed",
+      "last_update": 1614333216000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@ab444dce0f4c532d81ba2018b8f1675bf8b83aa3/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/ab444dce0f4c532d81ba2018b8f1675bf8b83aa3.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@ab444dce0f4c532d81ba2018b8f1675bf8b83aa3/README.md"
+    },
     {
       "id": "acc",
       "last_update": 1614255760000,
@@ -64,13 +71,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@dcf9f5526d8130a248697b973073499fc49352c3/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/archive/dcf9f5526d8130a248697b973073499fc49352c3.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@dcf9f5526d8130a248697b973073499fc49352c3/README.md"
-    },
-    {
-      "id": "riru_lsposed",
-      "last_update": 1613321155000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@2a9927e8047de039859c8ec9670d981fda11b4c7/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/2a9927e8047de039859c8ec9670d981fda11b4c7.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@2a9927e8047de039859c8ec9670d981fda11b4c7/README.md"
     },
     {
       "id": "WDAnimationcxair",

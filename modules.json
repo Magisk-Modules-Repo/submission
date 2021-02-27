@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1614333216000,
+  "last_update": 1614402521000,
   "modules": [
+    {
+      "id": "energizedprotection",
+      "last_update": 1614402521000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/energizedprotection@081635ff847e66b0b3641b3723ffc3a1f062a1da/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/081635ff847e66b0b3641b3723ffc3a1f062a1da.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/energizedprotection@081635ff847e66b0b3641b3723ffc3a1f062a1da/README.md"
+    },
     {
       "id": "riru_lsposed",
       "last_update": 1614333216000,
@@ -351,13 +358,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ExSDCard@db6c552e46158ba70a5784cc56af4be638cabc48/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/ExSDCard/archive/db6c552e46158ba70a5784cc56af4be638cabc48.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ExSDCard@db6c552e46158ba70a5784cc56af4be638cabc48/README.md"
-    },
-    {
-      "id": "energizedprotection",
-      "last_update": 1602821679000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/energizedprotection@f085009bf12babcde6170132e73e38310f2fe865/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/f085009bf12babcde6170132e73e38310f2fe865.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/energizedprotection@f085009bf12babcde6170132e73e38310f2fe865/README.md"
     },
     {
       "id": "GoogleDialerFramework",

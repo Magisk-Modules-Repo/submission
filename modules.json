@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1614513663000,
+  "last_update": 1614573040000,
   "modules": [
+    {
+      "id": "riru_ifw_enhance",
+      "last_update": 1614573040000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_ifw_enhance@ad13b4ddf9166fbb830d10f69580b9c402d2e7ab/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_ifw_enhance/archive/ad13b4ddf9166fbb830d10f69580b9c402d2e7ab.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_ifw_enhance@ad13b4ddf9166fbb830d10f69580b9c402d2e7ab/README.md"
+    },
     {
       "id": "riru_clipboard_whitelist",
       "last_update": 1614513663000,
@@ -309,13 +316,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@6d0f58f0f46fc3f37414b876fe926748f2f776bd/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/quickstepswitcher/archive/6d0f58f0f46fc3f37414b876fe926748f2f776bd.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@6d0f58f0f46fc3f37414b876fe926748f2f776bd/README.md"
-    },
-    {
-      "id": "riru_ifw_enhance",
-      "last_update": 1606119960000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_ifw_enhance@dad54e9ee6b45780efe1d1d29bfd8fca6b1f59a7/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_ifw_enhance/archive/dad54e9ee6b45780efe1d1d29bfd8fca6b1f59a7.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_ifw_enhance@dad54e9ee6b45780efe1d1d29bfd8fca6b1f59a7/README.md"
     },
     {
       "id": "ainur_jamesdsp",

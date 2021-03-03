@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1614782308000,
+  "last_update": 1614797438000,
   "modules": [
+    {
+      "id": "active_edge_system_mod",
+      "last_update": 1614797438000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@493e878c23ca4bf3602bb536a6233cb35e77a6b8/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/493e878c23ca4bf3602bb536a6233cb35e77a6b8.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@493e878c23ca4bf3602bb536a6233cb35e77a6b8/README.md"
+    },
     {
       "id": "riru-core",
       "last_update": 1614782308000,
@@ -134,13 +141,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7a4d2d6a76b52765c9656ae251084628ff13178e/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/archive/7a4d2d6a76b52765c9656ae251084628ff13178e.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7a4d2d6a76b52765c9656ae251084628ff13178e/README.md"
-    },
-    {
-      "id": "active_edge_system_mod",
-      "last_update": 1612772022000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@9b57df07e1a58b4ecca61f763cebf89986a62c88/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/9b57df07e1a58b4ecca61f763cebf89986a62c88.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@9b57df07e1a58b4ecca61f763cebf89986a62c88/README.md"
     },
     {
       "id": "Systemless_TZData",

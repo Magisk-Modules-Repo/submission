@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1614967018000,
+  "last_update": 1614970307000,
   "modules": [
+    {
+      "id": "riru-sui",
+      "last_update": 1614970307000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@eed8a50353ed48d0da93959e9e02904c68ea6c7f/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-sui/archive/eed8a50353ed48d0da93959e9e02904c68ea6c7f.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@eed8a50353ed48d0da93959e9e02904c68ea6c7f/README.md"
+    },
     {
       "id": "BluetoothLibraryPatcher",
       "last_update": 1614967018000,
@@ -78,13 +85,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@8d038040fffc48dd863ac4f7a7bd3b5476b357fa/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/OneController/archive/8d038040fffc48dd863ac4f7a7bd3b5476b357fa.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@8d038040fffc48dd863ac4f7a7bd3b5476b357fa/README.md"
-    },
-    {
-      "id": "riru-sui",
-      "last_update": 1613909531000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@3219770f0c32d3d09187d70b108bebf892061bbc/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-sui/archive/3219770f0c32d3d09187d70b108bebf892061bbc.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@3219770f0c32d3d09187d70b108bebf892061bbc/README.md"
     },
     {
       "id": "callrecorder-skvalex",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1614997464000,
+  "last_update": 1615012800000,
   "modules": [
+    {
+      "id": "microg_installer",
+      "last_update": 1615012800000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@7ad3f03f533024b03676dc5d9d5ede0c58b3197e/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/7ad3f03f533024b03676dc5d9d5ede0c58b3197e.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@7ad3f03f533024b03676dc5d9d5ede0c58b3197e/README.md"
+    },
     {
       "id": "Fdroid-Priv",
       "last_update": 1614997464000,
@@ -43,13 +50,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@bc6004aad01913feeaebe4520d4c5832febc0c2e/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/bc6004aad01913feeaebe4520d4c5832febc0c2e.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@bc6004aad01913feeaebe4520d4c5832febc0c2e/README.md"
-    },
-    {
-      "id": "microg_installer",
-      "last_update": 1614592058000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@8e2e6d8d7188f02d7fe94b074161384f7511ad94/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/8e2e6d8d7188f02d7fe94b074161384f7511ad94.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@8e2e6d8d7188f02d7fe94b074161384f7511ad94/README.md"
     },
     {
       "id": "riru_ifw_enhance",

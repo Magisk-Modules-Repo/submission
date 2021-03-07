@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1615012800000,
+  "last_update": 1615145943000,
   "modules": [
+    {
+      "id": "MagiskHidePropsConf",
+      "last_update": 1615145943000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@dfa3167047a404952d5c9b3284e98fbd8562559a/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/dfa3167047a404952d5c9b3284e98fbd8562559a.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@dfa3167047a404952d5c9b3284e98fbd8562559a/README.md"
+    },
     {
       "id": "microg_installer",
       "last_update": 1615012800000,
@@ -43,13 +50,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@493e878c23ca4bf3602bb536a6233cb35e77a6b8/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/493e878c23ca4bf3602bb536a6233cb35e77a6b8.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@493e878c23ca4bf3602bb536a6233cb35e77a6b8/README.md"
-    },
-    {
-      "id": "MagiskHidePropsConf",
-      "last_update": 1614692590000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@bc6004aad01913feeaebe4520d4c5832febc0c2e/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/bc6004aad01913feeaebe4520d4c5832febc0c2e.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@bc6004aad01913feeaebe4520d4c5832febc0c2e/README.md"
     },
     {
       "id": "riru_ifw_enhance",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1615510921000,
+  "last_update": 1615591163000,
   "modules": [
+    {
+      "id": "NFCScreenOff",
+      "last_update": 1615591163000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@389870698db82368a3a540f54bfdb5590c7d9d02/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/archive/389870698db82368a3a540f54bfdb5590c7d9d02.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@389870698db82368a3a540f54bfdb5590c7d9d02/README.md"
+    },
     {
       "id": "nano-ndk",
       "last_update": 1615510921000,
@@ -120,13 +127,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_edxposed@7293bf52ad17b0cdded2bc94027168481bdea55a/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/riru_edxposed/archive/7293bf52ad17b0cdded2bc94027168481bdea55a.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_edxposed@7293bf52ad17b0cdded2bc94027168481bdea55a/README.md"
-    },
-    {
-      "id": "NFCScreenOff",
-      "last_update": 1613473121000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@dcf9f5526d8130a248697b973073499fc49352c3/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/archive/dcf9f5526d8130a248697b973073499fc49352c3.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@dcf9f5526d8130a248697b973073499fc49352c3/README.md"
     },
     {
       "id": "WDAnimationcxair",

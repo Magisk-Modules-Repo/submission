@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1616186146000,
+  "last_update": 1616186169000,
   "modules": [
     {
       "id": "MagiskHidePropsConf",
-      "last_update": 1616186146000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@7765b5a73ce41cde81e201e072edc159c1c8123f/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/7765b5a73ce41cde81e201e072edc159c1c8123f.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@7765b5a73ce41cde81e201e072edc159c1c8123f/README.md"
+      "last_update": 1616186169000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@3ea0c82c7fed6790feeecb65c9d25671c15b8bec/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/3ea0c82c7fed6790feeecb65c9d25671c15b8bec.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@3ea0c82c7fed6790feeecb65c9d25671c15b8bec/README.md"
     },
     {
       "id": "NFCScreenOff",

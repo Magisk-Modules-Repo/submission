@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1616186169000,
+  "last_update": 1616302237000,
   "modules": [
+    {
+      "id": "riru_storage_redirect",
+      "last_update": 1616302237000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@6fffcf8cb6d4417a2b8dfbe8a0869d16866f8902/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect/archive/6fffcf8cb6d4417a2b8dfbe8a0869d16866f8902.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@6fffcf8cb6d4417a2b8dfbe8a0869d16866f8902/README.md"
+    },
     {
       "id": "MagiskHidePropsConf",
       "last_update": 1616186169000,
@@ -141,13 +148,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@5b37dbc48c781f7815d1a40b1d4a3fb98e214bf6/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/ccbins/archive/5b37dbc48c781f7815d1a40b1d4a3fb98e214bf6.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@5b37dbc48c781f7815d1a40b1d4a3fb98e214bf6/README.md"
-    },
-    {
-      "id": "riru_storage_redirect",
-      "last_update": 1613039685000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@104680d7746606cfbfa66fdbfcc28ef28b23add3/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect/archive/104680d7746606cfbfa66fdbfcc28ef28b23add3.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@104680d7746606cfbfa66fdbfcc28ef28b23add3/README.md"
     },
     {
       "id": "magisk-drm-disabler",

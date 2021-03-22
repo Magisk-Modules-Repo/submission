@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1616410697000,
+  "last_update": 1616412853000,
   "modules": [
+    {
+      "id": "riru_storage_redirect",
+      "last_update": 1616412853000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@86e37b5cd294d8d219129ff8f7d0b40f16496ed1/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect/archive/86e37b5cd294d8d219129ff8f7d0b40f16496ed1.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@86e37b5cd294d8d219129ff8f7d0b40f16496ed1/README.md"
+    },
     {
       "id": "riru_location_report_enabler",
       "last_update": 1616410697000,
@@ -22,13 +29,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@5b8fd85c5299b531284e1209bf6aaf299c0ec1fb/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/5b8fd85c5299b531284e1209bf6aaf299c0ec1fb.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@5b8fd85c5299b531284e1209bf6aaf299c0ec1fb/README.md"
-    },
-    {
-      "id": "riru_storage_redirect",
-      "last_update": 1616409894000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@7d3cae695a2ed871c76530f4680487721543a543/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect/archive/7d3cae695a2ed871c76530f4680487721543a543.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@7d3cae695a2ed871c76530f4680487721543a543/README.md"
     },
     {
       "id": "twrp-keep",

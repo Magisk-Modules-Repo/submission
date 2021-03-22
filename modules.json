@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1616412853000,
+  "last_update": 1616415706000,
   "modules": [
+    {
+      "id": "riru_lsposed",
+      "last_update": 1616415706000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@8836eeb7f4a7ee8b0d1fb101c71f28758496b664/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/8836eeb7f4a7ee8b0d1fb101c71f28758496b664.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@8836eeb7f4a7ee8b0d1fb101c71f28758496b664/README.md"
+    },
     {
       "id": "riru_storage_redirect",
       "last_update": 1616412853000,
@@ -57,13 +64,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@7888643c531926429e77536dde6251c9424b4c3e/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/7888643c531926429e77536dde6251c9424b4c3e.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@7888643c531926429e77536dde6251c9424b4c3e/README.md"
-    },
-    {
-      "id": "riru_lsposed",
-      "last_update": 1615183516000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@028fa70d1717d1047995aa9b1098ae4b98b37e1e/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/028fa70d1717d1047995aa9b1098ae4b98b37e1e.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@028fa70d1717d1047995aa9b1098ae4b98b37e1e/README.md"
     },
     {
       "id": "microg_installer",

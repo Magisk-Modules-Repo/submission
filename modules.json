@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1616302237000,
+  "last_update": 1616371840000,
   "modules": [
+    {
+      "id": "twrp-keep",
+      "last_update": 1616371840000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@9a53cd9698bf966f4f8c8102bf69771dd30849e3/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/9a53cd9698bf966f4f8c8102bf69771dd30849e3.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@9a53cd9698bf966f4f8c8102bf69771dd30849e3/README.md"
+    },
     {
       "id": "riru_storage_redirect",
       "last_update": 1616302237000,
@@ -239,13 +246,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/dnscrypt-proxy2@d22ee061bd384eef8d2b1450033f2435f25164ca/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/dnscrypt-proxy2/archive/d22ee061bd384eef8d2b1450033f2435f25164ca.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/dnscrypt-proxy2@d22ee061bd384eef8d2b1450033f2435f25164ca/README.md"
-    },
-    {
-      "id": "twrp-keep",
-      "last_update": 1611537909000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@a4a72f95dd6573287820036b91923f59560f5f43/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/a4a72f95dd6573287820036b91923f59560f5f43.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@a4a72f95dd6573287820036b91923f59560f5f43/README.md"
     },
     {
       "id": "HideNavBar",

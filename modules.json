@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1616410536000,
+  "last_update": 1616410697000,
   "modules": [
+    {
+      "id": "riru_location_report_enabler",
+      "last_update": 1616410697000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_location_report_enabler@3bbbd99177fcac2ab7f255086da7550eabe28d71/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_location_report_enabler/archive/3bbbd99177fcac2ab7f255086da7550eabe28d71.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_location_report_enabler@3bbbd99177fcac2ab7f255086da7550eabe28d71/README.md"
+    },
     {
       "id": "riru-sui",
       "last_update": 1616410536000,
@@ -260,13 +267,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@c69eb3c2db9a67a141e1522676f6f7857383331a/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/archive/c69eb3c2db9a67a141e1522676f6f7857383331a.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@c69eb3c2db9a67a141e1522676f6f7857383331a/README.md"
-    },
-    {
-      "id": "riru_location_report_enabler",
-      "last_update": 1610016703000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_location_report_enabler@a84b93e2a1fb2232fcb0a8fd9c5920ac2ca8bbd9/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_location_report_enabler/archive/a84b93e2a1fb2232fcb0a8fd9c5920ac2ca8bbd9.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_location_report_enabler@a84b93e2a1fb2232fcb0a8fd9c5920ac2ca8bbd9/README.md"
     },
     {
       "id": "airaudio",

@@ -11,10 +11,10 @@
     },
     {
       "id": "bromitewebview",
-      "last_update": 1616468908000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@c413136d9c9a8180c6ea6a8c58f43a4e70d4680f/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/c413136d9c9a8180c6ea6a8c58f43a4e70d4680f.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@c413136d9c9a8180c6ea6a8c58f43a4e70d4680f/README.md"
+      "last_update": 1616639332000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@1ab4d80cf72506ddb04d68e285c77cc326f3841c/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/1ab4d80cf72506ddb04d68e285c77cc326f3841c.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@1ab4d80cf72506ddb04d68e285c77cc326f3841c/README.md"
     },
     {
       "id": "riru-core",

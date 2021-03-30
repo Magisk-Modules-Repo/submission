@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1617077779000,
+  "last_update": 1617077786000,
   "modules": [
+    {
+      "id": "nano-ndk",
+      "last_update": 1617077786000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@2e518f9e416134ba0919b9579b929bf80d5ea423/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/2e518f9e416134ba0919b9579b929bf80d5ea423.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@2e518f9e416134ba0919b9579b929bf80d5ea423/README.md"
+    },
     {
       "id": "mtd-ndk",
       "last_update": 1617077779000,
@@ -106,13 +113,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@389870698db82368a3a540f54bfdb5590c7d9d02/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/archive/389870698db82368a3a540f54bfdb5590c7d9d02.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@389870698db82368a3a540f54bfdb5590c7d9d02/README.md"
-    },
-    {
-      "id": "nano-ndk",
-      "last_update": 1615510921000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@7888643c531926429e77536dde6251c9424b4c3e/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/7888643c531926429e77536dde6251c9424b4c3e.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@7888643c531926429e77536dde6251c9424b4c3e/README.md"
     },
     {
       "id": "microg_installer",

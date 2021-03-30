@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1617082759000,
+  "last_update": 1617082764000,
   "modules": [
+    {
+      "id": "zipsigner",
+      "last_update": 1617082764000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@24c882ecca9101e7f4ef915ddbf55565ff1cc04a/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/24c882ecca9101e7f4ef915ddbf55565ff1cc04a.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@24c882ecca9101e7f4ef915ddbf55565ff1cc04a/README.md"
+    },
     {
       "id": "nexusmedia",
       "last_update": 1617082759000,
@@ -43,13 +50,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@b1e21b1d6d1a05e3b3eb17c1f5dd27fa07931f07/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/b1e21b1d6d1a05e3b3eb17c1f5dd27fa07931f07.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@b1e21b1d6d1a05e3b3eb17c1f5dd27fa07931f07/README.md"
-    },
-    {
-      "id": "zipsigner",
-      "last_update": 1617077802000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@d5fbc16625168befb6b3f09d949b43a071821447/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/d5fbc16625168befb6b3f09d949b43a071821447.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@d5fbc16625168befb6b3f09d949b43a071821447/README.md"
     },
     {
       "id": "riru-core",

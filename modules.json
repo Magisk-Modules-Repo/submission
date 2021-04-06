@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1617719500000,
+  "last_update": 1617742849000,
   "modules": [
+    {
+      "id": "active_edge_system_mod",
+      "last_update": 1617742849000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@45759bee37bc8ea772225e77a665269a68c56ec8/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/45759bee37bc8ea772225e77a665269a68c56ec8.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@45759bee37bc8ea772225e77a665269a68c56ec8/README.md"
+    },
     {
       "id": "bromitewebview",
       "last_update": 1617719500000,
@@ -148,13 +155,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@6a3cf234fe04a2a95bb3f838c724f2b2887e3add/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/archive/6a3cf234fe04a2a95bb3f838c724f2b2887e3add.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@6a3cf234fe04a2a95bb3f838c724f2b2887e3add/README.md"
-    },
-    {
-      "id": "active_edge_system_mod",
-      "last_update": 1614797438000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@493e878c23ca4bf3602bb536a6233cb35e77a6b8/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/493e878c23ca4bf3602bb536a6233cb35e77a6b8.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@493e878c23ca4bf3602bb536a6233cb35e77a6b8/README.md"
     },
     {
       "id": "riru_ifw_enhance",

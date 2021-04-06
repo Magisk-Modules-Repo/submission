@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1617532698000,
+  "last_update": 1617719280000,
   "modules": [
+    {
+      "id": "bromitewebview",
+      "last_update": 1617719280000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@3c55eb0ca46b3dac854fd759eba4250937270358/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/3c55eb0ca46b3dac854fd759eba4250937270358.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@3c55eb0ca46b3dac854fd759eba4250937270358/README.md"
+    },
     {
       "id": "BluetoothLibraryPatcher",
       "last_update": 1617532698000,
@@ -29,13 +36,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/busybox-ndk@b37714da560188391d23b92f9a9788f2487a4980/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/b37714da560188391d23b92f9a9788f2487a4980.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/busybox-ndk@b37714da560188391d23b92f9a9788f2487a4980/README.md"
-    },
-    {
-      "id": "bromitewebview",
-      "last_update": 1617110569000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@386d71f203083fcd809a9781164afdf2bf9c2e16/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/386d71f203083fcd809a9781164afdf2bf9c2e16.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@386d71f203083fcd809a9781164afdf2bf9c2e16/README.md"
     },
     {
       "id": "zipsigner",

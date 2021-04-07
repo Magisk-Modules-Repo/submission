@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1617754304000,
+  "last_update": 1617777144000,
   "modules": [
     {
       "id": "BluetoothLibraryPatcher",
-      "last_update": 1617754304000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@d3de258e60e39ad384fcdf3a2153a75e2e3561b6/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/d3de258e60e39ad384fcdf3a2153a75e2e3561b6.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@d3de258e60e39ad384fcdf3a2153a75e2e3561b6/README.md"
+      "last_update": 1617777144000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@fb7ba3396bc28793b1dcea99c45cf6f22a9d125a/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/fb7ba3396bc28793b1dcea99c45cf6f22a9d125a.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@fb7ba3396bc28793b1dcea99c45cf6f22a9d125a/README.md"
     },
     {
       "id": "active_edge_system_mod",

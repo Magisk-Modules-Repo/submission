@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1618166632000,
+  "last_update": 1618188111000,
   "modules": [
+    {
+      "id": "ViPER4AndroidFX",
+      "last_update": 1618188111000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@ec6ce312ec9c15a6d5d2229c86d14c9181292142/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/ec6ce312ec9c15a6d5d2229c86d14c9181292142.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@ec6ce312ec9c15a6d5d2229c86d14c9181292142/README.md"
+    },
     {
       "id": "riru_lsposed",
       "last_update": 1618166632000,
@@ -344,13 +351,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wirelessFirmware@602ffe0a7d2defcaf43550d754f659dc4554dacf/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/wirelessFirmware/archive/602ffe0a7d2defcaf43550d754f659dc4554dacf.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wirelessFirmware@602ffe0a7d2defcaf43550d754f659dc4554dacf/README.md"
-    },
-    {
-      "id": "ViPER4AndroidFX",
-      "last_update": 1604115109000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@7cbd002b61fa4060eb745bad1ffa52a6ffe47c30/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/7cbd002b61fa4060eb745bad1ffa52a6ffe47c30.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@7cbd002b61fa4060eb745bad1ffa52a6ffe47c30/README.md"
     },
     {
       "id": "ExSDCard",

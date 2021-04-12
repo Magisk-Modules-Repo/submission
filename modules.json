@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1618188111000,
+  "last_update": 1618230489000,
   "modules": [
+    {
+      "id": "riru-core",
+      "last_update": 1618230489000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@bc82c10eadffd69be039b067e65cd8582a06b997/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/bc82c10eadffd69be039b067e65cd8582a06b997.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@bc82c10eadffd69be039b067e65cd8582a06b997/README.md"
+    },
     {
       "id": "ViPER4AndroidFX",
       "last_update": 1618188111000,
@@ -106,13 +113,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@b1e21b1d6d1a05e3b3eb17c1f5dd27fa07931f07/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/b1e21b1d6d1a05e3b3eb17c1f5dd27fa07931f07.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@b1e21b1d6d1a05e3b3eb17c1f5dd27fa07931f07/README.md"
-    },
-    {
-      "id": "riru-core",
-      "last_update": 1617031229000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@a0f3854769415009ec75c42deff5b8e2ebbb5630/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/a0f3854769415009ec75c42deff5b8e2ebbb5630.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@a0f3854769415009ec75c42deff5b8e2ebbb5630/README.md"
     },
     {
       "id": "magisk-frida",

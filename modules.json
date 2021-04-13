@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1618321023000,
+  "last_update": 1618328844000,
   "modules": [
+    {
+      "id": "HideNavBar",
+      "last_update": 1618328844000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@a633c193c7e716c3fae04c7de4927e8af91348e5/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/a633c193c7e716c3fae04c7de4927e8af91348e5.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@a633c193c7e716c3fae04c7de4927e8af91348e5/README.md"
+    },
     {
       "id": "Detach",
       "last_update": 1618321023000,
@@ -274,13 +281,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/dnscrypt-proxy2@d22ee061bd384eef8d2b1450033f2435f25164ca/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/dnscrypt-proxy2/archive/d22ee061bd384eef8d2b1450033f2435f25164ca.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/dnscrypt-proxy2@d22ee061bd384eef8d2b1450033f2435f25164ca/README.md"
-    },
-    {
-      "id": "HideNavBar",
-      "last_update": 1611124200000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@4bfea92666665089639ce956945cec1d9fde9e2c/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/4bfea92666665089639ce956945cec1d9fde9e2c.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@4bfea92666665089639ce956945cec1d9fde9e2c/README.md"
     },
     {
       "id": "com.piyushgarg.rclone",

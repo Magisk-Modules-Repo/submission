@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1618348680000,
+  "last_update": 1618475580000,
   "modules": [
     {
       "id": "Detach",
-      "last_update": 1618348680000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@54492f6e0de930f949d8b05d87aa858153b88f00/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/54492f6e0de930f949d8b05d87aa858153b88f00.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@54492f6e0de930f949d8b05d87aa858153b88f00/README.md"
+      "last_update": 1618475580000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@cc2cfcb7b3e33f02d015bdb4efcb73c00cca3dff/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/cc2cfcb7b3e33f02d015bdb4efcb73c00cca3dff.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@cc2cfcb7b3e33f02d015bdb4efcb73c00cca3dff/README.md"
     },
     {
       "id": "HideNavBar",

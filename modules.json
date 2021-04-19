@@ -269,13 +269,6 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@48cf48b1ac4d3e91f76af36d2a31320b45421f3f/README.md"
     },
     {
-      "id": "noneDisplayCutout",
-      "last_update": 1612255684000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/noneDisplayCutout@66a55724b69316a968d32da14c3b52886a6b1bc5/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/noneDisplayCutout/archive/66a55724b69316a968d32da14c3b52886a6b1bc5.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/noneDisplayCutout@66a55724b69316a968d32da14c3b52886a6b1bc5/README.md"
-    },
-    {
       "id": "aria2c",
       "last_update": 1611655495000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/aria2c@9de8660d134fe743fb28faba05a5a12885275bb1/module.prop",
@@ -645,13 +638,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/miui-10-sounds@8683e309f0b81b463862781005a8802edd1427c5/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/miui-10-sounds/archive/8683e309f0b81b463862781005a8802edd1427c5.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/miui-10-sounds@8683e309f0b81b463862781005a8802edd1427c5/README.md"
-    },
-    {
-      "id": "AppOpsPlugin",
-      "last_update": 1563144810000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/AppOpsPlugin@64344cdb707d4df5369e73320a8311fbec67760c/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/AppOpsPlugin/archive/64344cdb707d4df5369e73320a8311fbec67760c.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/AppOpsPlugin@64344cdb707d4df5369e73320a8311fbec67760c/README.md"
     },
     {
       "id": "OneUISounds",

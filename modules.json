@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1619711863000,
+  "last_update": 1619809239000,
   "modules": [
+    {
+      "id": "ssh",
+      "last_update": 1619809239000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ssh@ba874b18ce9496a9d85a892bdcdb9ae83253e933/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/ssh/archive/ba874b18ce9496a9d85a892bdcdb9ae83253e933.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ssh@ba874b18ce9496a9d85a892bdcdb9ae83253e933/README.md"
+    },
     {
       "id": "BluetoothLibraryPatcher",
       "last_update": 1619711863000,
@@ -400,13 +407,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi-bonding@5072c1fda550d3fa9d2b5bbc115f799466a1cc1b/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/wifi-bonding/archive/5072c1fda550d3fa9d2b5bbc115f799466a1cc1b.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi-bonding@5072c1fda550d3fa9d2b5bbc115f799466a1cc1b/README.md"
-    },
-    {
-      "id": "ssh",
-      "last_update": 1595082608000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ssh@5a2bc98d67954e179bd8da0167f757e0173fa8d9/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/ssh/archive/5a2bc98d67954e179bd8da0167f757e0173fa8d9.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ssh@5a2bc98d67954e179bd8da0167f757e0173fa8d9/README.md"
     },
     {
       "id": "motoclockwidget",

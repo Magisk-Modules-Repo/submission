@@ -5,9 +5,9 @@
     {
       "id": "mgskfixes",
       "last_update": 1620273122000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mgskfixes@3e2fda7264affca65660957b2bcda42929335a07/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/mgskfixes/archive/3e2fda7264affca65660957b2bcda42929335a07.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mgskfixes@3e2fda7264affca65660957b2bcda42929335a07/README.md"
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@3e2fda7264affca65660957b2bcda42929335a07/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/3e2fda7264affca65660957b2bcda42929335a07.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@3e2fda7264affca65660957b2bcda42929335a07/README.md"
     },
     {
       "id": "MagiskHidePropsConf",

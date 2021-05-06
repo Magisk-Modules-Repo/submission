@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1620328551000,
+  "last_update": 1620340911000,
   "modules": [
     {
       "id": "fontrevival",
-      "last_update": 1620328551000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@a42037e276a4e1fef70a64d7f6344a92b13621bb/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/a42037e276a4e1fef70a64d7f6344a92b13621bb.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@a42037e276a4e1fef70a64d7f6344a92b13621bb/README.md"
+      "last_update": 1620340911000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@cdcbf93071d3341199e904b715a1e4413702da09/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/cdcbf93071d3341199e904b715a1e4413702da09.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@cdcbf93071d3341199e904b715a1e4413702da09/README.md"
     },
     {
       "id": "MagiskHidePropsConf",

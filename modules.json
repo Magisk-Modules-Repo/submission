@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1620358415000,
+  "last_update": 1620371553000,
   "modules": [
+    {
+      "id": "active_edge_system_mod",
+      "last_update": 1620371553000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@03efa23de72a9d1e7806bf863ac5a8fe775249a7/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/03efa23de72a9d1e7806bf863ac5a8fe775249a7.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@03efa23de72a9d1e7806bf863ac5a8fe775249a7/README.md"
+    },
     {
       "id": "busybox-ndk",
       "last_update": 1620358415000,
@@ -120,13 +127,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@ab91399b69107a08bc94f2bd886fa07748038a08/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/ab91399b69107a08bc94f2bd886fa07748038a08.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@ab91399b69107a08bc94f2bd886fa07748038a08/README.md"
-    },
-    {
-      "id": "active_edge_system_mod",
-      "last_update": 1617742849000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@45759bee37bc8ea772225e77a665269a68c56ec8/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/45759bee37bc8ea772225e77a665269a68c56ec8.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@45759bee37bc8ea772225e77a665269a68c56ec8/README.md"
     },
     {
       "id": "quickstepswitcher",

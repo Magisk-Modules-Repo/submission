@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1620902194000,
+  "last_update": 1620914810000,
   "modules": [
+    {
+      "id": "bromitewebview",
+      "last_update": 1620914810000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@19ecf01f5b637a7ca3bab264e710a60d65d0d901/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/19ecf01f5b637a7ca3bab264e710a60d65d0d901.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@19ecf01f5b637a7ca3bab264e710a60d65d0d901/README.md"
+    },
     {
       "id": "energizedprotection",
       "last_update": 1620902194000,
@@ -57,13 +64,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@1e3610b87105be2708bd00d72e91021cdc54f751/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/1e3610b87105be2708bd00d72e91021cdc54f751.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@1e3610b87105be2708bd00d72e91021cdc54f751/README.md"
-    },
-    {
-      "id": "bromitewebview",
-      "last_update": 1620343798000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@92b29340df39c60db1276ca3829d20777bc3bb79/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/92b29340df39c60db1276ca3829d20777bc3bb79.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@92b29340df39c60db1276ca3829d20777bc3bb79/README.md"
     },
     {
       "id": "riru_clipboard_whitelist",

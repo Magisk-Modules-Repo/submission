@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1620914810000,
+  "last_update": 1620917229000,
   "modules": [
     {
       "id": "bromitewebview",
-      "last_update": 1620914810000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@19ecf01f5b637a7ca3bab264e710a60d65d0d901/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/19ecf01f5b637a7ca3bab264e710a60d65d0d901.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@19ecf01f5b637a7ca3bab264e710a60d65d0d901/README.md"
+      "last_update": 1620917229000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@cb44474881b461de878ea4970ff1bcee781353ce/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/cb44474881b461de878ea4970ff1bcee781353ce.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@cb44474881b461de878ea4970ff1bcee781353ce/README.md"
     },
     {
       "id": "energizedprotection",

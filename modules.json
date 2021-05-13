@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1620917229000,
+  "last_update": 1620917284000,
   "modules": [
     {
       "id": "bromitewebview",
-      "last_update": 1620917229000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@cb44474881b461de878ea4970ff1bcee781353ce/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/cb44474881b461de878ea4970ff1bcee781353ce.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@cb44474881b461de878ea4970ff1bcee781353ce/README.md"
+      "last_update": 1620917284000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@c7e64ab2fad6d2fe73ad7f0806d85df49b54c56b/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/c7e64ab2fad6d2fe73ad7f0806d85df49b54c56b.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@c7e64ab2fad6d2fe73ad7f0806d85df49b54c56b/README.md"
     },
     {
       "id": "callrecorder-skvalex",

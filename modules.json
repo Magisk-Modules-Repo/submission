@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1621011226000,
+  "last_update": 1621067846000,
   "modules": [
+    {
+      "id": "riru_clipboard_whitelist",
+      "last_update": 1621067846000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_clipboard_whitelist@7daa866319a9d4e017deaa56f9f7ff2785a31033/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_clipboard_whitelist/archive/7daa866319a9d4e017deaa56f9f7ff2785a31033.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_clipboard_whitelist@7daa866319a9d4e017deaa56f9f7ff2785a31033/README.md"
+    },
     {
       "id": "Detach",
       "last_update": 1621011226000,
@@ -85,13 +92,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/busybox-ndk@4c0ac2005daeac40c0f3d42ad77ac572cdf3491c/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/4c0ac2005daeac40c0f3d42ad77ac572cdf3491c.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/busybox-ndk@4c0ac2005daeac40c0f3d42ad77ac572cdf3491c/README.md"
-    },
-    {
-      "id": "riru_clipboard_whitelist",
-      "last_update": 1619973113000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_clipboard_whitelist@e2843e408c8e2cc265d3c42e8f10f0813696374e/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_clipboard_whitelist/archive/e2843e408c8e2cc265d3c42e8f10f0813696374e.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_clipboard_whitelist@e2843e408c8e2cc265d3c42e8f10f0813696374e/README.md"
     },
     {
       "id": "nano-ndk",

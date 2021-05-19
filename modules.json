@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1621255187000,
+  "last_update": 1621406844000,
   "modules": [
+    {
+      "id": "riru_lsposed",
+      "last_update": 1621406844000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@2f3b31824e60fef38c0184a078216bfeb77173e1/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/2f3b31824e60fef38c0184a078216bfeb77173e1.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@2f3b31824e60fef38c0184a078216bfeb77173e1/README.md"
+    },
     {
       "id": "callrecorder-skvalex",
       "last_update": 1621255187000,
@@ -148,13 +155,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@ec6ce312ec9c15a6d5d2229c86d14c9181292142/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/ec6ce312ec9c15a6d5d2229c86d14c9181292142.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@ec6ce312ec9c15a6d5d2229c86d14c9181292142/README.md"
-    },
-    {
-      "id": "riru_lsposed",
-      "last_update": 1618166632000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@ab91399b69107a08bc94f2bd886fa07748038a08/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/ab91399b69107a08bc94f2bd886fa07748038a08.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@ab91399b69107a08bc94f2bd886fa07748038a08/README.md"
     },
     {
       "id": "quickstepswitcher",

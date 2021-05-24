@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1621869078000,
+  "last_update": 1621874296000,
   "modules": [
+    {
+      "id": "fontrevival",
+      "last_update": 1621874296000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@88c635b5a8ac5148538cb1dfeed4f12e40ddecfc/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/88c635b5a8ac5148538cb1dfeed4f12e40ddecfc.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@88c635b5a8ac5148538cb1dfeed4f12e40ddecfc/README.md"
+    },
     {
       "id": "Detach",
       "last_update": 1621869078000,
@@ -50,13 +57,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@463e22e553c09b79642b9dd74f74c3f9d36dce09/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/463e22e553c09b79642b9dd74f74c3f9d36dce09.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@463e22e553c09b79642b9dd74f74c3f9d36dce09/README.md"
-    },
-    {
-      "id": "fontrevival",
-      "last_update": 1620921802000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@fe89ceb89543e3360bc25407a51828b564de295c/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/fe89ceb89543e3360bc25407a51828b564de295c.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@fe89ceb89543e3360bc25407a51828b564de295c/README.md"
     },
     {
       "id": "energizedprotection",

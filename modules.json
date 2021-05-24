@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1621865435000,
+  "last_update": 1621865460000,
   "modules": [
     {
       "id": "Detach",
-      "last_update": 1621865435000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@07d9571ccd9a247f9409deacf9b9f736e6ded816/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/07d9571ccd9a247f9409deacf9b9f736e6ded816.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@07d9571ccd9a247f9409deacf9b9f736e6ded816/README.md"
+      "last_update": 1621865460000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@8ef19d5608c4498bb3bd726092ae3a66dab435d7/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/8ef19d5608c4498bb3bd726092ae3a66dab435d7.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@8ef19d5608c4498bb3bd726092ae3a66dab435d7/README.md"
     },
     {
       "id": "riru_lsposed",

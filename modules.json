@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1621967883000,
+  "last_update": 1621967974000,
   "modules": [
+    {
+      "id": "fontrevival",
+      "last_update": 1621967974000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@84b83953dad06888fda54795955790438c783280/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/84b83953dad06888fda54795955790438c783280.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@84b83953dad06888fda54795955790438c783280/README.md"
+    },
     {
       "id": "bromitewebview",
       "last_update": 1621967883000,
@@ -22,13 +29,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/miui-10-sounds@2c87f88441ae829c543c5685591933140aaa5b40/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/miui-10-sounds/archive/2c87f88441ae829c543c5685591933140aaa5b40.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/miui-10-sounds@2c87f88441ae829c543c5685591933140aaa5b40/README.md"
-    },
-    {
-      "id": "fontrevival",
-      "last_update": 1621960729000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@4b856d15ce48a8af18457dc7a75f116b90ee2b2a/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/4b856d15ce48a8af18457dc7a75f116b90ee2b2a.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@4b856d15ce48a8af18457dc7a75f116b90ee2b2a/README.md"
     },
     {
       "id": "Detach",

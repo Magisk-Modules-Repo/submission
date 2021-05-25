@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1621973609000,
+  "last_update": 1621974705000,
   "modules": [
     {
       "id": "HideNavBar",
-      "last_update": 1621973609000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@8b3bb38859ba7dc52c82fb7c73177439622ffbe1/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/8b3bb38859ba7dc52c82fb7c73177439622ffbe1.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@8b3bb38859ba7dc52c82fb7c73177439622ffbe1/README.md"
+      "last_update": 1621974705000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@dcdf18e5b69713cfa073e5530d2ec4f1ad9c2e97/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/dcdf18e5b69713cfa073e5530d2ec4f1ad9c2e97.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@dcdf18e5b69713cfa073e5530d2ec4f1ad9c2e97/README.md"
     },
     {
       "id": "fontrevival",

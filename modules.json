@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1621967974000,
+  "last_update": 1621973609000,
   "modules": [
+    {
+      "id": "HideNavBar",
+      "last_update": 1621973609000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@8b3bb38859ba7dc52c82fb7c73177439622ffbe1/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/8b3bb38859ba7dc52c82fb7c73177439622ffbe1.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@8b3bb38859ba7dc52c82fb7c73177439622ffbe1/README.md"
+    },
     {
       "id": "fontrevival",
       "last_update": 1621967974000,
@@ -15,13 +22,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@4e3550e783225232c60b8e4bafedd8323084711a/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/4e3550e783225232c60b8e4bafedd8323084711a.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@4e3550e783225232c60b8e4bafedd8323084711a/README.md"
-    },
-    {
-      "id": "HideNavBar",
-      "last_update": 1621965622000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@33240a509d3bb18bd9ae731701c639f09699497e/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/33240a509d3bb18bd9ae731701c639f09699497e.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@33240a509d3bb18bd9ae731701c639f09699497e/README.md"
     },
     {
       "id": "miui-10-sounds",

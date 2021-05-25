@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1621965415000,
+  "last_update": 1621965433000,
   "modules": [
     {
       "id": "HideNavBar",
-      "last_update": 1621965415000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@eb0c737702ee9f6b19487bfa8353f1259038ee47/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/eb0c737702ee9f6b19487bfa8353f1259038ee47.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@eb0c737702ee9f6b19487bfa8353f1259038ee47/README.md"
+      "last_update": 1621965433000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@ec5fa9f6149307794dcb60ba887a2569d74f748c/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/ec5fa9f6149307794dcb60ba887a2569d74f748c.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@ec5fa9f6149307794dcb60ba887a2569d74f748c/README.md"
     },
     {
       "id": "miui-10-sounds",

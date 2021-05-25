@@ -11,10 +11,10 @@
     },
     {
       "id": "fontrevival",
-      "last_update": 1621917241000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@8c4fb79e613051e9ccfd4f82440ac72f30b7848b/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/8c4fb79e613051e9ccfd4f82440ac72f30b7848b.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@8c4fb79e613051e9ccfd4f82440ac72f30b7848b/README.md"
+      "last_update": 1621919185000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@3e333087d21f6bab9e7a63ece65e91afdd62c80d/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/3e333087d21f6bab9e7a63ece65e91afdd62c80d.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@3e333087d21f6bab9e7a63ece65e91afdd62c80d/README.md"
     },
     {
       "id": "Detach",

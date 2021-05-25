@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1621963139000,
+  "last_update": 1621963227000,
   "modules": [
     {
       "id": "miui-10-sounds",
-      "last_update": 1621963139000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/miui-10-sounds@efba1d4df81da21075b72b951037c67ebcee25c9/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/miui-10-sounds/archive/efba1d4df81da21075b72b951037c67ebcee25c9.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/miui-10-sounds@efba1d4df81da21075b72b951037c67ebcee25c9/README.md"
+      "last_update": 1621963227000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/miui-10-sounds@2488e1831ca56a4946db51b138a60f0698a4231b/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/miui-10-sounds/archive/2488e1831ca56a4946db51b138a60f0698a4231b.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/miui-10-sounds@2488e1831ca56a4946db51b138a60f0698a4231b/README.md"
     },
     {
       "id": "fontrevival",

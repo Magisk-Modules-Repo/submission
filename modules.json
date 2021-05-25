@@ -1,20 +1,20 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1621952313000,
+  "last_update": 1621952786000,
   "modules": [
+    {
+      "id": "bromitewebview",
+      "last_update": 1621952786000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@14c998e188aabf863e1e2c6f4d97287807c863f2/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/14c998e188aabf863e1e2c6f4d97287807c863f2.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@14c998e188aabf863e1e2c6f4d97287807c863f2/README.md"
+    },
     {
       "id": "fontrevival",
       "last_update": 1621952313000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@3210c5b3078ceb9deafebf4e97462a4005d693b2/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/3210c5b3078ceb9deafebf4e97462a4005d693b2.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@3210c5b3078ceb9deafebf4e97462a4005d693b2/README.md"
-    },
-    {
-      "id": "bromitewebview",
-      "last_update": 1621919387000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@bc9410bd2923903dce011c9fdf166e587c6a4b54/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/bc9410bd2923903dce011c9fdf166e587c6a4b54.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@bc9410bd2923903dce011c9fdf166e587c6a4b54/README.md"
     },
     {
       "id": "Detach",

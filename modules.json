@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1622002888000,
+  "last_update": 1622003636000,
   "modules": [
     {
       "id": "HideNavBar",
-      "last_update": 1622002888000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@b6fc645e929b3f0cb54a6cd34bf0276ca60089b9/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/b6fc645e929b3f0cb54a6cd34bf0276ca60089b9.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@b6fc645e929b3f0cb54a6cd34bf0276ca60089b9/README.md"
+      "last_update": 1622003636000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@fb4885a5f3020038575ed7571b0dca9bf85e8eff/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/fb4885a5f3020038575ed7571b0dca9bf85e8eff.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@fb4885a5f3020038575ed7571b0dca9bf85e8eff/README.md"
     },
     {
       "id": "callrecorder-skvalex",

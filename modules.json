@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1622058075000,
+  "last_update": 1622272244000,
   "modules": [
+    {
+      "id": "microg_installer",
+      "last_update": 1622272244000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@7a2429b84f7de4576183ad41872bf6a44d40ba09/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/7a2429b84f7de4576183ad41872bf6a44d40ba09.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@7a2429b84f7de4576183ad41872bf6a44d40ba09/README.md"
+    },
     {
       "id": "HideNavBar",
       "last_update": 1622058075000,
@@ -225,13 +232,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@389870698db82368a3a540f54bfdb5590c7d9d02/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/archive/389870698db82368a3a540f54bfdb5590c7d9d02.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@389870698db82368a3a540f54bfdb5590c7d9d02/README.md"
-    },
-    {
-      "id": "microg_installer",
-      "last_update": 1615012800000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@7ad3f03f533024b03676dc5d9d5ede0c58b3197e/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/7ad3f03f533024b03676dc5d9d5ede0c58b3197e.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@7ad3f03f533024b03676dc5d9d5ede0c58b3197e/README.md"
     },
     {
       "id": "Fdroid-Priv",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1622669876000,
+  "last_update": 1622845852000,
   "modules": [
+    {
+      "id": "NFCScreenOff",
+      "last_update": 1622845852000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@ca5c0bb3adcdee3b642387338d26e7e6e6819fa8/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/archive/ca5c0bb3adcdee3b642387338d26e7e6e6819fa8.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@ca5c0bb3adcdee3b642387338d26e7e6e6819fa8/README.md"
+    },
     {
       "id": "HideNavBar",
       "last_update": 1622669876000,
@@ -225,13 +232,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@ac55f7cb6e7ecbbed7abba61e6477e32a620a06f/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/riru-sui/archive/ac55f7cb6e7ecbbed7abba61e6477e32a620a06f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@ac55f7cb6e7ecbbed7abba61e6477e32a620a06f/README.md"
-    },
-    {
-      "id": "NFCScreenOff",
-      "last_update": 1615591163000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@389870698db82368a3a540f54bfdb5590c7d9d02/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/archive/389870698db82368a3a540f54bfdb5590c7d9d02.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@389870698db82368a3a540f54bfdb5590c7d9d02/README.md"
     },
     {
       "id": "Fdroid-Priv",

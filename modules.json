@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1623436151000,
+  "last_update": 1623486985000,
   "modules": [
+    {
+      "id": "active_edge_system_mod",
+      "last_update": 1623486985000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@87a0ace9efee5657c4a3dc60a78f72ef48aa9621/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/87a0ace9efee5657c4a3dc60a78f72ef48aa9621.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@87a0ace9efee5657c4a3dc60a78f72ef48aa9621/README.md"
+    },
     {
       "id": "riru_lsposed",
       "last_update": 1623436151000,
@@ -127,13 +134,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@c68497075ca1d23105e4b860f4297a510a1f183f/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/c68497075ca1d23105e4b860f4297a510a1f183f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@c68497075ca1d23105e4b860f4297a510a1f183f/README.md"
-    },
-    {
-      "id": "active_edge_system_mod",
-      "last_update": 1620371553000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@03efa23de72a9d1e7806bf863ac5a8fe775249a7/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/03efa23de72a9d1e7806bf863ac5a8fe775249a7.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@03efa23de72a9d1e7806bf863ac5a8fe775249a7/README.md"
     },
     {
       "id": "busybox-ndk",

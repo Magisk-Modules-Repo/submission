@@ -10,6 +10,13 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@b868842579c4562e61adbef06b9ca6eff96f93e0/README.md"
     },
     {
+      "id": "fontrevival",
+      "last_update": 1623788491000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@657a6b0296f0d1984ae37098ceccbd821f0bf46c/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/657a6b0296f0d1984ae37098ceccbd821f0bf46c.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@657a6b0296f0d1984ae37098ceccbd821f0bf46c/README.md"
+    },
+    {
       "id": "riru_storage_redirect",
       "last_update": 1623652396000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@f66d27f4ddff3fe6bbe36cd5712a5f7d9a9a94ea/module.prop",
@@ -71,13 +78,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/callrecorder-skvalex@76094cfc4b4f021d51577848806f5efd0c97cdbf/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/archive/76094cfc4b4f021d51577848806f5efd0c97cdbf.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/callrecorder-skvalex@76094cfc4b4f021d51577848806f5efd0c97cdbf/README.md"
-    },
-    {
-      "id": "fontrevival",
-      "last_update": 1621967974000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@84b83953dad06888fda54795955790438c783280/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/84b83953dad06888fda54795955790438c783280.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@84b83953dad06888fda54795955790438c783280/README.md"
     },
     {
       "id": "miui-10-sounds",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1623898700000,
+  "last_update": 1623899411000,
   "modules": [
+    {
+      "id": "bromitewebview",
+      "last_update": 1623899411000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@60f9dd36fff7b08b1520358f4014fdc32f308d61/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/60f9dd36fff7b08b1520358f4014fdc32f308d61.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@60f9dd36fff7b08b1520358f4014fdc32f308d61/README.md"
+    },
     {
       "id": "fontrevival",
       "last_update": 1623898700000,
@@ -15,13 +22,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@7cec9fbf04cac7d7fc1de8424e32062d042703cd/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/7cec9fbf04cac7d7fc1de8424e32062d042703cd.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@7cec9fbf04cac7d7fc1de8424e32062d042703cd/README.md"
-    },
-    {
-      "id": "bromitewebview",
-      "last_update": 1623789363000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@b868842579c4562e61adbef06b9ca6eff96f93e0/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/b868842579c4562e61adbef06b9ca6eff96f93e0.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@b868842579c4562e61adbef06b9ca6eff96f93e0/README.md"
     },
     {
       "id": "riru_storage_redirect",

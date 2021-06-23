@@ -353,6 +353,13 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminalmods@8275b010fabbe769903470876ec175ecbaae9666/README.md"
     },
     {
+      "id": "acp",
+      "last_update": 1605384655000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@62668db80dc228911d8814d209e0d5606f1fb175/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/acp/archive/62668db80dc228911d8814d209e0d5606f1fb175.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@62668db80dc228911d8814d209e0d5606f1fb175/README.md"
+    },
+    {
       "id": "wirelessFirmware",
       "last_update": 1604117671000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wirelessFirmware@602ffe0a7d2defcaf43550d754f659dc4554dacf/module.prop",

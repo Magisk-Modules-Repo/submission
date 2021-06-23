@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1624402423000,
+  "last_update": 1624492127000,
   "modules": [
+    {
+      "id": "OneController",
+      "last_update": 1624492127000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@5703dbc85aec07fca3ed4f7f9ec324d7e63fa13e/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/OneController/archive/5703dbc85aec07fca3ed4f7f9ec324d7e63fa13e.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@5703dbc85aec07fca3ed4f7f9ec324d7e63fa13e/README.md"
+    },
     {
       "id": "HideNavBar",
       "last_update": 1624402423000,
@@ -253,13 +260,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@d0a9a31ca0b2524ad6c69e8b4b78e3fd227ed265/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/d0a9a31ca0b2524ad6c69e8b4b78e3fd227ed265.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@d0a9a31ca0b2524ad6c69e8b4b78e3fd227ed265/README.md"
-    },
-    {
-      "id": "OneController",
-      "last_update": 1614164772000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@8d038040fffc48dd863ac4f7a7bd3b5476b357fa/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/OneController/archive/8d038040fffc48dd863ac4f7a7bd3b5476b357fa.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@8d038040fffc48dd863ac4f7a7bd3b5476b357fa/README.md"
     },
     {
       "id": "riru_edxposed",

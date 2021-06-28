@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1624538156000,
+  "last_update": 1624870912000,
   "modules": [
+    {
+      "id": "riru_storage_redirect",
+      "last_update": 1624870912000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@1f5a3d544b10c30bd90957ee819e8d884d88119f/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect/archive/1f5a3d544b10c30bd90957ee819e8d884d88119f.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@1f5a3d544b10c30bd90957ee819e8d884d88119f/README.md"
+    },
     {
       "id": "callrecorder-skvalex",
       "last_update": 1624538156000,
@@ -50,13 +57,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@7cec9fbf04cac7d7fc1de8424e32062d042703cd/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/7cec9fbf04cac7d7fc1de8424e32062d042703cd.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@7cec9fbf04cac7d7fc1de8424e32062d042703cd/README.md"
-    },
-    {
-      "id": "riru_storage_redirect",
-      "last_update": 1623652396000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@f66d27f4ddff3fe6bbe36cd5712a5f7d9a9a94ea/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect/archive/f66d27f4ddff3fe6bbe36cd5712a5f7d9a9a94ea.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@f66d27f4ddff3fe6bbe36cd5712a5f7d9a9a94ea/README.md"
     },
     {
       "id": "active_edge_system_mod",

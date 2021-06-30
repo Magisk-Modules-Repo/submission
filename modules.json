@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1624870912000,
+  "last_update": 1625020610000,
   "modules": [
+    {
+      "id": "riru_lsposed",
+      "last_update": 1625020610000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@b0bf70c74831546e4cd67bedfaba2706147e359c/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/b0bf70c74831546e4cd67bedfaba2706147e359c.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@b0bf70c74831546e4cd67bedfaba2706147e359c/README.md"
+    },
     {
       "id": "riru_storage_redirect",
       "last_update": 1624870912000,
@@ -64,13 +71,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@87a0ace9efee5657c4a3dc60a78f72ef48aa9621/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/87a0ace9efee5657c4a3dc60a78f72ef48aa9621.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@87a0ace9efee5657c4a3dc60a78f72ef48aa9621/README.md"
-    },
-    {
-      "id": "riru_lsposed",
-      "last_update": 1623436151000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@68dbdee21badbb1f5394ec5b97b419cebea71242/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/68dbdee21badbb1f5394ec5b97b419cebea71242.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@68dbdee21badbb1f5394ec5b97b419cebea71242/README.md"
     },
     {
       "id": "NFCScreenOff",

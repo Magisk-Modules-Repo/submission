@@ -59,13 +59,6 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@60f9dd36fff7b08b1520358f4014fdc32f308d61/README.md"
     },
     {
-      "id": "fontrevival",
-      "last_update": 1623898700000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@b509e3dd9117fdb30d7d415b5dbb64878cc92869/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/b509e3dd9117fdb30d7d415b5dbb64878cc92869.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@b509e3dd9117fdb30d7d415b5dbb64878cc92869/README.md"
-    },
-    {
       "id": "nano-ndk",
       "last_update": 1623880450000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@7cec9fbf04cac7d7fc1de8424e32062d042703cd/module.prop",

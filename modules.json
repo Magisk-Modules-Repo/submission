@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1625126768000,
+  "last_update": 1625223249000,
   "modules": [
+    {
+      "id": "fontrevival",
+      "last_update": 1625223249000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@f1a633c0d9ebfe50a35046a5dbbf7a43cea4fcc2/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/f1a633c0d9ebfe50a35046a5dbbf7a43cea4fcc2.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@f1a633c0d9ebfe50a35046a5dbbf7a43cea4fcc2/README.md"
+    },
     {
       "id": "Detach",
       "last_update": 1625126768000,

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1625223249000,
+  "last_update": 1625285262000,
   "modules": [
+    {
+      "id": "zipsigner",
+      "last_update": 1625285262000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@fa62e2a0f756f8e5b09d85bba9e83def50c3db13/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/fa62e2a0f756f8e5b09d85bba9e83def50c3db13.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@fa62e2a0f756f8e5b09d85bba9e83def50c3db13/README.md"
+    },
     {
       "id": "fontrevival",
       "last_update": 1625223249000,
@@ -85,13 +92,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@ca5c0bb3adcdee3b642387338d26e7e6e6819fa8/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/archive/ca5c0bb3adcdee3b642387338d26e7e6e6819fa8.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@ca5c0bb3adcdee3b642387338d26e7e6e6819fa8/README.md"
-    },
-    {
-      "id": "zipsigner",
-      "last_update": 1622432263000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@8482a8439a8d2a84d01de6a2a43111646d87f352/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/8482a8439a8d2a84d01de6a2a43111646d87f352.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@8482a8439a8d2a84d01de6a2a43111646d87f352/README.md"
     },
     {
       "id": "twrp-keep",

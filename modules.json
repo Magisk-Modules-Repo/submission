@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1625326401000,
+  "last_update": 1625467402000,
   "modules": [
+    {
+      "id": "nexusmedia",
+      "last_update": 1625467402000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@8ffd4bdf4e0d45bc56b5ee4815aa033e179f5eeb/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/nexusmedia/archive/8ffd4bdf4e0d45bc56b5ee4815aa033e179f5eeb.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@8ffd4bdf4e0d45bc56b5ee4815aa033e179f5eeb/README.md"
+    },
     {
       "id": "BluetoothLibraryPatcher",
       "last_update": 1625326401000,
@@ -197,13 +204,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@e1ce972771bb3e554927401e3221b8b7dca07cb0/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/quickstepswitcher/archive/e1ce972771bb3e554927401e3221b8b7dca07cb0.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@e1ce972771bb3e554927401e3221b8b7dca07cb0/README.md"
-    },
-    {
-      "id": "nexusmedia",
-      "last_update": 1617082759000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@41173629f891d3a54f1fba9cab74a62f94cb0362/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/nexusmedia/archive/41173629f891d3a54f1fba9cab74a62f94cb0362.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@41173629f891d3a54f1fba9cab74a62f94cb0362/README.md"
     },
     {
       "id": "mtd-ndk",

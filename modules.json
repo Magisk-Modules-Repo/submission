@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1625628969000,
+  "last_update": 1625679363000,
   "modules": [
+    {
+      "id": "Detach",
+      "last_update": 1625679363000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@1acc80e88bf0630e5bf078840c92d2f139d9acb4/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/1acc80e88bf0630e5bf078840c92d2f139d9acb4.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@1acc80e88bf0630e5bf078840c92d2f139d9acb4/README.md"
+    },
     {
       "id": "magisk-frida",
       "last_update": 1625628969000,
@@ -36,13 +43,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@f1a633c0d9ebfe50a35046a5dbbf7a43cea4fcc2/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/f1a633c0d9ebfe50a35046a5dbbf7a43cea4fcc2.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@f1a633c0d9ebfe50a35046a5dbbf7a43cea4fcc2/README.md"
-    },
-    {
-      "id": "Detach",
-      "last_update": 1625126768000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@890c321a5a6111425ee61a479d789006d565b02f/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/890c321a5a6111425ee61a479d789006d565b02f.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@890c321a5a6111425ee61a479d789006d565b02f/README.md"
     },
     {
       "id": "riru_lsposed",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1625791430000,
+  "last_update": 1625862016000,
   "modules": [
+    {
+      "id": "microg_installer",
+      "last_update": 1625862016000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@e4bab7a065ab2225320a765c9dcad885e9a3544b/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/e4bab7a065ab2225320a765c9dcad885e9a3544b.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@e4bab7a065ab2225320a765c9dcad885e9a3544b/README.md"
+    },
     {
       "id": "magisk-frida",
       "last_update": 1625791430000,
@@ -120,13 +127,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@ea511193ecb8e32fab835068f9c0b365ee3d2f58/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/ea511193ecb8e32fab835068f9c0b365ee3d2f58.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@ea511193ecb8e32fab835068f9c0b365ee3d2f58/README.md"
-    },
-    {
-      "id": "microg_installer",
-      "last_update": 1622272244000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@7a2429b84f7de4576183ad41872bf6a44d40ba09/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/7a2429b84f7de4576183ad41872bf6a44d40ba09.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@7a2429b84f7de4576183ad41872bf6a44d40ba09/README.md"
     },
     {
       "id": "miui-10-sounds",

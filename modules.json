@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1626231559000,
+  "last_update": 1626253815000,
   "modules": [
+    {
+      "id": "active_edge_system_mod",
+      "last_update": 1626253815000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@361cd24674b17c9edd410f47d661d4c3a9f8ab67/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/361cd24674b17c9edd410f47d661d4c3a9f8ab67.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@361cd24674b17c9edd410f47d661d4c3a9f8ab67/README.md"
+    },
     {
       "id": "magisk-frida",
       "last_update": 1626231559000,
@@ -106,13 +113,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@7cec9fbf04cac7d7fc1de8424e32062d042703cd/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/7cec9fbf04cac7d7fc1de8424e32062d042703cd.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@7cec9fbf04cac7d7fc1de8424e32062d042703cd/README.md"
-    },
-    {
-      "id": "active_edge_system_mod",
-      "last_update": 1623486985000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@87a0ace9efee5657c4a3dc60a78f72ef48aa9621/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/87a0ace9efee5657c4a3dc60a78f72ef48aa9621.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@87a0ace9efee5657c4a3dc60a78f72ef48aa9621/README.md"
     },
     {
       "id": "NFCScreenOff",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1626138769000,
+  "last_update": 1626228669000,
   "modules": [
+    {
+      "id": "riru_storage_redirect",
+      "last_update": 1626228669000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@66941b5397276b9f665af2677268ca366d465a50/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect/archive/66941b5397276b9f665af2677268ca366d465a50.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@66941b5397276b9f665af2677268ca366d465a50/README.md"
+    },
     {
       "id": "magisk-frida",
       "last_update": 1626138769000,
@@ -57,13 +64,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@37695b60135525750d9aa169f1cf6ee477edc7b4/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/37695b60135525750d9aa169f1cf6ee477edc7b4.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@37695b60135525750d9aa169f1cf6ee477edc7b4/README.md"
-    },
-    {
-      "id": "riru_storage_redirect",
-      "last_update": 1624870912000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@1f5a3d544b10c30bd90957ee819e8d884d88119f/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect/archive/1f5a3d544b10c30bd90957ee819e8d884d88119f.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@1f5a3d544b10c30bd90957ee819e8d884d88119f/README.md"
     },
     {
       "id": "callrecorder-skvalex",

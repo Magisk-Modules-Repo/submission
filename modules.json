@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1626500338000,
+  "last_update": 1626835872000,
   "modules": [
+    {
+      "id": "HideNavBar",
+      "last_update": 1626835872000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@cedcd570b2c653f7c649f5dbd056605fb80e486b/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/cedcd570b2c653f7c649f5dbd056605fb80e486b.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@cedcd570b2c653f7c649f5dbd056605fb80e486b/README.md"
+    },
     {
       "id": "MagiskHidePropsConf",
       "last_update": 1626500338000,
@@ -92,13 +99,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@5703dbc85aec07fca3ed4f7f9ec324d7e63fa13e/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/OneController/archive/5703dbc85aec07fca3ed4f7f9ec324d7e63fa13e.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@5703dbc85aec07fca3ed4f7f9ec324d7e63fa13e/README.md"
-    },
-    {
-      "id": "HideNavBar",
-      "last_update": 1624402423000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@245085982652fa1cadf423820396191eec987351/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/245085982652fa1cadf423820396191eec987351.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@245085982652fa1cadf423820396191eec987351/README.md"
     },
     {
       "id": "bromitewebview",

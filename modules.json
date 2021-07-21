@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1626836349000,
+  "last_update": 1626865690000,
   "modules": [
+    {
+      "id": "Fdroid-Priv",
+      "last_update": 1626865690000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@525f43756e05982c20446dcbb918ad89dfa1c834/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/archive/525f43756e05982c20446dcbb918ad89dfa1c834.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@525f43756e05982c20446dcbb918ad89dfa1c834/README.md"
+    },
     {
       "id": "HideNavBar",
       "last_update": 1626836349000,
@@ -239,13 +246,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@ac55f7cb6e7ecbbed7abba61e6477e32a620a06f/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/riru-sui/archive/ac55f7cb6e7ecbbed7abba61e6477e32a620a06f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@ac55f7cb6e7ecbbed7abba61e6477e32a620a06f/README.md"
-    },
-    {
-      "id": "Fdroid-Priv",
-      "last_update": 1614997464000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@6a3cf234fe04a2a95bb3f838c724f2b2887e3add/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/archive/6a3cf234fe04a2a95bb3f838c724f2b2887e3add.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@6a3cf234fe04a2a95bb3f838c724f2b2887e3add/README.md"
     },
     {
       "id": "riru_ifw_enhance",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1627332066000,
+  "last_update": 1627482500000,
   "modules": [
+    {
+      "id": "djs",
+      "last_update": 1627482500000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@134eb98254d588e9e788d18ad213e7300cc624f7/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/djs/archive/134eb98254d588e9e788d18ad213e7300cc624f7.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@134eb98254d588e9e788d18ad213e7300cc624f7/README.md"
+    },
     {
       "id": "magisk-frida",
       "last_update": 1627332066000,
@@ -659,13 +666,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneUISounds@35279951c3b02e49b500234ee6ac4b23a9f06a0f/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/OneUISounds/archive/35279951c3b02e49b500234ee6ac4b23a9f06a0f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneUISounds@35279951c3b02e49b500234ee6ac4b23a9f06a0f/README.md"
-    },
-    {
-      "id": "djs",
-      "last_update": 1561978055000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@a98c64eb08762c933a42cc76abf91634d6a64f49/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/djs/archive/a98c64eb08762c933a42cc76abf91634d6a64f49.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@a98c64eb08762c933a42cc76abf91634d6a64f49/README.md"
     },
     {
       "id": "kfmark",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1627516802000,
+  "last_update": 1627598907000,
   "modules": [
+    {
+      "id": "magisk-frida",
+      "last_update": 1627598907000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@f0fc935a1296ce7a54eb65de8180c6b5a43b9172/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/f0fc935a1296ce7a54eb65de8180c6b5a43b9172.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@f0fc935a1296ce7a54eb65de8180c6b5a43b9172/README.md"
+    },
     {
       "id": "BluetoothLibraryPatcher",
       "last_update": 1627516802000,
@@ -15,13 +22,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@61a0768d7e91927e2c7c4de3bc35e4c1a34fa873/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/61a0768d7e91927e2c7c4de3bc35e4c1a34fa873.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@61a0768d7e91927e2c7c4de3bc35e4c1a34fa873/README.md"
-    },
-    {
-      "id": "magisk-frida",
-      "last_update": 1627483604000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@eb23321191aab9f612adaec80c84854c9a79d7e3/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/eb23321191aab9f612adaec80c84854c9a79d7e3.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@eb23321191aab9f612adaec80c84854c9a79d7e3/README.md"
     },
     {
       "id": "djs",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1627710347000,
+  "last_update": 1627741313000,
   "modules": [
+    {
+      "id": "com.piyushgarg.rclone",
+      "last_update": 1627741313000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@765e969cb9324b49a4f4735f36a5a857630f1490/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/archive/765e969cb9324b49a4f4735f36a5a857630f1490.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@765e969cb9324b49a4f4735f36a5a857630f1490/README.md"
+    },
     {
       "id": "HideNavBar",
       "last_update": 1627710347000,
@@ -323,13 +330,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/dnscrypt-proxy2@d22ee061bd384eef8d2b1450033f2435f25164ca/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/dnscrypt-proxy2/archive/d22ee061bd384eef8d2b1450033f2435f25164ca.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/dnscrypt-proxy2@d22ee061bd384eef8d2b1450033f2435f25164ca/README.md"
-    },
-    {
-      "id": "com.piyushgarg.rclone",
-      "last_update": 1610355930000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@c69eb3c2db9a67a141e1522676f6f7857383331a/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/archive/c69eb3c2db9a67a141e1522676f6f7857383331a.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@c69eb3c2db9a67a141e1522676f6f7857383331a/README.md"
     },
     {
       "id": "airaudio",

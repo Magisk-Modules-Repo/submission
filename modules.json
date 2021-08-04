@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1627903864000,
+  "last_update": 1628104925000,
   "modules": [
     {
       "id": "acc",
-      "last_update": 1627903864000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@3808949edcf78f966627642c2efaf87234519996/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/3808949edcf78f966627642c2efaf87234519996.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@3808949edcf78f966627642c2efaf87234519996/README.md"
+      "last_update": 1628104925000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@0513d56413848892df12819dea8cf5d8b44c8059/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/0513d56413848892df12819dea8cf5d8b44c8059.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@0513d56413848892df12819dea8cf5d8b44c8059/README.md"
     },
     {
       "id": "djs",

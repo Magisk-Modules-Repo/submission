@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1628104925000,
+  "last_update": 1628167780000,
   "modules": [
+    {
+      "id": "riru-core",
+      "last_update": 1628167780000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@5f649acf43c34134d8dfc4584f7b8d6085f38ad8/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/5f649acf43c34134d8dfc4584f7b8d6085f38ad8.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@5f649acf43c34134d8dfc4584f7b8d6085f38ad8/README.md"
+    },
     {
       "id": "acc",
       "last_update": 1628104925000,
@@ -190,13 +197,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@af8830def3aad3141ce9084c07014fea31b1969a/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/ccbins/archive/af8830def3aad3141ce9084c07014fea31b1969a.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@af8830def3aad3141ce9084c07014fea31b1969a/README.md"
-    },
-    {
-      "id": "riru-core",
-      "last_update": 1620394690000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@c68497075ca1d23105e4b860f4297a510a1f183f/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/c68497075ca1d23105e4b860f4297a510a1f183f.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@c68497075ca1d23105e4b860f4297a510a1f183f/README.md"
     },
     {
       "id": "busybox-ndk",

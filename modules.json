@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1628321614000,
+  "last_update": 1628532154000,
   "modules": [
+    {
+      "id": "djs",
+      "last_update": 1628532154000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@93138fe9e079a1661e87f8b5b49a9ea1b8224461/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/djs/archive/93138fe9e079a1661e87f8b5b49a9ea1b8224461.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@93138fe9e079a1661e87f8b5b49a9ea1b8224461/README.md"
+    },
     {
       "id": "HideNavBar",
       "last_update": 1628321614000,
@@ -22,13 +29,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@0513d56413848892df12819dea8cf5d8b44c8059/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/0513d56413848892df12819dea8cf5d8b44c8059.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@0513d56413848892df12819dea8cf5d8b44c8059/README.md"
-    },
-    {
-      "id": "djs",
-      "last_update": 1627903530000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@3d0dbe818741e8452f28e38b8221024252005e85/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/djs/archive/3d0dbe818741e8452f28e38b8221024252005e85.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@3d0dbe818741e8452f28e38b8221024252005e85/README.md"
     },
     {
       "id": "com.piyushgarg.rclone",

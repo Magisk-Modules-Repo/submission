@@ -1,20 +1,20 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1629055067000,
+  "last_update": 1629058230000,
   "modules": [
+    {
+      "id": "active_edge_system_mod",
+      "last_update": 1629058230000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@3ae966a04a13e1cc97480ac1d907f01683033448/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/3ae966a04a13e1cc97480ac1d907f01683033448.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@3ae966a04a13e1cc97480ac1d907f01683033448/README.md"
+    },
     {
       "id": "HideNavBar",
       "last_update": 1629055067000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@0412652ac74667065d883fa9f8cba96c6f4edbdf/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/0412652ac74667065d883fa9f8cba96c6f4edbdf.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@0412652ac74667065d883fa9f8cba96c6f4edbdf/README.md"
-    },
-    {
-      "id": "active_edge_system_mod",
-      "last_update": 1629050827000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@6f65d4f68915ff9a16f33a75789212019858f931/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/6f65d4f68915ff9a16f33a75789212019858f931.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@6f65d4f68915ff9a16f33a75789212019858f931/README.md"
     },
     {
       "id": "riru_lsposed",

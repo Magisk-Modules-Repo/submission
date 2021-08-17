@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1629099012000,
+  "last_update": 1629175776000,
   "modules": [
+    {
+      "id": "com.piyushgarg.rclone",
+      "last_update": 1629175776000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@bd437aef4373f0b98ee603b715bb048da6cfd609/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/archive/bd437aef4373f0b98ee603b715bb048da6cfd609.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@bd437aef4373f0b98ee603b715bb048da6cfd609/README.md"
+    },
     {
       "id": "riru-core",
       "last_update": 1629099012000,
@@ -57,13 +64,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@0513d56413848892df12819dea8cf5d8b44c8059/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/0513d56413848892df12819dea8cf5d8b44c8059.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@0513d56413848892df12819dea8cf5d8b44c8059/README.md"
-    },
-    {
-      "id": "com.piyushgarg.rclone",
-      "last_update": 1627743201000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@912f4e77131274d25663a811a9f838f7a0348229/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/archive/912f4e77131274d25663a811a9f838f7a0348229.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@912f4e77131274d25663a811a9f838f7a0348229/README.md"
     },
     {
       "id": "BluetoothLibraryPatcher",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1629305500000,
+  "last_update": 1629308490000,
   "modules": [
+    {
+      "id": "fontrevival",
+      "last_update": 1629308490000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@7bbec3c25edbe83e3e0f4860d080d75a34619a7b/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/7bbec3c25edbe83e3e0f4860d080d75a34619a7b.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@7bbec3c25edbe83e3e0f4860d080d75a34619a7b/README.md"
+    },
     {
       "id": "bromitewebview",
       "last_update": 1629305500000,
@@ -120,13 +127,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@fa62e2a0f756f8e5b09d85bba9e83def50c3db13/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/fa62e2a0f756f8e5b09d85bba9e83def50c3db13.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@fa62e2a0f756f8e5b09d85bba9e83def50c3db13/README.md"
-    },
-    {
-      "id": "fontrevival",
-      "last_update": 1625223249000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@f1a633c0d9ebfe50a35046a5dbbf7a43cea4fcc2/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/f1a633c0d9ebfe50a35046a5dbbf7a43cea4fcc2.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@f1a633c0d9ebfe50a35046a5dbbf7a43cea4fcc2/README.md"
     },
     {
       "id": "callrecorder-skvalex",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1629296363000,
+  "last_update": 1629305500000,
   "modules": [
+    {
+      "id": "bromitewebview",
+      "last_update": 1629305500000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@463568c3b4d7df94bf82c18a338d31b8074c1a3f/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/463568c3b4d7df94bf82c18a338d31b8074c1a3f.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@463568c3b4d7df94bf82c18a338d31b8074c1a3f/README.md"
+    },
     {
       "id": "BluetoothLibraryPatcher",
       "last_update": 1629296363000,
@@ -134,13 +141,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@5703dbc85aec07fca3ed4f7f9ec324d7e63fa13e/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/OneController/archive/5703dbc85aec07fca3ed4f7f9ec324d7e63fa13e.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@5703dbc85aec07fca3ed4f7f9ec324d7e63fa13e/README.md"
-    },
-    {
-      "id": "bromitewebview",
-      "last_update": 1623899411000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@60f9dd36fff7b08b1520358f4014fdc32f308d61/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/60f9dd36fff7b08b1520358f4014fdc32f308d61.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@60f9dd36fff7b08b1520358f4014fdc32f308d61/README.md"
     },
     {
       "id": "nano-ndk",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1629349678000,
+  "last_update": 1629362512000,
   "modules": [
+    {
+      "id": "terminalmods",
+      "last_update": 1629362512000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminalmods@fcd0c770c0e9cf383aefa24bece47bd3acf6a6d3/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/terminalmods/archive/fcd0c770c0e9cf383aefa24bece47bd3acf6a6d3.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminalmods@fcd0c770c0e9cf383aefa24bece47bd3acf6a6d3/README.md"
+    },
     {
       "id": "bromitewebview",
       "last_update": 1629349678000,
@@ -351,13 +358,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@05623efc7a44ec33044694e6ac772eb80c9ed24f/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler/archive/05623efc7a44ec33044694e6ac772eb80c9ed24f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@05623efc7a44ec33044694e6ac772eb80c9ed24f/README.md"
-    },
-    {
-      "id": "terminalmods",
-      "last_update": 1608213468000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminalmods@8275b010fabbe769903470876ec175ecbaae9666/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/terminalmods/archive/8275b010fabbe769903470876ec175ecbaae9666.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminalmods@8275b010fabbe769903470876ec175ecbaae9666/README.md"
     },
     {
       "id": "acp",

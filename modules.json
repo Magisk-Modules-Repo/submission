@@ -1,20 +1,20 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1629342953000,
+  "last_update": 1629343717000,
   "modules": [
+    {
+      "id": "fontrevival",
+      "last_update": 1629343717000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@3254db83ba7c5f7f526e201d013232b0a20cc318/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/3254db83ba7c5f7f526e201d013232b0a20cc318.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@3254db83ba7c5f7f526e201d013232b0a20cc318/README.md"
+    },
     {
       "id": "bromitewebview",
       "last_update": 1629342953000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@e511755dd008480a046add0fe9d87498351fcd5c/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/e511755dd008480a046add0fe9d87498351fcd5c.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@e511755dd008480a046add0fe9d87498351fcd5c/README.md"
-    },
-    {
-      "id": "fontrevival",
-      "last_update": 1629341804000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@4358bf244ce63be569dbea12f74c54e370a7f0ed/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/4358bf244ce63be569dbea12f74c54e370a7f0ed.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@4358bf244ce63be569dbea12f74c54e370a7f0ed/README.md"
     },
     {
       "id": "BluetoothLibraryPatcher",

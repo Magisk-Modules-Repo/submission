@@ -1,20 +1,20 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1629509006000,
+  "last_update": 1629522664000,
   "modules": [
+    {
+      "id": "fontrevival",
+      "last_update": 1629522664000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@e78ff94aea9de99d4e654ecb627d2062dd84df17/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/e78ff94aea9de99d4e654ecb627d2062dd84df17.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@e78ff94aea9de99d4e654ecb627d2062dd84df17/README.md"
+    },
     {
       "id": "magisk-frida",
       "last_update": 1629509006000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@498d617770783cc9df24f5d948fda2348dc4ba8c/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/498d617770783cc9df24f5d948fda2348dc4ba8c.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@498d617770783cc9df24f5d948fda2348dc4ba8c/README.md"
-    },
-    {
-      "id": "fontrevival",
-      "last_update": 1629432708000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@008c0a3d97fb7d17cc843fc4f2da12d93a49728d/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/008c0a3d97fb7d17cc843fc4f2da12d93a49728d.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@008c0a3d97fb7d17cc843fc4f2da12d93a49728d/README.md"
     },
     {
       "id": "bromitewebview",

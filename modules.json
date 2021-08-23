@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1629571862000,
+  "last_update": 1629743386000,
   "modules": [
+    {
+      "id": "djs",
+      "last_update": 1629743386000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@c95d67a449f17f79859bc32d8903a31139cb3c80/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/djs/archive/c95d67a449f17f79859bc32d8903a31139cb3c80.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@c95d67a449f17f79859bc32d8903a31139cb3c80/README.md"
+    },
     {
       "id": "fontrevival",
       "last_update": 1629571862000,
@@ -85,13 +92,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@3ae966a04a13e1cc97480ac1d907f01683033448/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/3ae966a04a13e1cc97480ac1d907f01683033448.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@3ae966a04a13e1cc97480ac1d907f01683033448/README.md"
-    },
-    {
-      "id": "djs",
-      "last_update": 1628532154000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@93138fe9e079a1661e87f8b5b49a9ea1b8224461/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/djs/archive/93138fe9e079a1661e87f8b5b49a9ea1b8224461.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@93138fe9e079a1661e87f8b5b49a9ea1b8224461/README.md"
     },
     {
       "id": "acc",

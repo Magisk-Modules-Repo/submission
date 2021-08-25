@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1629819504000,
+  "last_update": 1629894914000,
   "modules": [
+    {
+      "id": "riru-sui",
+      "last_update": 1629894914000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@9238115e4540fb5d3681b75cb686279844fab460/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-sui/archive/9238115e4540fb5d3681b75cb686279844fab460.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@9238115e4540fb5d3681b75cb686279844fab460/README.md"
+    },
     {
       "id": "microg_installer",
       "last_update": 1629819504000,
@@ -267,13 +274,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_location_report_enabler@3bbbd99177fcac2ab7f255086da7550eabe28d71/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/riru_location_report_enabler/archive/3bbbd99177fcac2ab7f255086da7550eabe28d71.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_location_report_enabler@3bbbd99177fcac2ab7f255086da7550eabe28d71/README.md"
-    },
-    {
-      "id": "riru-sui",
-      "last_update": 1616410536000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@ac55f7cb6e7ecbbed7abba61e6477e32a620a06f/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-sui/archive/ac55f7cb6e7ecbbed7abba61e6477e32a620a06f.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@ac55f7cb6e7ecbbed7abba61e6477e32a620a06f/README.md"
     },
     {
       "id": "riru_ifw_enhance",

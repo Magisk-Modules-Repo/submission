@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1629895349000,
+  "last_update": 1629897037000,
   "modules": [
     {
       "id": "riru-sui",
-      "last_update": 1629895349000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@1e24e41691d3693dc878290defc2db22b3ca63aa/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-sui/archive/1e24e41691d3693dc878290defc2db22b3ca63aa.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@1e24e41691d3693dc878290defc2db22b3ca63aa/README.md"
+      "last_update": 1629897037000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@2ecf6bf558977d382f54705a6a289a03083f083f/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-sui/archive/2ecf6bf558977d382f54705a6a289a03083f083f.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@2ecf6bf558977d382f54705a6a289a03083f083f/README.md"
     },
     {
       "id": "microg_installer",

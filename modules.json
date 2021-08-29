@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1630251310000,
+  "last_update": 1630266058000,
   "modules": [
+    {
+      "id": "acc",
+      "last_update": 1630266058000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@f8146e09ee9d20ae17dc7a752d38cd28fd43fed2/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/f8146e09ee9d20ae17dc7a752d38cd28fd43fed2.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@f8146e09ee9d20ae17dc7a752d38cd28fd43fed2/README.md"
+    },
     {
       "id": "HideNavBar",
       "last_update": 1630251310000,
@@ -106,13 +113,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@3ae966a04a13e1cc97480ac1d907f01683033448/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/3ae966a04a13e1cc97480ac1d907f01683033448.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@3ae966a04a13e1cc97480ac1d907f01683033448/README.md"
-    },
-    {
-      "id": "acc",
-      "last_update": 1628104925000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@0513d56413848892df12819dea8cf5d8b44c8059/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/0513d56413848892df12819dea8cf5d8b44c8059.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@0513d56413848892df12819dea8cf5d8b44c8059/README.md"
     },
     {
       "id": "Fdroid-Priv",

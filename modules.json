@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1630209071000,
+  "last_update": 1630249189000,
   "modules": [
+    {
+      "id": "riru_storage_redirect",
+      "last_update": 1630249189000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@36b2aaec11f84782deddcecf6b8e8ebad7192f82/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect/archive/36b2aaec11f84782deddcecf6b8e8ebad7192f82.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@36b2aaec11f84782deddcecf6b8e8ebad7192f82/README.md"
+    },
     {
       "id": "HideNavBar",
       "last_update": 1630209071000,
@@ -113,13 +120,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@525f43756e05982c20446dcbb918ad89dfa1c834/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/archive/525f43756e05982c20446dcbb918ad89dfa1c834.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@525f43756e05982c20446dcbb918ad89dfa1c834/README.md"
-    },
-    {
-      "id": "riru_storage_redirect",
-      "last_update": 1626228669000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@66941b5397276b9f665af2677268ca366d465a50/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect/archive/66941b5397276b9f665af2677268ca366d465a50.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@66941b5397276b9f665af2677268ca366d465a50/README.md"
     },
     {
       "id": "Detach",

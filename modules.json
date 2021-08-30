@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1630299455000,
+  "last_update": 1630301185000,
   "modules": [
     {
       "id": "HideNavBar",
-      "last_update": 1630299455000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@ae3b922cf3502cbcf2ff18a108f28a6ea0902192/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/ae3b922cf3502cbcf2ff18a108f28a6ea0902192.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@ae3b922cf3502cbcf2ff18a108f28a6ea0902192/README.md"
+      "last_update": 1630301185000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@500ecbc20a6dfd7245a2fc8251e4a6e43bf030d5/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/500ecbc20a6dfd7245a2fc8251e4a6e43bf030d5.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@500ecbc20a6dfd7245a2fc8251e4a6e43bf030d5/README.md"
     },
     {
       "id": "acc",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1630419407000,
+  "last_update": 1630556908000,
   "modules": [
+    {
+      "id": "fontrevival",
+      "last_update": 1630556908000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@3e9d3d1a248c30f10aa581ff3698c460c83a2d7a/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/3e9d3d1a248c30f10aa581ff3698c460c83a2d7a.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@3e9d3d1a248c30f10aa581ff3698c460c83a2d7a/README.md"
+    },
     {
       "id": "acc",
       "last_update": 1630419407000,
@@ -57,13 +64,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@cad91e4af556da8590f05aa9f7ab6ecc2652505e/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/cad91e4af556da8590f05aa9f7ab6ecc2652505e.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@cad91e4af556da8590f05aa9f7ab6ecc2652505e/README.md"
-    },
-    {
-      "id": "fontrevival",
-      "last_update": 1629571862000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@88fb7d17cf60ddfd4cdf709517ee5d36f381611b/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/88fb7d17cf60ddfd4cdf709517ee5d36f381611b.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@88fb7d17cf60ddfd4cdf709517ee5d36f381611b/README.md"
     },
     {
       "id": "bromitewebview",

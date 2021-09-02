@@ -10,6 +10,13 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@3e9d3d1a248c30f10aa581ff3698c460c83a2d7a/README.md"
     },
     {
+      "id": "bromitewebview",
+      "last_update": 1630556826000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@ce04afbb9b84a18210bd1aeba343cd53804d7287/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/ce04afbb9b84a18210bd1aeba343cd53804d7287.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@ce04afbb9b84a18210bd1aeba343cd53804d7287/README.md"
+    },
+    {
       "id": "acc",
       "last_update": 1630419407000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@3d08d2005a7317875c05164883a70fec2c344ef0/module.prop",
@@ -64,13 +71,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@cad91e4af556da8590f05aa9f7ab6ecc2652505e/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/cad91e4af556da8590f05aa9f7ab6ecc2652505e.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@cad91e4af556da8590f05aa9f7ab6ecc2652505e/README.md"
-    },
-    {
-      "id": "bromitewebview",
-      "last_update": 1629566721000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@5ac81fc1d0ce0f25d11de7df352fc0c19044a643/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/5ac81fc1d0ce0f25d11de7df352fc0c19044a643.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@5ac81fc1d0ce0f25d11de7df352fc0c19044a643/README.md"
     },
     {
       "id": "MagiskHidePropsConf",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1630556908000,
+  "last_update": 1630684909000,
   "modules": [
+    {
+      "id": "riru_lsposed",
+      "last_update": 1630684909000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@73131b41f08e7fc9e95ab623ab29bb3ad5c23439/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/73131b41f08e7fc9e95ab623ab29bb3ad5c23439.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@73131b41f08e7fc9e95ab623ab29bb3ad5c23439/README.md"
+    },
     {
       "id": "fontrevival",
       "last_update": 1630556908000,
@@ -57,13 +64,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@9a8d2c2182dffacab2ee1e8fa3fab7ca9943a4eb/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/djs/archive/9a8d2c2182dffacab2ee1e8fa3fab7ca9943a4eb.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@9a8d2c2182dffacab2ee1e8fa3fab7ca9943a4eb/README.md"
-    },
-    {
-      "id": "riru_lsposed",
-      "last_update": 1629986075000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@1e873d725ee56197b75db71200ec3a91400b3ec9/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/1e873d725ee56197b75db71200ec3a91400b3ec9.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@1e873d725ee56197b75db71200ec3a91400b3ec9/README.md"
     },
     {
       "id": "microg_installer",

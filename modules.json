@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1630828592000,
+  "last_update": 1630828630000,
   "modules": [
     {
       "id": "com.piyushgarg.rclone",
-      "last_update": 1630828592000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@48d7a4e9773fda7e265ccdfe6a15490ca7583c24/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/archive/48d7a4e9773fda7e265ccdfe6a15490ca7583c24.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@48d7a4e9773fda7e265ccdfe6a15490ca7583c24/README.md"
+      "last_update": 1630828630000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@8485b4fe6f19d8f6cecd746c210713d40a149f29/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/archive/8485b4fe6f19d8f6cecd746c210713d40a149f29.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@8485b4fe6f19d8f6cecd746c210713d40a149f29/README.md"
     },
     {
       "id": "MagiskHidePropsConf",

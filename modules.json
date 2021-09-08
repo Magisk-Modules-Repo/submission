@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1631134528000,
+  "last_update": 1631138964000,
   "modules": [
+    {
+      "id": "ainur_jamesdsp",
+      "last_update": 1631138964000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_jamesdsp@b05aaac6a7d7d1ccd3f38bad1d974d3c75615d8f/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/ainur_jamesdsp/archive/b05aaac6a7d7d1ccd3f38bad1d974d3c75615d8f.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_jamesdsp@b05aaac6a7d7d1ccd3f38bad1d974d3c75615d8f/README.md"
+    },
     {
       "id": "active_edge_system_mod",
       "last_update": 1631134528000,
@@ -190,13 +197,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_clipboard_whitelist@7daa866319a9d4e017deaa56f9f7ff2785a31033/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/riru_clipboard_whitelist/archive/7daa866319a9d4e017deaa56f9f7ff2785a31033.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_clipboard_whitelist@7daa866319a9d4e017deaa56f9f7ff2785a31033/README.md"
-    },
-    {
-      "id": "ainur_jamesdsp",
-      "last_update": 1620999798000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_jamesdsp@be34159ef7e2275a59bcdee443279d322d8a740e/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/ainur_jamesdsp/archive/be34159ef7e2275a59bcdee443279d322d8a740e.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_jamesdsp@be34159ef7e2275a59bcdee443279d322d8a740e/README.md"
     },
     {
       "id": "energizedprotection",

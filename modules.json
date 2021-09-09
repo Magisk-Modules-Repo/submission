@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1631190165000,
+  "last_update": 1631208818000,
   "modules": [
+    {
+      "id": "ccbins",
+      "last_update": 1631208818000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@b7051c0f5e5d0dc2bab5be6571a45c0ddcad4f15/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/ccbins/archive/b7051c0f5e5d0dc2bab5be6571a45c0ddcad4f15.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@b7051c0f5e5d0dc2bab5be6571a45c0ddcad4f15/README.md"
+    },
     {
       "id": "ainur_jamesdsp",
       "last_update": 1631190165000,
@@ -204,13 +211,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/energizedprotection@ffccf253f07902c0f8cd92143b3c81b5debd7af5/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/ffccf253f07902c0f8cd92143b3c81b5debd7af5.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/energizedprotection@ffccf253f07902c0f8cd92143b3c81b5debd7af5/README.md"
-    },
-    {
-      "id": "ccbins",
-      "last_update": 1620669729000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@af8830def3aad3141ce9084c07014fea31b1969a/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/ccbins/archive/af8830def3aad3141ce9084c07014fea31b1969a.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@af8830def3aad3141ce9084c07014fea31b1969a/README.md"
     },
     {
       "id": "busybox-ndk",

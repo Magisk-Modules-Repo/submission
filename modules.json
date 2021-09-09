@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1631214484000,
+  "last_update": 1631214707000,
   "modules": [
+    {
+      "id": "ViPER4AndroidFX",
+      "last_update": 1631214707000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@a37b7e60aa6b2c7a9170cf11ba569fa72041a0b7/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/a37b7e60aa6b2c7a9170cf11ba569fa72041a0b7.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@a37b7e60aa6b2c7a9170cf11ba569fa72041a0b7/README.md"
+    },
     {
       "id": "ainur_narsil",
       "last_update": 1631214484000,
@@ -239,13 +246,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@7d8a521a0237f2af19d01916b853f1d2a427ba1b/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/benchkit/archive/7d8a521a0237f2af19d01916b853f1d2a427ba1b.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@7d8a521a0237f2af19d01916b853f1d2a427ba1b/README.md"
-    },
-    {
-      "id": "ViPER4AndroidFX",
-      "last_update": 1618188111000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@ec6ce312ec9c15a6d5d2229c86d14c9181292142/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/ec6ce312ec9c15a6d5d2229c86d14c9181292142.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@ec6ce312ec9c15a6d5d2229c86d14c9181292142/README.md"
     },
     {
       "id": "quickstepswitcher",

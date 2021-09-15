@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1631726225000,
+  "last_update": 1631726252000,
   "modules": [
     {
       "id": "HideNavBar",
-      "last_update": 1631726225000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@e7d70d9580acaa256599a9e1c803d5dbd2df0437/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/e7d70d9580acaa256599a9e1c803d5dbd2df0437.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@e7d70d9580acaa256599a9e1c803d5dbd2df0437/README.md"
+      "last_update": 1631726252000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@0ba5a5cb2afa49b971580b160c48c41cd09a0088/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/0ba5a5cb2afa49b971580b160c48c41cd09a0088.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@0ba5a5cb2afa49b971580b160c48c41cd09a0088/README.md"
     },
     {
       "id": "BluetoothLibraryPatcher",

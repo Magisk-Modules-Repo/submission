@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1631834014000,
+  "last_update": 1631911359000,
   "modules": [
+    {
+      "id": "ainur_jamesdsp",
+      "last_update": 1631911359000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_jamesdsp@e900315c6ac2d3646bde0c8989dfebabad7bfa9a/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/ainur_jamesdsp/archive/e900315c6ac2d3646bde0c8989dfebabad7bfa9a.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_jamesdsp@e900315c6ac2d3646bde0c8989dfebabad7bfa9a/README.md"
+    },
     {
       "id": "BluetoothLibraryPatcher",
       "last_update": 1631834014000,
@@ -36,13 +43,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@a37b7e60aa6b2c7a9170cf11ba569fa72041a0b7/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/a37b7e60aa6b2c7a9170cf11ba569fa72041a0b7.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@a37b7e60aa6b2c7a9170cf11ba569fa72041a0b7/README.md"
-    },
-    {
-      "id": "ainur_jamesdsp",
-      "last_update": 1631214282000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_jamesdsp@cf3e2e29b6f4564acc122a9eed3f6955a4a17763/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/ainur_jamesdsp/archive/cf3e2e29b6f4564acc122a9eed3f6955a4a17763.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_jamesdsp@cf3e2e29b6f4564acc122a9eed3f6955a4a17763/README.md"
     },
     {
       "id": "ccbins",

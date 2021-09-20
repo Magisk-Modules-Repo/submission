@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1632160304000,
+  "last_update": 1632160424000,
   "modules": [
     {
       "id": "bromitewebview",
-      "last_update": 1632160304000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@3d5bab4b086565580db90e4207c09c8521f42b4e/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/3d5bab4b086565580db90e4207c09c8521f42b4e.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@3d5bab4b086565580db90e4207c09c8521f42b4e/README.md"
+      "last_update": 1632160424000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@368ddba82e5313696801cdc40f92cdc9b3c35b05/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/368ddba82e5313696801cdc40f92cdc9b3c35b05.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@368ddba82e5313696801cdc40f92cdc9b3c35b05/README.md"
     },
     {
       "id": "MagiskHidePropsConf",

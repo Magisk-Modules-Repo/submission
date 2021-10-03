@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1633226186000,
+  "last_update": 1633287965000,
   "modules": [
+    {
+      "id": "airaudio",
+      "last_update": 1633287965000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/airaudio@93450fc497f38c9ea17239a0b1dcb93c639c1017/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/airaudio/archive/93450fc497f38c9ea17239a0b1dcb93c639c1017.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/airaudio@93450fc497f38c9ea17239a0b1dcb93c639c1017/README.md"
+    },
     {
       "id": "busybox-ndk",
       "last_update": 1633226186000,
@@ -344,13 +351,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/dnscrypt-proxy2@d22ee061bd384eef8d2b1450033f2435f25164ca/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/dnscrypt-proxy2/archive/d22ee061bd384eef8d2b1450033f2435f25164ca.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/dnscrypt-proxy2@d22ee061bd384eef8d2b1450033f2435f25164ca/README.md"
-    },
-    {
-      "id": "airaudio",
-      "last_update": 1609872875000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/airaudio@7bfe09931384707314b292bd6b3eb1ac3059bdfc/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/airaudio/archive/7bfe09931384707314b292bd6b3eb1ac3059bdfc.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/airaudio@7bfe09931384707314b292bd6b3eb1ac3059bdfc/README.md"
     },
     {
       "id": "liboemcryptodisabler",

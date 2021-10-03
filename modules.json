@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1633019016000,
+  "last_update": 1633226186000,
   "modules": [
+    {
+      "id": "busybox-ndk",
+      "last_update": 1633226186000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/busybox-ndk@9ce90100293676e2eafd3d560c6fd3311f3c4a9b/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/9ce90100293676e2eafd3d560c6fd3311f3c4a9b.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/busybox-ndk@9ce90100293676e2eafd3d560c6fd3311f3c4a9b/README.md"
+    },
     {
       "id": "riru_lsposed",
       "last_update": 1633019016000,
@@ -225,13 +232,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/energizedprotection@ffccf253f07902c0f8cd92143b3c81b5debd7af5/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/ffccf253f07902c0f8cd92143b3c81b5debd7af5.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/energizedprotection@ffccf253f07902c0f8cd92143b3c81b5debd7af5/README.md"
-    },
-    {
-      "id": "busybox-ndk",
-      "last_update": 1620358415000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/busybox-ndk@4c0ac2005daeac40c0f3d42ad77ac572cdf3491c/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/4c0ac2005daeac40c0f3d42ad77ac572cdf3491c.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/busybox-ndk@4c0ac2005daeac40c0f3d42ad77ac572cdf3491c/README.md"
     },
     {
       "id": "ssh",

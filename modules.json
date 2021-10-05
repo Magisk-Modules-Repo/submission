@@ -24,6 +24,13 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@b1af2ef198ee35a5e155beb202537eda854e0256/README.md"
     },
     {
+      "id": "magisk-frida",
+      "last_update": 1632867566000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@98c674091b89c9c5f9bca1f574d8d1c9dca1c8c5/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/98c674091b89c9c5f9bca1f574d8d1c9dca1c8c5.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@98c674091b89c9c5f9bca1f574d8d1c9dca1c8c5/README.md"
+    },
+    {
       "id": "riru_storage_redirect",
       "last_update": 1632298657000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@4618462fe66f6dc7f3bfac7f78fd954a72b44adc/module.prop",
@@ -50,6 +57,13 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@368ddba82e5313696801cdc40f92cdc9b3c35b05/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/368ddba82e5313696801cdc40f92cdc9b3c35b05.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@368ddba82e5313696801cdc40f92cdc9b3c35b05/README.md"
+    },
+    {
+      "id": "riru-sui",
+      "last_update": 1632141165000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@38753eb2e482fed875440ac328ed32ae5ccb6a3a/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-sui/archive/38753eb2e482fed875440ac328ed32ae5ccb6a3a.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@38753eb2e482fed875440ac328ed32ae5ccb6a3a/README.md"
     },
     {
       "id": "acc",
@@ -115,25 +129,11 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@a0b0d7f4fa96c0f1d87a150c2f5e6576e83f4177/README.md"
     },
     {
-      "id": "riru-core",
-      "last_update": 1630767434000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@ae111b1b2597a448b07ff04595adec7e338ed8ac/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/ae111b1b2597a448b07ff04595adec7e338ed8ac.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@ae111b1b2597a448b07ff04595adec7e338ed8ac/README.md"
-    },
-    {
       "id": "djs",
       "last_update": 1630707304000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@e620084b38fc889989948c6884e3c502d9dd2678/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/djs/archive/e620084b38fc889989948c6884e3c502d9dd2678.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@e620084b38fc889989948c6884e3c502d9dd2678/README.md"
-    },
-    {
-      "id": "microg_installer",
-      "last_update": 1629819504000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@cad91e4af556da8590f05aa9f7ab6ecc2652505e/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/cad91e4af556da8590f05aa9f7ab6ecc2652505e.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@cad91e4af556da8590f05aa9f7ab6ecc2652505e/README.md"
     },
     {
       "id": "terminalmods",
@@ -164,13 +164,6 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@8ffd4bdf4e0d45bc56b5ee4815aa033e179f5eeb/README.md"
     },
     {
-      "id": "zipsigner",
-      "last_update": 1625285262000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@fa62e2a0f756f8e5b09d85bba9e83def50c3db13/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/fa62e2a0f756f8e5b09d85bba9e83def50c3db13.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@fa62e2a0f756f8e5b09d85bba9e83def50c3db13/README.md"
-    },
-    {
       "id": "callrecorder-skvalex",
       "last_update": 1624538156000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/callrecorder-skvalex@406e29db5b26f4154e61a47a98324b70bfbb39ed/module.prop",
@@ -183,13 +176,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@5703dbc85aec07fca3ed4f7f9ec324d7e63fa13e/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/OneController/archive/5703dbc85aec07fca3ed4f7f9ec324d7e63fa13e.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@5703dbc85aec07fca3ed4f7f9ec324d7e63fa13e/README.md"
-    },
-    {
-      "id": "nano-ndk",
-      "last_update": 1623880450000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@7cec9fbf04cac7d7fc1de8424e32062d042703cd/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/7cec9fbf04cac7d7fc1de8424e32062d042703cd.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@7cec9fbf04cac7d7fc1de8424e32062d042703cd/README.md"
     },
     {
       "id": "NFCScreenOff",
@@ -220,25 +206,11 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_clipboard_whitelist@7daa866319a9d4e017deaa56f9f7ff2785a31033/README.md"
     },
     {
-      "id": "energizedprotection",
-      "last_update": 1620902194000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/energizedprotection@ffccf253f07902c0f8cd92143b3c81b5debd7af5/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/ffccf253f07902c0f8cd92143b3c81b5debd7af5.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/energizedprotection@ffccf253f07902c0f8cd92143b3c81b5debd7af5/README.md"
-    },
-    {
       "id": "ssh",
       "last_update": 1619809239000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ssh@ba874b18ce9496a9d85a892bdcdb9ae83253e933/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/ssh/archive/ba874b18ce9496a9d85a892bdcdb9ae83253e933.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ssh@ba874b18ce9496a9d85a892bdcdb9ae83253e933/README.md"
-    },
-    {
-      "id": "benchkit",
-      "last_update": 1618613114000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@7d8a521a0237f2af19d01916b853f1d2a427ba1b/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/benchkit/archive/7d8a521a0237f2af19d01916b853f1d2a427ba1b.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@7d8a521a0237f2af19d01916b853f1d2a427ba1b/README.md"
     },
     {
       "id": "quickstepswitcher",
@@ -253,6 +225,13 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mtd-ndk@1501826700be818685ca46558bb55ff44921d8a2/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/mtd-ndk/archive/1501826700be818685ca46558bb55ff44921d8a2.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mtd-ndk@1501826700be818685ca46558bb55ff44921d8a2/README.md"
+    },
+    {
+      "id": "adreno-dev",
+      "last_update": 1617082734000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adreno-dev@7ee65522e1a70a23786617ff819ea35c7a86cda4/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/adreno-dev/archive/7ee65522e1a70a23786617ff819ea35c7a86cda4.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adreno-dev@7ee65522e1a70a23786617ff819ea35c7a86cda4/README.md"
     },
     {
       "id": "adb-ndk",
@@ -297,13 +276,6 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7a4d2d6a76b52765c9656ae251084628ff13178e/README.md"
     },
     {
-      "id": "Systemless_TZData",
-      "last_update": 1612729412000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Systemless_TZData@a0ef44f4586b9055da16d64d2b8baee25ee8855f/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/Systemless_TZData/archive/a0ef44f4586b9055da16d64d2b8baee25ee8855f.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Systemless_TZData@a0ef44f4586b9055da16d64d2b8baee25ee8855f/README.md"
-    },
-    {
       "id": "gvisualmod",
       "last_update": 1612675127000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@48cf48b1ac4d3e91f76af36d2a31320b45421f3f/module.prop",
@@ -332,6 +304,13 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/dnscrypt-proxy2@d22ee061bd384eef8d2b1450033f2435f25164ca/README.md"
     },
     {
+      "id": "liboemcryptodisabler",
+      "last_update": 1608463908000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@05623efc7a44ec33044694e6ac772eb80c9ed24f/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler/archive/05623efc7a44ec33044694e6ac772eb80c9ed24f.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@05623efc7a44ec33044694e6ac772eb80c9ed24f/README.md"
+    },
+    {
       "id": "acp",
       "last_update": 1605384655000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@62668db80dc228911d8814d209e0d5606f1fb175/module.prop",
@@ -351,6 +330,13 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ExSDCard@db6c552e46158ba70a5784cc56af4be638cabc48/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/ExSDCard/archive/db6c552e46158ba70a5784cc56af4be638cabc48.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ExSDCard@db6c552e46158ba70a5784cc56af4be638cabc48/README.md"
+    },
+    {
+      "id": "GoogleDialerFramework",
+      "last_update": 1602517342000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/GoogleDialerFramework@db0756b7bb470ea9bc03461577d7a69c4565cfd7/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/archive/db0756b7bb470ea9bc03461577d7a69c4565cfd7.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/GoogleDialerFramework@db0756b7bb470ea9bc03461577d7a69c4565cfd7/README.md"
     },
     {
       "id": "v2ray",
@@ -479,13 +465,6 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/tcpdump_static_aarch64@a6e32ad9b59d7cc430d6bb497480e44e9704e173/README.md"
     },
     {
-      "id": "xposed_dalvik",
-      "last_update": 1580548677000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/xposed_dalvik@b15b3442bb33154a7f89767a536920460c0e22d6/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/xposed_dalvik/archive/b15b3442bb33154a7f89767a536920460c0e22d6.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/xposed_dalvik@b15b3442bb33154a7f89767a536920460c0e22d6/README.md"
-    },
-    {
       "id": "sony-device-dummy",
       "last_update": 1579234586000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/sony-device-dummy@5b756f6fec2774695bafe73499b4578d31bae3cc/module.prop",
@@ -598,13 +577,6 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4AndroidXHiFi@8fd7726fc6c8be3d3040542dea86429d1564707c/README.md"
     },
     {
-      "id": "zsh_arm64",
-      "last_update": 1565287472000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zsh_arm64@ffbb5fbf9aa59e6a5c146d960e4e60082d7afb37/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/zsh_arm64/archive/ffbb5fbf9aa59e6a5c146d960e4e60082d7afb37.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zsh_arm64@ffbb5fbf9aa59e6a5c146d960e4e60082d7afb37/README.md"
-    },
-    {
       "id": "KaliNethunter",
       "last_update": 1565052950000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/KaliNethunter@c9248fce11d35fad0faffce0bbd6c86ad87a54ac/module.prop",
@@ -624,6 +596,13 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/AppOpsPlugin@64344cdb707d4df5369e73320a8311fbec67760c/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/AppOpsPlugin/archive/64344cdb707d4df5369e73320a8311fbec67760c.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/AppOpsPlugin@64344cdb707d4df5369e73320a8311fbec67760c/README.md"
+    },
+    {
+      "id": "OneUISounds",
+      "last_update": 1563026586000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneUISounds@35279951c3b02e49b500234ee6ac4b23a9f06a0f/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/OneUISounds/archive/35279951c3b02e49b500234ee6ac4b23a9f06a0f.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneUISounds@35279951c3b02e49b500234ee6ac4b23a9f06a0f/README.md"
     },
     {
       "id": "kfmark",

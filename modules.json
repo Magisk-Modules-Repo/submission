@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1633287965000,
+  "last_update": 1633535823000,
   "modules": [
+    {
+      "id": "nano-ndk",
+      "last_update": 1633535823000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@254ec1703d57b017bc43e9c22a6c8d5b7f55d567/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/254ec1703d57b017bc43e9c22a6c8d5b7f55d567.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@254ec1703d57b017bc43e9c22a6c8d5b7f55d567/README.md"
+    },
     {
       "id": "airaudio",
       "last_update": 1633287965000,
@@ -197,13 +204,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@5703dbc85aec07fca3ed4f7f9ec324d7e63fa13e/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/OneController/archive/5703dbc85aec07fca3ed4f7f9ec324d7e63fa13e.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@5703dbc85aec07fca3ed4f7f9ec324d7e63fa13e/README.md"
-    },
-    {
-      "id": "nano-ndk",
-      "last_update": 1623880450000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@7cec9fbf04cac7d7fc1de8424e32062d042703cd/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/7cec9fbf04cac7d7fc1de8424e32062d042703cd.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@7cec9fbf04cac7d7fc1de8424e32062d042703cd/README.md"
     },
     {
       "id": "NFCScreenOff",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1633643396000,
+  "last_update": 1633868228000,
   "modules": [
+    {
+      "id": "riru-core",
+      "last_update": 1633868228000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@ac1a04b2cb3f19331aeb58b1ae92560036dbdcd8/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/ac1a04b2cb3f19331aeb58b1ae92560036dbdcd8.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@ac1a04b2cb3f19331aeb58b1ae92560036dbdcd8/README.md"
+    },
     {
       "id": "fontrevival",
       "last_update": 1633643396000,
@@ -134,13 +141,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@a0b0d7f4fa96c0f1d87a150c2f5e6576e83f4177/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/archive/a0b0d7f4fa96c0f1d87a150c2f5e6576e83f4177.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@a0b0d7f4fa96c0f1d87a150c2f5e6576e83f4177/README.md"
-    },
-    {
-      "id": "riru-core",
-      "last_update": 1630767434000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@ae111b1b2597a448b07ff04595adec7e338ed8ac/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/ae111b1b2597a448b07ff04595adec7e338ed8ac.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@ae111b1b2597a448b07ff04595adec7e338ed8ac/README.md"
     },
     {
       "id": "djs",

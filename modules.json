@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1634279056000,
+  "last_update": 1634312772000,
   "modules": [
+    {
+      "id": "GoogleDialerFramework",
+      "last_update": 1634312772000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/GoogleDialerFramework@88a3e3507cabcef90e1b3253346b57b208c0840e/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/archive/88a3e3507cabcef90e1b3253346b57b208c0840e.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/GoogleDialerFramework@88a3e3507cabcef90e1b3253346b57b208c0840e/README.md"
+    },
     {
       "id": "active_edge_system_mod",
       "last_update": 1634279056000,
@@ -379,13 +386,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ExSDCard@db6c552e46158ba70a5784cc56af4be638cabc48/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/ExSDCard/archive/db6c552e46158ba70a5784cc56af4be638cabc48.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ExSDCard@db6c552e46158ba70a5784cc56af4be638cabc48/README.md"
-    },
-    {
-      "id": "GoogleDialerFramework",
-      "last_update": 1602517342000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/GoogleDialerFramework@db0756b7bb470ea9bc03461577d7a69c4565cfd7/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/archive/db0756b7bb470ea9bc03461577d7a69c4565cfd7.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/GoogleDialerFramework@db0756b7bb470ea9bc03461577d7a69c4565cfd7/README.md"
     },
     {
       "id": "v2ray",

@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1634920040000,
+  "last_update": 1634920059000,
   "modules": [
     {
       "id": "aospill",
-      "last_update": 1634920040000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/aospill@084bcf4f85cfd1a901ae14557825557fc8e11c80/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/aospill/archive/084bcf4f85cfd1a901ae14557825557fc8e11c80.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/aospill@084bcf4f85cfd1a901ae14557825557fc8e11c80/README.md"
+      "last_update": 1634920059000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/aospill@ad20b83c2040985006958ba435fa1e3e2078ca85/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/aospill/archive/ad20b83c2040985006958ba435fa1e3e2078ca85.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/aospill@ad20b83c2040985006958ba435fa1e3e2078ca85/README.md"
     },
     {
       "id": "GoogleDialerFramework",

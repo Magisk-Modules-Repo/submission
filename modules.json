@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1635144225000,
+  "last_update": 1635184446000,
   "modules": [
+    {
+      "id": "magisk-frida",
+      "last_update": 1635184446000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@4ce010f6f599d7f422613d5242621e49428f00a4/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/4ce010f6f599d7f422613d5242621e49428f00a4.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@4ce010f6f599d7f422613d5242621e49428f00a4/README.md"
+    },
     {
       "id": "MagiskHidePropsConf",
       "last_update": 1635144225000,
@@ -36,13 +43,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/GoogleDialerFramework@4bb8df38d195997a7914840917db861b04ea13dd/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/archive/4bb8df38d195997a7914840917db861b04ea13dd.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/GoogleDialerFramework@4bb8df38d195997a7914840917db861b04ea13dd/README.md"
-    },
-    {
-      "id": "magisk-frida",
-      "last_update": 1634751114000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@54c944d84572c8ce14fc4500d7f93b4865e01e6f/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/54c944d84572c8ce14fc4500d7f93b4865e01e6f.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@54c944d84572c8ce14fc4500d7f93b4865e01e6f/README.md"
     },
     {
       "id": "riru_lsposed",

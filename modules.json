@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1635221232000,
+  "last_update": 1635492551000,
   "modules": [
+    {
+      "id": "MagiskHidePropsConf",
+      "last_update": 1635492551000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@5e02ad1210bfaa21f06cee477cd123faf85e67f6/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/5e02ad1210bfaa21f06cee477cd123faf85e67f6.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@5e02ad1210bfaa21f06cee477cd123faf85e67f6/README.md"
+    },
     {
       "id": "HideNavBar",
       "last_update": 1635221232000,
@@ -15,13 +22,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@c0892369271cb72442dba555978f3c6d080e903e/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/c0892369271cb72442dba555978f3c6d080e903e.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@c0892369271cb72442dba555978f3c6d080e903e/README.md"
-    },
-    {
-      "id": "MagiskHidePropsConf",
-      "last_update": 1635144225000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@fa1ec79ddff4f2df82a3510519987ef77b0fe1cb/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/fa1ec79ddff4f2df82a3510519987ef77b0fe1cb.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@fa1ec79ddff4f2df82a3510519987ef77b0fe1cb/README.md"
     },
     {
       "id": "fontrevival",

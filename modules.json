@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1635597762000,
+  "last_update": 1635615246000,
   "modules": [
+    {
+      "id": "djs",
+      "last_update": 1635615246000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@84956ba4b5d6877ccd3fc9beeca6b1b9be166fe3/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/djs/archive/84956ba4b5d6877ccd3fc9beeca6b1b9be166fe3.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@84956ba4b5d6877ccd3fc9beeca6b1b9be166fe3/README.md"
+    },
     {
       "id": "quickstepswitcher",
       "last_update": 1635597762000,
@@ -176,13 +183,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@a0b0d7f4fa96c0f1d87a150c2f5e6576e83f4177/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/archive/a0b0d7f4fa96c0f1d87a150c2f5e6576e83f4177.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@a0b0d7f4fa96c0f1d87a150c2f5e6576e83f4177/README.md"
-    },
-    {
-      "id": "djs",
-      "last_update": 1630707304000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@e620084b38fc889989948c6884e3c502d9dd2678/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/djs/archive/e620084b38fc889989948c6884e3c502d9dd2678.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@e620084b38fc889989948c6884e3c502d9dd2678/README.md"
     },
     {
       "id": "terminalmods",

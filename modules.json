@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1635503401000,
+  "last_update": 1635597426000,
   "modules": [
+    {
+      "id": "quickstepswitcher",
+      "last_update": 1635597426000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@079b6f5a3d78785aa2fafd53dac6c6d7cc5680cf/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/quickstepswitcher/archive/079b6f5a3d78785aa2fafd53dac6c6d7cc5680cf.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@079b6f5a3d78785aa2fafd53dac6c6d7cc5680cf/README.md"
+    },
     {
       "id": "wifi5ghzdisabler",
       "last_update": 1635503401000,
@@ -274,13 +281,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@7d8a521a0237f2af19d01916b853f1d2a427ba1b/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/benchkit/archive/7d8a521a0237f2af19d01916b853f1d2a427ba1b.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@7d8a521a0237f2af19d01916b853f1d2a427ba1b/README.md"
-    },
-    {
-      "id": "quickstepswitcher",
-      "last_update": 1617177330000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@e1ce972771bb3e554927401e3221b8b7dca07cb0/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/quickstepswitcher/archive/e1ce972771bb3e554927401e3221b8b7dca07cb0.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@e1ce972771bb3e554927401e3221b8b7dca07cb0/README.md"
     },
     {
       "id": "mtd-ndk",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1635797191000,
+  "last_update": 1635797214000,
   "modules": [
+    {
+      "id": "zipsigner",
+      "last_update": 1635797214000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@ca66ad3c46dc02d62642a759ae9b6934be4acc28/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/ca66ad3c46dc02d62642a759ae9b6934be4acc28.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@ca66ad3c46dc02d62642a759ae9b6934be4acc28/README.md"
+    },
     {
       "id": "nexusmedia",
       "last_update": 1635797191000,
@@ -218,13 +225,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@2902932f88011ff01201961216a57590b2898886/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/2902932f88011ff01201961216a57590b2898886.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@2902932f88011ff01201961216a57590b2898886/README.md"
-    },
-    {
-      "id": "zipsigner",
-      "last_update": 1625285262000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@fa62e2a0f756f8e5b09d85bba9e83def50c3db13/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/fa62e2a0f756f8e5b09d85bba9e83def50c3db13.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@fa62e2a0f756f8e5b09d85bba9e83def50c3db13/README.md"
     },
     {
       "id": "callrecorder-skvalex",

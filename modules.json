@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1635797291000,
+  "last_update": 1635797312000,
   "modules": [
+    {
+      "id": "busybox-ndk",
+      "last_update": 1635797312000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/busybox-ndk@a7ce6008690caa065f0d81ae3217e7bf0e218b6e/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/a7ce6008690caa065f0d81ae3217e7bf0e218b6e.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/busybox-ndk@a7ce6008690caa065f0d81ae3217e7bf0e218b6e/README.md"
+    },
     {
       "id": "twrp-keep",
       "last_update": 1635797291000,
@@ -155,13 +162,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/airaudio@93450fc497f38c9ea17239a0b1dcb93c639c1017/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/airaudio/archive/93450fc497f38c9ea17239a0b1dcb93c639c1017.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/airaudio@93450fc497f38c9ea17239a0b1dcb93c639c1017/README.md"
-    },
-    {
-      "id": "busybox-ndk",
-      "last_update": 1633226186000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/busybox-ndk@9ce90100293676e2eafd3d560c6fd3311f3c4a9b/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/9ce90100293676e2eafd3d560c6fd3311f3c4a9b.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/busybox-ndk@9ce90100293676e2eafd3d560c6fd3311f3c4a9b/README.md"
     },
     {
       "id": "riru_storage_redirect",

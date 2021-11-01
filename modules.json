@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1635797265000,
+  "last_update": 1635797291000,
   "modules": [
+    {
+      "id": "twrp-keep",
+      "last_update": 1635797291000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@bf54ef57cca53908969a41089676693b302968da/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/bf54ef57cca53908969a41089676693b302968da.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@bf54ef57cca53908969a41089676693b302968da/README.md"
+    },
     {
       "id": "adreno-dev",
       "last_update": 1635797265000,
@@ -253,13 +260,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@ca5c0bb3adcdee3b642387338d26e7e6e6819fa8/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/archive/ca5c0bb3adcdee3b642387338d26e7e6e6819fa8.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@ca5c0bb3adcdee3b642387338d26e7e6e6819fa8/README.md"
-    },
-    {
-      "id": "twrp-keep",
-      "last_update": 1622432190000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@ea511193ecb8e32fab835068f9c0b365ee3d2f58/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/ea511193ecb8e32fab835068f9c0b365ee3d2f58.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@ea511193ecb8e32fab835068f9c0b365ee3d2f58/README.md"
     },
     {
       "id": "miui-10-sounds",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1635797159000,
+  "last_update": 1635797191000,
   "modules": [
+    {
+      "id": "nexusmedia",
+      "last_update": 1635797191000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@1070b5b6cb88af84f1e8a24e4708fd305e973997/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/nexusmedia/archive/1070b5b6cb88af84f1e8a24e4708fd305e973997.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@1070b5b6cb88af84f1e8a24e4708fd305e973997/README.md"
+    },
     {
       "id": "mtd-ndk",
       "last_update": 1635797159000,
@@ -211,13 +218,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@2902932f88011ff01201961216a57590b2898886/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/2902932f88011ff01201961216a57590b2898886.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@2902932f88011ff01201961216a57590b2898886/README.md"
-    },
-    {
-      "id": "nexusmedia",
-      "last_update": 1625467402000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@8ffd4bdf4e0d45bc56b5ee4815aa033e179f5eeb/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/nexusmedia/archive/8ffd4bdf4e0d45bc56b5ee4815aa033e179f5eeb.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@8ffd4bdf4e0d45bc56b5ee4815aa033e179f5eeb/README.md"
     },
     {
       "id": "zipsigner",

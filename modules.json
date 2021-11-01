@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1635615650000,
+  "last_update": 1635797159000,
   "modules": [
+    {
+      "id": "mtd-ndk",
+      "last_update": 1635797159000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mtd-ndk@709c3d5cebc84715ddc5c460b16926ac978d6013/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/mtd-ndk/archive/709c3d5cebc84715ddc5c460b16926ac978d6013.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mtd-ndk@709c3d5cebc84715ddc5c460b16926ac978d6013/README.md"
+    },
     {
       "id": "acc",
       "last_update": 1635615650000,
@@ -281,13 +288,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@7d8a521a0237f2af19d01916b853f1d2a427ba1b/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/benchkit/archive/7d8a521a0237f2af19d01916b853f1d2a427ba1b.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@7d8a521a0237f2af19d01916b853f1d2a427ba1b/README.md"
-    },
-    {
-      "id": "mtd-ndk",
-      "last_update": 1617082746000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mtd-ndk@1501826700be818685ca46558bb55ff44921d8a2/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/mtd-ndk/archive/1501826700be818685ca46558bb55ff44921d8a2.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mtd-ndk@1501826700be818685ca46558bb55ff44921d8a2/README.md"
     },
     {
       "id": "adreno-dev",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1636580988000,
+  "last_update": 1636679369000,
   "modules": [
+    {
+      "id": "BluetoothLibraryPatcher",
+      "last_update": 1636679369000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@f1a0ee4d650b33cc70646a91f6e500213dbffe8a/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/f1a0ee4d650b33cc70646a91f6e500213dbffe8a.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@f1a0ee4d650b33cc70646a91f6e500213dbffe8a/README.md"
+    },
     {
       "id": "callrecorder-skvalex",
       "last_update": 1636580988000,
@@ -197,13 +204,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_jamesdsp@e900315c6ac2d3646bde0c8989dfebabad7bfa9a/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/ainur_jamesdsp/archive/e900315c6ac2d3646bde0c8989dfebabad7bfa9a.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_jamesdsp@e900315c6ac2d3646bde0c8989dfebabad7bfa9a/README.md"
-    },
-    {
-      "id": "BluetoothLibraryPatcher",
-      "last_update": 1631834014000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@f61c10000f9c2ffba0b37d455edcb0852736debb/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/f61c10000f9c2ffba0b37d455edcb0852736debb.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@f61c10000f9c2ffba0b37d455edcb0852736debb/README.md"
     },
     {
       "id": "ainur_narsil",

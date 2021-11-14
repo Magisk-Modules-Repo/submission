@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1636716558000,
+  "last_update": 1636900181000,
   "modules": [
+    {
+      "id": "HideNavBar",
+      "last_update": 1636900181000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@3e5f9554bc829942d490ec00a5ee36451efba8d6/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/3e5f9554bc829942d490ec00a5ee36451efba8d6.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@3e5f9554bc829942d490ec00a5ee36451efba8d6/README.md"
+    },
     {
       "id": "BluetoothLibraryPatcher",
       "last_update": 1636716558000,
@@ -127,13 +134,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi5ghzdisabler@f8ea8451c7c1c0bf1df4f222eb17ce4e0adf6144/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/wifi5ghzdisabler/archive/f8ea8451c7c1c0bf1df4f222eb17ce4e0adf6144.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi5ghzdisabler@f8ea8451c7c1c0bf1df4f222eb17ce4e0adf6144/README.md"
-    },
-    {
-      "id": "HideNavBar",
-      "last_update": 1635221232000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@3094198db45b1575dccf0de36f13775b5a66356f/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/3094198db45b1575dccf0de36f13775b5a66356f.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@3094198db45b1575dccf0de36f13775b5a66356f/README.md"
     },
     {
       "id": "fontrevival",

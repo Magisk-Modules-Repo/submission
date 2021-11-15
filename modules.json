@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1636949583000,
+  "last_update": 1636949621000,
   "modules": [
     {
       "id": "fontrevival",
-      "last_update": 1636949583000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@528356bfab1a33b969128d3ebd288a21dd8c2b99/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/528356bfab1a33b969128d3ebd288a21dd8c2b99.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@528356bfab1a33b969128d3ebd288a21dd8c2b99/README.md"
+      "last_update": 1636949621000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@dc8529a2ccf18597ca75f8d0b5e1eb065824e333/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/dc8529a2ccf18597ca75f8d0b5e1eb065824e333.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@dc8529a2ccf18597ca75f8d0b5e1eb065824e333/README.md"
     },
     {
       "id": "bromitewebview",

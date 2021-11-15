@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1636905448000,
+  "last_update": 1636945182000,
   "modules": [
+    {
+      "id": "ViPER4AndroidFX",
+      "last_update": 1636945182000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@97683f378da3082790427c70a43c24f6bba47699/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/97683f378da3082790427c70a43c24f6bba47699.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@97683f378da3082790427c70a43c24f6bba47699/README.md"
+    },
     {
       "id": "HideNavBar",
       "last_update": 1636905448000,
@@ -218,13 +225,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_narsil@1980c992deaf81b76f899fa925a02d933a77c948/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/ainur_narsil/archive/1980c992deaf81b76f899fa925a02d933a77c948.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_narsil@1980c992deaf81b76f899fa925a02d933a77c948/README.md"
-    },
-    {
-      "id": "ViPER4AndroidFX",
-      "last_update": 1631214707000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@a37b7e60aa6b2c7a9170cf11ba569fa72041a0b7/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/a37b7e60aa6b2c7a9170cf11ba569fa72041a0b7.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@a37b7e60aa6b2c7a9170cf11ba569fa72041a0b7/README.md"
     },
     {
       "id": "com.piyushgarg.rclone",

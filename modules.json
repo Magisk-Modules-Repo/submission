@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1636949621000,
+  "last_update": 1637106254000,
   "modules": [
+    {
+      "id": "overlayfix",
+      "last_update": 1637106254000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/overlayfix@1bf80851e3e9c540f9ab15e41f864217b3df887d/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/overlayfix/archive/1bf80851e3e9c540f9ab15e41f864217b3df887d.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/overlayfix@1bf80851e3e9c540f9ab15e41f864217b3df887d/README.md"
+    },
     {
       "id": "fontrevival",
       "last_update": 1636949621000,
@@ -421,13 +428,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/aml@a135adc1c713219aa6e2014193e58f663a442105/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/aml/archive/a135adc1c713219aa6e2014193e58f663a442105.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/aml@a135adc1c713219aa6e2014193e58f663a442105/README.md"
-    },
-    {
-      "id": "overlayfix",
-      "last_update": 1599939890000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/overlayfix@34559cdf4d367f389e10c930f0b7b31833f3e396/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/overlayfix/archive/34559cdf4d367f389e10c930f0b7b31833f3e396.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/overlayfix@34559cdf4d367f389e10c930f0b7b31833f3e396/README.md"
     },
     {
       "id": "wifi-bonding",

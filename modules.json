@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1637194433000,
+  "last_update": 1637268612000,
   "modules": [
+    {
+      "id": "twrp-keep",
+      "last_update": 1637268612000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@b9675dacfde8c52d43de4fc97b677a0e729176fe/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/b9675dacfde8c52d43de4fc97b677a0e729176fe.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@b9675dacfde8c52d43de4fc97b677a0e729176fe/README.md"
+    },
     {
       "id": "magisk-frida",
       "last_update": 1637194433000,
@@ -99,13 +106,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/busybox-ndk@a7ce6008690caa065f0d81ae3217e7bf0e218b6e/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/a7ce6008690caa065f0d81ae3217e7bf0e218b6e.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/busybox-ndk@a7ce6008690caa065f0d81ae3217e7bf0e218b6e/README.md"
-    },
-    {
-      "id": "twrp-keep",
-      "last_update": 1635797291000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@bf54ef57cca53908969a41089676693b302968da/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/bf54ef57cca53908969a41089676693b302968da.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@bf54ef57cca53908969a41089676693b302968da/README.md"
     },
     {
       "id": "adreno-dev",

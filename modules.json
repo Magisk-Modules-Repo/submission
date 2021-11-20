@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1637385784000,
+  "last_update": 1637386189000,
   "modules": [
+    {
+      "id": "bromitewebview",
+      "last_update": 1637386189000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@4c9ecb9c9708a9aff3611296f128d5b271394c3a/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/4c9ecb9c9708a9aff3611296f128d5b271394c3a.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@4c9ecb9c9708a9aff3611296f128d5b271394c3a/README.md"
+    },
     {
       "id": "fontrevival",
       "last_update": 1637385784000,
@@ -29,13 +36,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/overlayfix@1bf80851e3e9c540f9ab15e41f864217b3df887d/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/overlayfix/archive/1bf80851e3e9c540f9ab15e41f864217b3df887d.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/overlayfix@1bf80851e3e9c540f9ab15e41f864217b3df887d/README.md"
-    },
-    {
-      "id": "bromitewebview",
-      "last_update": 1636949491000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@f2d5386fa3b27e784289e07626634a38f430358c/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/f2d5386fa3b27e784289e07626634a38f430358c.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@f2d5386fa3b27e784289e07626634a38f430358c/README.md"
     },
     {
       "id": "ViPER4AndroidFX",

@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1637514852000,
+  "last_update": 1637514855000,
   "modules": [
+    {
+      "id": "acp",
+      "last_update": 1637514855000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@6feba5884610703f7b616a936fdcac23f0b7847f/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/acp/archive/6feba5884610703f7b616a936fdcac23f0b7847f.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@6feba5884610703f7b616a936fdcac23f0b7847f/README.md"
+    },
     {
       "id": "ViPER4AndroidFX",
       "last_update": 1637514852000,
@@ -386,13 +393,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@05623efc7a44ec33044694e6ac772eb80c9ed24f/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler/archive/05623efc7a44ec33044694e6ac772eb80c9ed24f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@05623efc7a44ec33044694e6ac772eb80c9ed24f/README.md"
-    },
-    {
-      "id": "acp",
-      "last_update": 1605384655000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@62668db80dc228911d8814d209e0d5606f1fb175/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/acp/archive/62668db80dc228911d8814d209e0d5606f1fb175.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@62668db80dc228911d8814d209e0d5606f1fb175/README.md"
     },
     {
       "id": "wirelessFirmware",

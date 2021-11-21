@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1637514855000,
+  "last_update": 1637515144000,
   "modules": [
     {
       "id": "acp",
-      "last_update": 1637514855000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@6feba5884610703f7b616a936fdcac23f0b7847f/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/acp/archive/6feba5884610703f7b616a936fdcac23f0b7847f.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@6feba5884610703f7b616a936fdcac23f0b7847f/README.md"
+      "last_update": 1637515144000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@8f9b6266cbd7713c822faee69e4bd4b7d4530d78/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/acp/archive/8f9b6266cbd7713c822faee69e4bd4b7d4530d78.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@8f9b6266cbd7713c822faee69e4bd4b7d4530d78/README.md"
     },
     {
       "id": "ViPER4AndroidFX",

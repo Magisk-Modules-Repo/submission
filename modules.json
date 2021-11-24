@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1637714724000,
+  "last_update": 1637769337000,
   "modules": [
+    {
+      "id": "oosbar",
+      "last_update": 1637769337000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/oosbar@e784dfb6bbb454af232be52aedc6b186c12dde14/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/oosbar/archive/e784dfb6bbb454af232be52aedc6b186c12dde14.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/oosbar@e784dfb6bbb454af232be52aedc6b186c12dde14/README.md"
+    },
     {
       "id": "busybox-ndk",
       "last_update": 1637714724000,
@@ -463,13 +470,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/libsecure_storage@cfa87726d4e64e4fd08f089aa107063761ac4cae/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/libsecure_storage/archive/cfa87726d4e64e4fd08f089aa107063761ac4cae.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/libsecure_storage@cfa87726d4e64e4fd08f089aa107063761ac4cae/README.md"
-    },
-    {
-      "id": "oosbar",
-      "last_update": 1588398581000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/oosbar@2da4b2a29de6c05002fb0391421a315e689fe68c/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/oosbar/archive/2da4b2a29de6c05002fb0391421a315e689fe68c.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/oosbar@2da4b2a29de6c05002fb0391421a315e689fe68c/README.md"
     },
     {
       "id": "movecert",

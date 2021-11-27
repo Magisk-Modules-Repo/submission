@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1637769337000,
+  "last_update": 1638011283000,
   "modules": [
+    {
+      "id": "riru_clipboard_whitelist",
+      "last_update": 1638011283000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_clipboard_whitelist@a494d5c5ccc54aea62df08fc638e1dc13d3d79be/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_clipboard_whitelist/archive/a494d5c5ccc54aea62df08fc638e1dc13d3d79be.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_clipboard_whitelist@a494d5c5ccc54aea62df08fc638e1dc13d3d79be/README.md"
+    },
     {
       "id": "oosbar",
       "last_update": 1637769337000,
@@ -295,13 +302,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/miui-10-sounds@2c87f88441ae829c543c5685591933140aaa5b40/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/miui-10-sounds/archive/2c87f88441ae829c543c5685591933140aaa5b40.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/miui-10-sounds@2c87f88441ae829c543c5685591933140aaa5b40/README.md"
-    },
-    {
-      "id": "riru_clipboard_whitelist",
-      "last_update": 1621067846000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_clipboard_whitelist@7daa866319a9d4e017deaa56f9f7ff2785a31033/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_clipboard_whitelist/archive/7daa866319a9d4e017deaa56f9f7ff2785a31033.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_clipboard_whitelist@7daa866319a9d4e017deaa56f9f7ff2785a31033/README.md"
     },
     {
       "id": "energizedprotection",

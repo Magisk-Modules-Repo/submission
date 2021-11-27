@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1638011283000,
+  "last_update": 1638025214000,
   "modules": [
+    {
+      "id": "microg_installer",
+      "last_update": 1638025214000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@f88930c0d04101f202fd658a338168134b897039/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/f88930c0d04101f202fd658a338168134b897039.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@f88930c0d04101f202fd658a338168134b897039/README.md"
+    },
     {
       "id": "riru_clipboard_whitelist",
       "last_update": 1638011283000,
@@ -204,13 +211,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/aospill@817a26f5bb17f8588935ca8cf374c42d66f43fdf/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/aospill/archive/817a26f5bb17f8588935ca8cf374c42d66f43fdf.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/aospill@817a26f5bb17f8588935ca8cf374c42d66f43fdf/README.md"
-    },
-    {
-      "id": "microg_installer",
-      "last_update": 1634807390000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@72c885fb8a5a150dbbd53afd721029552e0cbe0c/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/72c885fb8a5a150dbbd53afd721029552e0cbe0c.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@72c885fb8a5a150dbbd53afd721029552e0cbe0c/README.md"
     },
     {
       "id": "GoogleDialerFramework",

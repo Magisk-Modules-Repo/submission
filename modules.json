@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1638025214000,
+  "last_update": 1638036030000,
   "modules": [
+    {
+      "id": "ccbins",
+      "last_update": 1638036030000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@90952f162cdb380cbf5564715bb7494c3dc2ea46/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/ccbins/archive/90952f162cdb380cbf5564715bb7494c3dc2ea46.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@90952f162cdb380cbf5564715bb7494c3dc2ea46/README.md"
+    },
     {
       "id": "microg_installer",
       "last_update": 1638025214000,
@@ -106,13 +113,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@170f34b7305fedd5c39a3565daac55085bad369f/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/170f34b7305fedd5c39a3565daac55085bad369f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@170f34b7305fedd5c39a3565daac55085bad369f/README.md"
-    },
-    {
-      "id": "ccbins",
-      "last_update": 1636691391000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@f69d6370cddc6d6b9f58d0486900c28f23388c01/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/ccbins/archive/f69d6370cddc6d6b9f58d0486900c28f23388c01.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@f69d6370cddc6d6b9f58d0486900c28f23388c01/README.md"
     },
     {
       "id": "callrecorder-skvalex",

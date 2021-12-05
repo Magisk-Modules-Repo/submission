@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1638036030000,
+  "last_update": 1638705863000,
   "modules": [
+    {
+      "id": "riru_lsposed",
+      "last_update": 1638705863000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@e212149d3a5826c6397c56dab98941c30af81642/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/e212149d3a5826c6397c56dab98941c30af81642.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@e212149d3a5826c6397c56dab98941c30af81642/README.md"
+    },
     {
       "id": "ccbins",
       "last_update": 1638036030000,
@@ -127,13 +134,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@b6f4b20a92908ae6a67d1fd4ab656f61ad197f26/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/b6f4b20a92908ae6a67d1fd4ab656f61ad197f26.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@b6f4b20a92908ae6a67d1fd4ab656f61ad197f26/README.md"
-    },
-    {
-      "id": "riru_lsposed",
-      "last_update": 1636449116000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@94a4bd29b17f4b380ebf27d7268079f4fb32d4b0/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/94a4bd29b17f4b380ebf27d7268079f4fb32d4b0.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@94a4bd29b17f4b380ebf27d7268079f4fb32d4b0/README.md"
     },
     {
       "id": "acc",

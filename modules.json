@@ -24,6 +24,13 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@47d551f35f9b298f5044e7f64e29530f61410190/README.md"
     },
     {
+      "id": "djs",
+      "last_update": 1639485482000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@83e2a7e1ca9bafa6c38e6db84eab656c4525ba41/module.prop",
+      "zip_url": "https://github.com/Magisk-Modules-Repo/djs/archive/83e2a7e1ca9bafa6c38e6db84eab656c4525ba41.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@83e2a7e1ca9bafa6c38e6db84eab656c4525ba41/README.md"
+    },
+    {
       "id": "magisk-frida",
       "last_update": 1639010699000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@6de458daed8ecdc617b00bd14daccb9b22eadff9/module.prop",
@@ -190,13 +197,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mtd-ndk@709c3d5cebc84715ddc5c460b16926ac978d6013/module.prop",
       "zip_url": "https://github.com/Magisk-Modules-Repo/mtd-ndk/archive/709c3d5cebc84715ddc5c460b16926ac978d6013.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mtd-ndk@709c3d5cebc84715ddc5c460b16926ac978d6013/README.md"
-    },
-    {
-      "id": "djs",
-      "last_update": 1635615246000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@84956ba4b5d6877ccd3fc9beeca6b1b9be166fe3/module.prop",
-      "zip_url": "https://github.com/Magisk-Modules-Repo/djs/archive/84956ba4b5d6877ccd3fc9beeca6b1b9be166fe3.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@84956ba4b5d6877ccd3fc9beeca6b1b9be166fe3/README.md"
     },
     {
       "id": "quickstepswitcher",
